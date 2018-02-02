@@ -10,11 +10,13 @@
         1. [Memory Network](#memory-network)
     6. [Knowledge Base Representation / Knowledge Representation Learning](#knowledge-base-representation--knowledge-representation-learning)
     7. [Semantic Related](#semantic-related)
-        1. [Coreference/Anaphora Resolution](#coreferenceanaphora-resolution)
-        2. [Semantic Role Labeling](#semantic-role-labeling)
-        3. [Sequence Labeling](#sequence-labeling)
-        4. [Dependency Parser](#dependency-parser)
-        5. [Punctuation Restoration](#punctuation-restoration)
+        1. [Slides and Introduction](#slides-and-introduction)
+        2. [Coreference/Anaphora Resolution](#coreferenceanaphora-resolution)
+        3. [Semantic Role Labeling](#semantic-role-labeling)
+        4. [Sequence Labeling](#sequence-labeling)
+        5. [Dependency Parser](#dependency-parser)
+        6. [Punctuation Restoration](#punctuation-restoration)
+        7. [Grammatical Error Correction](#grammatical-error-correction)
     8. [Sentiment Analysis / Stance Detection](#sentiment-analysis--stance-detection)
     9. [Multi-Model](#multi-model)
 2. [Deep Learning](#deep-learning)
@@ -31,6 +33,7 @@
 
 
 ## Natural Language Processing
+- **Speech and Language Processing**, [[book]](https://web.stanford.edu/~jurafsky/slp3/).
 
 ### Machine Translation
 - **A Convolutional Encoder Model for Neural Machine Translation**, [[paper]](https://arxiv.org/abs/1611.02344), sources: [[facebookresearch/fairseq]](https://github.com/facebookresearch/fairseq).
@@ -128,6 +131,13 @@
 
 ### Semantic Related
 
+#### Slides and Introduction
+- **Automatic Semantic Role Labeling**, [[slides]](https://nlp.stanford.edu/kristina/papers/SRL-Tutorial-post-HLT-NAACL-06.pdf).
+- **Semantic Role Labeling**, [[doc]](https://web.stanford.edu/~jurafsky/slp3/22.pdf).
+- **Part-of-Speech Tagging**, [[slides]](http://www.computational-logic.org/iccl/master/lectures/summer06/nlp/part-of-speech-tagging.pdf).
+- **Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling**, [[slides]](http://www.lsi.upc.edu/~srlconll/st05/slides/intro.pdf).
+- **Semantic Role Labeling Tutorial**, [[slides]](http://naacl2013.naacl.org/Documents/semantic-role-labeling-part-1-naacl-2013-tutorial.pdf).
+
 #### Coreference/Anaphora Resolution
 - **Deep Reinforcement Learning for Mention-Ranking Coreference Models**, [[paper]](https://arxiv.org/abs/1609.08667), [[blog]](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [[demo]](https://huggingface.co/coref/), sources: [[huggingface/neuralcoref]](https://github.com/huggingface/neuralcoref), [[clarkkev/deep-coref]](https://github.com/clarkkev/deep-coref).
 - **Improving Coreference Resolution by Learning Entity-Level Distributed Representations**, [[paper]](https://cs.stanford.edu/people/kevclark/resources/clark-manning-acl16-improving.pdf), sources: [[clarkkev/deep-coref]](https://github.com/clarkkev/deep-coref).
@@ -136,6 +146,7 @@
 - **Linguistic Knowledge as Memory for Recurrent Neural Networks**, [[paper]](https://arxiv.org/abs/1703.02620).
 
 #### Semantic Role labeling
+- **Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling**, [[paper]](http://www.cs.upc.edu/~srlconll/st05/papers/intro.pdf), [[homepage]](http://www.lsi.upc.edu/~srlconll/), [[homepage]](http://www.lsi.upc.edu/~srlconll/st04/st04.html).
 - **Deep Semantic Role Labeling: What Works and Whats Next**, [[paper]](https://homes.cs.washington.edu/~luheng/files/acl2017_hllz.pdf), sources: [[luheng/deep_srl]](https://github.com/luheng/deep_srl).
 - **End-to-end Learning of Semantic Role Labeling using RNN**, [[paper]](http://www.aclweb.org/anthology/P15-1109), sources: [[sanjaymeena/semantic_role_labeling_deep_learning]](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning).
 - **Neural Semantic Role Labeling with Dependency Path Embeddings**, [[paper]](https://arxiv.org/abs/1605.07515), sources: [[microth/PathLSTM]](https://github.com/microth/PathLSTM).
@@ -162,7 +173,11 @@
 #### Punctuation Restoration
 - **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://www.researchgate.net/publication/307889284_Bidirectional_Recurrent_Neural_Network_with_Attention_Mechanism_for_Punctuation_Restoration), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).
 
+#### Grammatical Error Correction
+- **A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction**, [[paper]](https://arxiv.org/abs/1801.08831), [[nusnlp/mlconvgec2018]](https://github.com/nusnlp/mlconvgec2018).
+
 ### Sentiment Analysis / Stance Detection
+- **Introduction to Sentiment Analysis**, [[slides]](https://lct-master.org/files/MullenSentimentCourseSlides.pdf), [[blog]](https://blog.algorithmia.com/introduction-sentiment-analysis-algorithms/).
 - **OSU Twitter NLP Tools**, [[aritter/twitter_nlp]](https://github.com/aritter/twitter_nlp).
 - **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**, [[paper]](https://arxiv.org/abs/1711.09645), [[data]](https://github.com/EdinburghNLP/spot-data).
 - **Multitask Learning for Fine-Grained Twitter Sentiment Analysis**, [[paper]](https://arxiv.org/abs/1707.03569), sources: [[balikasg/sigir2017]](https://github.com/balikasg/sigir2017).
