@@ -8,6 +8,17 @@
     4. [Embeddings](#embeddings)
     5. [Machine/Reading Comprehension, Question Answering, Natural Language Understanding](#machinereading-comprehension-question-answering-natural-language-understanding)
     6. [Knowledge Base Representation / Knowledge Representation Learning](#knowledge-base-representation--knowledge-representation-learning)
+2. [Deep Learning](#deep-learning)
+    1. [Recurrent Neural Networks](#recurrent-neural-networks)
+    2. [Optimizations](#optimizations)
+    3. [Neural Turing Machines](#neural-turing-machines)
+    4. [Capsules](#capsules)
+    5. [Generative Adversarial Networks](#generative-adversarial-networks)
+    6. [Highway Networks](#highway-networks)
+    7. [Convolutional Networks](#convolutional-networks)
+    8. [Residual Networks](#residual-networks)
+3. [Reinforcement Learning](#reinforcement-learning)
+
 
 ## Natural Language Processing
 
@@ -94,3 +105,62 @@
 - **TransR: Learning Entity and Relation Embeddings for Knowledge Graph Completion**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9571/9523), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - **TransD: Knowledge Graph Embedding via Dynamic Mapping Matrix**, [[paper]](http://www.aclweb.org/anthology/P15-1067), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - **RelNet: End-to-End Modeling of Entities & Relations**, [[paper]](https://arxiv.org/abs/1706.07179), [[homepage]](http://thetb.github.io).
+
+## Deep Learning
+
+### Recurrent Neural Networks
+- **An Empirical Exploration of Recurrent Network Architectures**, [[paper]](http://proceedings.mlr.press/v37/jozefowicz15.pdf).
+- **Empirical Evaluation of Gated Recurrent Neural Network on Sequence Modeling**, [[paper]](https://arxiv.org/abs/1412.3555).
+- **Feed-forward Networks with Attention can Solve Some Long-term Memory Problems**, [[paper]](https://arxiv.org/abs/1512.08756).
+- **Grid Long Short-Term Memory**, [[paper]](https://arxiv.org/abs/1507.01526).
+- **Learning to Forget Continual Prediction with LSTM**, [[paper]](https://pdfs.semanticscholar.org/1154/0131eae85b2e11d53df7f1360eeb6476e7f4.pdf).
+- **Long Short-Term Memory**, [[paper]](http://www.bioinf.jku.at/publications/older/2604.pdf).
+- **LSTM: A Search Space Odyssey**, [[paper]](https://arxiv.org/abs/1503.04069).
+- **Long Short-Term Memory in Recurrent Neural Networks**, [[Gers' Ph.D. Thesis]](https://www.researchgate.net/profile/Felix_Gers/publication/2562741_Long_Short-Term_Memory_in_Recurrent_Neural_Networks/links/5759410a08ae9a9c954e77f5.pdf).
+- **Recurrent Neural Network Regularization**, [[paper]](https://arxiv.org/abs/1409.2329).
+- **Supervised Sequence Labelling with Recurrent Neural Networks**, [[Alex Graves's Ph.D. Thesis]](https://www.cs.toronto.edu/~graves/preprint.pdf).
+- **Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks**, [[paper]](https://arxiv.org/abs/1611.06204).
+
+### Optimizations
+- **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**, [[paper]](https://arxiv.org/abs/1502.01852), [[Kaiming He's homepage]](http://kaiminghe.com), sources: [[nutszebra/prelu_net]](https://github.com/nutszebra/prelu_net).
+- **Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)**, [[paper]](https://arxiv.org/abs/1511.07289).
+- **Self-Normalizing Neural Networks**, [[paper]](https://arxiv.org/abs/1706.02515), sources: [[IsaacChanghau/AmusingPythonCodes/selu_activation_visualization]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/selu_activation_visualization), [[shaohua0116/Activation-Visualization-Histogram]](https://github.com/shaohua0116/Activation-Visualization-Histogram), [[bioinf-jku/SNNs]](https://github.com/bioinf-jku/SNNs), [[IsaacChanghau/AmusingPythonCodes/snns]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/snns).
+- **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**, [[paper]](https://arxiv.org/abs/1502.03167), sources: [[IsaacChanghau/AmusingPythonCodes/batch_normalization]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/batch_normalization), [[tomokishii/mnist_cnn_bn.py]](https://gist.github.com/tomokishii/0ce3bdac1588b5cca9fa5fbdf6e1c412).
+- **Layer Normalization**, [[paper]](https://arxiv.org/abs/1607.06450), sources: [[ryankiros/layer-norm]](https://github.com/ryankiros/layer-norm), [[pbhatia243/tf-layer-norm]](https://github.com/pbhatia243/tf-layer-norm), [[NickShahML/tensorflow_with_latest_papers]](https://github.com/NickShahML/tensorflow_with_latest_papers).
+- **Recurrent Batch Normalization**, [[paper]](https://arxiv.org/abs/1603.09025), sources: [[cooijmanstim/recurrent-batch-normalization]](https://github.com/cooijmanstim/recurrent-batch-normalization), [[jihunchoi/recurrent-batch-normalization-pytorch]](https://github.com/jihunchoi/recurrent-batch-normalization-pytorch).
+- **Dropout: A Simple Way to Prevent Neural Networks from Overfitting**, [[paper]](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf).
+- **Maxout Networks**, [[paper]](https://arxiv.org/pdf/1302.4389.pdf), sources: [[philipperemy/tensorflow-maxout]](https://github.com/philipperemy/tensorflow-maxout).
+- **An overview of gradient descent optimization algorithms**, [[paper]](https://arxiv.org/abs/1609.04747).
+- **Curriculum Learning**, [[paper]](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf).
+- **Incorporating Nesterov Momentum into Adam**, [[paper]](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ).
+- **On Optimization Methods for Deep Learning**, [[paper]](http://ai.stanford.edu/~quocle/LeNgiCoaLahProNg11.pdf), [[homepage]](http://www.andrewng.org/portfolio/on-optimization-methods-for-deep-learning/).
+- **Understanding the difficulty of training deep feedforward neural networks**, [[paper]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf).
+
+### Neural Turing Machines
+- **Neural Turing Machines**, [[paper]](https://arxiv.org/abs/1410.5401), sources: [[carpedm20/NTM-tensorflow]](https://github.com/carpedm20/NTM-tensorflow).
+
+### Capsules
+- **Dynamic Routing Between Capsules**, [[paper]](https://arxiv.org/abs/1710.09829), [[blog]](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/), sources: [[soskek/dynamic_routing_between_capsules]](https://github.com/soskek/dynamic_routing_between_capsules), [[naturomics/CapsNet-Tensorflow]](https://github.com/naturomics/CapsNet-Tensorflow), [[XifengGuo/CapsNet-Keras]](https://github.com/XifengGuo/CapsNet-Keras).
+
+### Generative Adversarial Networks
+- **Generative Adversarial Nets**, [[paper]](https://arxiv.org/abs/1406.2661), sources: [[IsaacChanghau/AmusingPythonCodes/generative_adversarial_nets]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/generative_adversarial_nets), [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
+- **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**, [[paper]](https://arxiv.org/abs/1511.06434), sources: [[Newmu/dcgan_code]](https://github.com/Newmu/dcgan_code).
+
+### Highway Networks
+- **Highway Networks**, [[paper]](https://arxiv.org/abs/1505.00387), sources: [[IsaacChanghau/AmusingPythonCodes/highway_networks]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/highway_networks), [[lucko515/fully-connected-highway-network]](https://github.com/lucko515/fully-connected-highway-network), [[fomorians/highway-cnn]](https://github.com/fomorians/highway-cnn).
+- **Recurrent Highway Networks**, [[paper]](https://arxiv.org/abs/1607.03474), sources: [[IsaacChanghau/AmusingPythonCodes/highway_networks]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/highway_networks), [[julian121266/RecurrentHighwayNetworks]](https://github.com/julian121266/RecurrentHighwayNetworks).
+- **Training Very Deep Networks**, [[paper]](https://arxiv.org/abs/1507.06228), sources: [[trangptm/HighwayNetwork]](https://github.com/trangptm/HighwayNetwork).
+
+### Convolutional Networks
+- **Densely Connected Convolutional Networks**, [[paper]](https://arxiv.org/abs/1608.06993).
+- **Going Deeper with Convolutions**, [[paper]](https://arxiv.org/abs/1409.4842).
+- **ImageNet Classification with Deep Convolutional Neural Networks**, [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
+- **Learning Convolutional Neural Networks for Graphs**, [[paper]](https://arxiv.org/abs/1605.05273).
+- **Very Deep Convolutional Networks for Large-Scale Image Recognition**, [[paper]](https://arxiv.org/abs/1409.1556).
+- **Visualizing and Understanding Convolutional Networks**, [[paper]](https://arxiv.org/abs/1311.2901).
+
+### Residual Networks
+- **Deep Residual Learning for Image Recognition**, [[paper]](https://arxiv.org/abs/1512.03385), sources: [[IsaacChanghau/AmusingPythonCodes/resnet]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/resnet), [[wenxinxu/resnet-in-tensorflow]](https://github.com/wenxinxu/resnet-in-tensorflow).
+- **Residual Networks for Tiny ImageNet**, [[paper]](http://cs231n.stanford.edu/reports/2016/pdfs/411_Report.pdf).
+
+## Reinforcement Learning
