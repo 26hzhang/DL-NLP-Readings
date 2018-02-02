@@ -9,7 +9,14 @@
     5. [Machine/Reading Comprehension, Question Answering, Natural Language Understanding](#machinereading-comprehension-question-answering-natural-language-understanding)
         1. [Memory Network](#memory-network)
     6. [Knowledge Base Representation / Knowledge Representation Learning](#knowledge-base-representation--knowledge-representation-learning)
-    7. [Sentiment Analysis / Stance Detection](#sentiment-analysis--stance-detection)
+    7. [Semantic Related](#semantic-related)
+        1. [Coreference/Anaphora Resolution](#coreferenceanaphora-resolution)
+        2. [Semantic Role Labeling](#semantic-role-labeling)
+        3. [Sequence Labeling](#sequence-labeling)
+        4. [Dependency Parser](#dependency-parser)
+        5. [Punctuation Restoration](#punctuation-restoration)
+    8. [Sentiment Analysis / Stance Detection](#sentiment-analysis--stance-detection)
+    9. [Multi-Model](#multi-model)
 2. [Deep Learning](#deep-learning)
     1. [Recurrent Neural Networks](#recurrent-neural-networks)
     2. [Optimizations](#optimizations)
@@ -51,6 +58,8 @@
 - **Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems**, [[paper]](https://arxiv.org/abs/1508.01745), sources: [[shawnwun/RNNLG]](https://github.com/shawnwun/RNNLG), [[hit-computer/SC-LSTM]](https://github.com/hit-computer/SC-LSTM).
 - **Sequence to Sequence Learning with Neural Networks**, [[paper]](https://arxiv.org/abs/1409.3215), sources: [[farizrahman4u/seq2seq]](https://github.com/farizrahman4u/seq2seq), [[ma2rten/seq2seq]](https://github.com/ma2rten/seq2seq), [[JayParks/tf-seq2seq]](https://github.com/JayParks/tf-seq2seq), [[macournoyer/neuralconvo]](https://github.com/macournoyer/neuralconvo).
 - **Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots**, [[paper]](https://arxiv.org/abs/1612.01627), sources: [[MarkWuNLP/MultiTurnResponseSelection]](https://github.com/MarkWuNLP/MultiTurnResponseSelection), [[krayush07/sequential-match-network]](https://github.com/krayush07/sequential-match-network).
+- **Deep Reinforcement Learning for Dialogue Generation**, [[paper]](https://arxiv.org/abs/1606.01541), sources: [[liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow]](https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow).
+- **On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**, [[paper]](https://arxiv.org/abs/1605.07669).
 
 ### Embeddings
 - **How to Generate a Good Word Embedding?**, [[paper]](https://arxiv.org/abs/1507.05523), [[blog]](http://licstar.net/archives/620), sources: [[licstar/compare]](https://github.com/licstar/compare).
@@ -117,6 +126,42 @@
 - **TransD: Knowledge Graph Embedding via Dynamic Mapping Matrix**, [[paper]](http://www.aclweb.org/anthology/P15-1067), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - **RelNet: End-to-End Modeling of Entities & Relations**, [[paper]](https://arxiv.org/abs/1706.07179), [[homepage]](http://thetb.github.io).
 
+### Semantic Related
+
+#### Coreference/Anaphora Resolution
+- **Deep Reinforcement Learning for Mention-Ranking Coreference Models**, [[paper]](https://arxiv.org/abs/1609.08667), [[blog]](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [[demo]](https://huggingface.co/coref/), sources: [[huggingface/neuralcoref]](https://github.com/huggingface/neuralcoref), [[clarkkev/deep-coref]](https://github.com/clarkkev/deep-coref).
+- **Improving Coreference Resolution by Learning Entity-Level Distributed Representations**, [[paper]](https://cs.stanford.edu/people/kevclark/resources/clark-manning-acl16-improving.pdf), sources: [[clarkkev/deep-coref]](https://github.com/clarkkev/deep-coref).
+- **Issues in Anaphora Resolution**, [[doc]](https://nlp.stanford.edu/courses/cs224n/2003/fp/iqsayed/project_report.pdf).
+- **Joint Entity and Event Coreference Resolution across Documents**, [[paper]](https://aclweb.org/anthology/D/D12/D12-1045.pdf).
+- **Linguistic Knowledge as Memory for Recurrent Neural Networks**, [[paper]](https://arxiv.org/abs/1703.02620).
+
+#### Semantic Role labeling
+- **Deep Semantic Role Labeling: What Works and Whats Next**, [[paper]](https://homes.cs.washington.edu/~luheng/files/acl2017_hllz.pdf), sources: [[luheng/deep_srl]](https://github.com/luheng/deep_srl).
+- **End-to-end Learning of Semantic Role Labeling using RNN**, [[paper]](http://www.aclweb.org/anthology/P15-1109), sources: [[sanjaymeena/semantic_role_labeling_deep_learning]](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning).
+- **Neural Semantic Role Labeling with Dependency Path Embeddings**, [[paper]](https://arxiv.org/abs/1605.07515), sources: [[microth/PathLSTM]](https://github.com/microth/PathLSTM).
+- **Semantic Role Labeling with Neural Network Factors**, [[paper]](http://www.aclweb.org/anthology/D15-1112).
+
+#### Sequence Labeling
+- **Bidirectional LSTM-CRF Models for Sequence Tagging**, [[paper]](https://arxiv.org/abs/1508.01991), [[blog]](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html), sources: [[Hironsan/anago]](https://github.com/Hironsan/anago), [[guillaumegenthial/sequence_tagging]](https://github.com/guillaumegenthial/sequence_tagging).
+- **Boosting Named Entity Recognition with Neural Character Embeddings**, [[paper]](https://arxiv.org/abs/1505.05008), sources: [[isohrab/German-NER]](https://github.com/isohrab/German-NER).
+- **End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF**, [[paper]](https://arxiv.org/abs/1603.01354), sources: [[LopezGG/NN_NER_tensorFlow]](https://github.com/LopezGG/NN_NER_tensorFlow).
+- **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions**, [[paper]](https://arxiv.org/abs/1702.02098), sources: [[iesl/dilated-cnn-ner]](https://github.com/iesl/dilated-cnn-ner).
+- **Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network**, [[paper]](https://nlp.stanford.edu/pubs/tagging.pdf).
+- **Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks**, [[paper]](https://arxiv.org/abs/1703.06345), sources: [[kimiyoung/transfer]](https://github.com/kimiyoung/transfer).
+- **Named Entity Recognition with Bidirectional LSTM-CNNs**, [[paper]](https://www.aclweb.org/anthology/Q16-1026), sources: [[ThanhChinhBK/Ner-BiLSTM-CNNs]](https://github.com/ThanhChinhBK/Ner-BiLSTM-CNNs).
+- **Neural Architectures for Named Entity Recognition**, [[paper]](https://arxiv.org/abs/1603.01360), sources: [[clab/stack-lstm-ner]](https://github.com/clab/stack-lstm-ner), [[glample/tagger]](https://github.com/glample/tagger), [[marekrei/sequence-labeler]](https://github.com/marekrei/sequence-labeler).
+- **Neural Models for Sequence Chunking**, [[paper]](https://arxiv.org/abs/1701.04027).
+- **Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks**, [[paper]](https://arxiv.org/abs/1707.06799), sources: [[UKPLab/emnlp2017-bilstm-cnn-crf]](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf).
+- **Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?**, [[paper]](https://nlp.stanford.edu/pubs/CICLing2011-manning-tagging.pdf).
+- **Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network**, [[paper]](https://arxiv.org/abs/1510.06168).
+- **Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss**, [[paper]](https://arxiv.org/abs/1604.05529), sources: [[bplank/bilstm-aux]](https://github.com/bplank/bilstm-aux).
+
+#### Dependency Parser
+- **A Fast and Accurate Dependency Parser using Neural Networks**, [[paper]](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf), sources: [[akjindal53244/dependency_parsing_tf]](https://github.com/akjindal53244/dependency_parsing_tf), [[ljj314zz/dependency_parsing_tf-master]](https://github.com/ljj314zz/dependency_parsing_tf-master).
+
+#### Punctuation Restoration
+- **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://www.researchgate.net/publication/307889284_Bidirectional_Recurrent_Neural_Network_with_Attention_Mechanism_for_Punctuation_Restoration), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).
+
 ### Sentiment Analysis / Stance Detection
 - **OSU Twitter NLP Tools**, [[aritter/twitter_nlp]](https://github.com/aritter/twitter_nlp).
 - **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**, [[paper]](https://arxiv.org/abs/1711.09645), [[data]](https://github.com/EdinburghNLP/spot-data).
@@ -127,6 +172,11 @@ The SemEval-2016 Stance Dataset]](http://www.saifmohammad.com/WebPages/StanceDat
 - **DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs**, [[paper]](https://arxiv.org/abs/1606.05694).
 - **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/abs/1605.01655).
 - **Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention**, [[paper]](https://arxiv.org/abs/1801.03032).
+
+### Multi-Model
+- **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/abs/1603.06270).
+- **A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks**, [[paper]](https://arxiv.org/abs/1611.01587), [[blog]](https://theneuralperspective.com/2017/03/08/a-joint-many-task-model-growing-a-neural-network-for-multiple-nlp-tasks/), sources: [[rubythonode/joint-many-task-model]](https://github.com/rubythonode/joint-many-task-model).
+- **Natural Language Processing (Almost) from Scratch**, [[paper]](https://arxiv.org/abs/1103.0398), sources: [[attardi/deepnl]](https://github.com/attardi/deepnl).
 
 ## Deep Learning
 
@@ -190,6 +240,4 @@ The SemEval-2016 Stance Dataset]](http://www.saifmohammad.com/WebPages/StanceDat
 - **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**, [[paper]](https://arxiv.org/abs/1609.06647), sources: [[tensorflow/models/im2txt]](https://github.com/tensorflow/models/tree/master/research/im2txt).
 
 ## Reinforcement Learning
-- **Deep Reinforcement Learning for Dialogue Generation**, [[paper]](https://arxiv.org/abs/1606.01541), sources: [[liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow]](https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow).
-- **On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**, [[paper]](https://arxiv.org/abs/1605.07669).
 - **Playing Atari with Deep Reinforcement Learning**, [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [[blog]](https://keon.io/deep-q-learning/), sources: [[kuz/DeepMind-Atari-Deep-Q-Learner]](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner).
