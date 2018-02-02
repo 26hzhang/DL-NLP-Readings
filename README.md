@@ -15,6 +15,7 @@
 - **A Convolutional Encoder Model for Neural Machine Translation**, [[paper]](https://arxiv.org/abs/1611.02344), sources: [[facebookresearch/fairseq]](https://github.com/facebookresearch/fairseq).
 - **Neural Machine Translation by Jointly Learning to Align and Translate**, [[paper]](https://arxiv.org/abs/1409.0473), sources: [[lisa-groundhog/GroundHog]](https://github.com/lisa-groundhog/GroundHog/tree/master/experiments/nmt).
 - **On the properties of neural machine Translation Encoder-Decoder Approaches**, [[paper]](https://arxiv.org/abs/1409.1259).
+- **Context Models for OOV Word Translation in Low-Resource Language**, [[paper]](https://arxiv.org/abs/1801.08660).
 
 ### Text Classification
 - **Bag of Tricks for Efficient Text Classification**, [[paper]](https://arxiv.org/abs/1607.01759), sources: [[facebookresearch/fastText]](https://github.com/facebookresearch/fastText).
@@ -82,6 +83,7 @@
 - **SQuAD 100,000+ Questions for Machine Comprehension of Text**, [[paper]](https://arxiv.org/abs/1606.05250), [[homepage - SQuAD]](https://rajpurkar.github.io/SQuAD-explorer/).
 - **Two-Stage Synthesis Networks for Transfer Learning in Machine**, [[paper]](https://arxiv.org/abs/1706.09789), sources: [[davidgolub/QuestionGeneration]](https://github.com/davidgolub/QuestionGeneration).
 - **World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions**, [[paper]](http://aclweb.org/anthology/D17-1086), [[homepage]](http://dataset.cs.mcgill.ca/downloads/rare_entity_dataset.html).
+- **An Attention-Based Word-Level Interaction Model: Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1801.09893).
 
 ### Knowledge Base Representation / Knowledge Representation Learning
 - **Reasoning With Neural Tensor Networks for Knowledge Base Completion**, [[paper]](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf), sources: [[siddharth-agrawal/Neural-Tensor-Network]](https://github.com/siddharth-agrawal/Neural-Tensor-Network).
