@@ -7,7 +7,9 @@
     3. [Dialogue System](#dialogue-system)
     4. [Embeddings](#embeddings)
     5. [Machine/Reading Comprehension, Question Answering, Natural Language Understanding](#machinereading-comprehension-question-answering-natural-language-understanding)
+        1. [Memory Network](#memory-network)
     6. [Knowledge Base Representation / Knowledge Representation Learning](#knowledge-base-representation--knowledge-representation-learning)
+    7. [Sentiment Analysis / Stance Detection](#sentiment-analysis--stance-detection)
 2. [Deep Learning](#deep-learning)
     1. [Recurrent Neural Networks](#recurrent-neural-networks)
     2. [Optimizations](#optimizations)
@@ -77,6 +79,7 @@
 - **Better Word Representations with Recursive Neural Networks for Morphology**, [[paper]](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf).
 
 ### Machine/Reading Comprehension, Question Answering, Natural Language Understanding
+- **SQuAD 100,000+ Questions for Machine Comprehension of Text**, [[paper]](https://arxiv.org/abs/1606.05250), [[homepage - SQuAD]](https://rajpurkar.github.io/SQuAD-explorer/).
 - **Query-Reduction Networks for Question Answering**, [[paper]](https://arxiv.org/abs/1606.04582), [[blog]](http://uwnlp.github.io/qrn/), sources: [[uwnlp/qrn]](https://github.com/uwnlp/qrn).
 - **Bi-Directional Attention Flow for Machine Comprehension**, [[paper]](https://arxiv.org/abs/1611.01603), [[homepage]](https://allenai.github.io/bi-att-flow/), [[demo]](http://allgood.cs.washington.edu:1995), sources: [[allenai/bi-att-flow]](https://github.com/allenai/bi-att-flow).
 - **Reading Wikipedia to Answer Open-Domain Questions**, [[paper]](https://arxiv.org/abs/1704.00051), sources: [[facebookresearch/DrQA]](https://github.com/facebookresearch/DrQA), [[hitvoice/DrQA]](https://github.com/hitvoice/DrQA).
@@ -92,10 +95,17 @@
 - **Knowledge Representation and Question Answering**, [[Handbook of Knowledge Representation - Chapter 20]](https://pdfs.semanticscholar.org/d0fc/5473d4fa1f9dff0829b0dd8f780220da33c3.pdf).
 - **Question Answering**, [[Speech and Language Processing 2017 - Chapter 28]](https://web.stanford.edu/~jurafsky/slp3/28.pdf).
 - **LSTM-based Deep Learning Models for Non-factoid Answer Selection**, [[paper]](https://arxiv.org/abs/1511.04108), sources: [[Alan-Lee123/answer-selection]](https://github.com/Alan-Lee123/answer-selection), [[tambetm/allenAI]](https://github.com/tambetm/allenAI).
-- **SQuAD 100,000+ Questions for Machine Comprehension of Text**, [[paper]](https://arxiv.org/abs/1606.05250), [[homepage - SQuAD]](https://rajpurkar.github.io/SQuAD-explorer/).
 - **Two-Stage Synthesis Networks for Transfer Learning in Machine**, [[paper]](https://arxiv.org/abs/1706.09789), sources: [[davidgolub/QuestionGeneration]](https://github.com/davidgolub/QuestionGeneration).
 - **World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions**, [[paper]](http://aclweb.org/anthology/D17-1086), [[homepage]](http://dataset.cs.mcgill.ca/downloads/rare_entity_dataset.html).
 - **An Attention-Based Word-Level Interaction Model: Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1801.09893).
+- **Teaching Machines to Read and Comprehend**, [[paper]](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), sources: [[thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend]](https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend).
+
+#### Memory Network
+- **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).
+- **End-To-End Memory Networks**, [[paper]](https://arxiv.org/abs/1503.08895), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN), [[seominjoon/memnn-tensorflow]](https://github.com/seominjoon/memnn-tensorflow), [[domluna/memn2n]](https://github.com/domluna/memn2n), [[carpedm20/MemN2N-tensorflow]](https://github.com/carpedm20/MemN2N-tensorflow).
+- **Dynamic Memory Networks for Visual and Textual Question Answering**, [[paper]](https://arxiv.org/abs/1603.01417), [[blog]](https://yerevann.github.io/2016/02/05/implementing-dynamic-memory-networks/), sources: [[IsaacChanghau/AmusingPythonCodes/dmn]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/dmn), [[therne/dmn-tensorflow]](https://github.com/therne/dmn-tensorflow), [[barronalex/Dynamic-Memory-Networks-in-TensorFlow]](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow), [[ethancaballero/Improved-Dynamic-Memory-Networks-DMN-plus]](https://github.com/ethancaballero/Improved-Dynamic-Memory-Networks-DMN-plus), [[dandelin/Dynamic-memory-networks-plus-Pytorch]](https://github.com/dandelin/Dynamic-memory-networks-plus-Pytorch), [[DeepRNN/visual_question_answering]](https://github.com/DeepRNN/visual_question_answering).
+- **Ask Me Anything: Dynamic Memory Networks for Natural Language Processing**, [[paper]](https://arxiv.org/abs/1506.07285), sources: [[DongjunLee/dmn-tensorflow]](https://github.com/DongjunLee/dmn-tensorflow).
+- **Towards AI-Complete Question Answering: a Set of Prerequisite Toy Tasks**, [[paper]](https://arxiv.org/abs/1502.05698).
 
 ### Knowledge Base Representation / Knowledge Representation Learning
 - **Reasoning With Neural Tensor Networks for Knowledge Base Completion**, [[paper]](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf), sources: [[siddharth-agrawal/Neural-Tensor-Network]](https://github.com/siddharth-agrawal/Neural-Tensor-Network).
@@ -106,6 +116,17 @@
 - **TransR: Learning Entity and Relation Embeddings for Knowledge Graph Completion**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9571/9523), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - **TransD: Knowledge Graph Embedding via Dynamic Mapping Matrix**, [[paper]](http://www.aclweb.org/anthology/P15-1067), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - **RelNet: End-to-End Modeling of Entities & Relations**, [[paper]](https://arxiv.org/abs/1706.07179), [[homepage]](http://thetb.github.io).
+
+### Sentiment Analysis / Stance Detection
+- **OSU Twitter NLP Tools**, [[aritter/twitter_nlp]](https://github.com/aritter/twitter_nlp).
+- **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**, [[paper]](https://arxiv.org/abs/1711.09645), [[data]](https://github.com/EdinburghNLP/spot-data).
+- **Multitask Learning for Fine-Grained Twitter Sentiment Analysis**, [[paper]](https://arxiv.org/abs/1707.03569), sources: [[balikasg/sigir2017]](https://github.com/balikasg/sigir2017).
+- **Detecting Stance in Tweets And Analyzing its Interaction with Sentiment**, [[paper]](http://anthology.aclweb.org/S16-2021), sources: [[vishaalmohan/twitter-stance-detection]](https://github.com/vishaalmohan/twitter-stance-detection).
+- **SemEval-2016 Task 6: Detecting Stance in Tweets**, [[paper]](http://www.aclweb.org/anthology/S16-1003), [[homepage]](http://alt.qcri.org/semeval2016/task6/), [[
+The SemEval-2016 Stance Dataset]](http://www.saifmohammad.com/WebPages/StanceDataset.htm).
+- **DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs**, [[paper]](https://arxiv.org/abs/1606.05694).
+- **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/abs/1605.01655).
+- **Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention**, [[paper]](https://arxiv.org/abs/1801.03032).
 
 ## Deep Learning
 
