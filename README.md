@@ -6,8 +6,8 @@
     2. [Text Classification](#text-classification)
     3. [Dialogue System](#dialogue-system)
     4. [Embeddings](#embeddings)
-    5. [Machine/Reading Comprehension, Question Answering, Natural Language Understanding](#machine/reading-comprehension,-question-answering,-natural-language-understanding)
-    6. [Knowledge Base Representation / Knowledge Representation Learning](#knowledge-base-representation/knowledge-representation-learning)
+    5. [Machine/Reading Comprehension, Question Answering, Natural Language Understanding](#machine-reading-comprehension-question-answering-natural-language-understanding)
+    6. [Knowledge Base Representation / Knowledge Representation Learning](#knowledge-base-representation-knowledge-representation-learning)
 
 ## Natural Language Processing
 
