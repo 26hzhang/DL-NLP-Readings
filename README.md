@@ -17,6 +17,7 @@
     6. [Highway Networks](#highway-networks)
     7. [Convolutional Networks](#convolutional-networks)
     8. [Residual Networks](#residual-networks)
+    9. [Multi-Model](#multi-model)
 3. [Reinforcement Learning](#reinforcement-learning)
 
 
@@ -163,4 +164,11 @@
 - **Deep Residual Learning for Image Recognition**, [[paper]](https://arxiv.org/abs/1512.03385), sources: [[IsaacChanghau/AmusingPythonCodes/resnet]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/resnet), [[wenxinxu/resnet-in-tensorflow]](https://github.com/wenxinxu/resnet-in-tensorflow).
 - **Residual Networks for Tiny ImageNet**, [[paper]](http://cs231n.stanford.edu/reports/2016/pdfs/411_Report.pdf).
 
+### Multi-Model
+- **One Model To Learn Them All**, [[paper]](https://arxiv.org/abs/1706.05137), [[blog]](https://blog.acolyer.org/2018/01/12/one-model-to-learn-them-all/).
+- **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**, [[paper]](https://arxiv.org/abs/1609.06647), sources: [[tensorflow/models/im2txt]](https://github.com/tensorflow/models/tree/master/research/im2txt).
+
 ## Reinforcement Learning
+- **Deep Reinforcement Learning for Dialogue Generation**, [[paper]](https://arxiv.org/abs/1606.01541), sources: [[liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow]](https://github.com/liuyuemaicha/Deep-Reinforcement-Learning-for-Dialogue-Generation-in-tensorflow).
+- **On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**, [[paper]](https://arxiv.org/abs/1605.07669).
+- **Playing Atari with Deep Reinforcement Learning**, [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [[blog]](https://keon.io/deep-q-learning/), sources: [[kuz/DeepMind-Atari-Deep-Q-Learner]](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner).
