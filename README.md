@@ -1,13 +1,13 @@
 # My Reading Lists of Deep Learning and Natural Language Processing
 
 ## Table of Contents
-- [Natural Language Processing](#natural-language-processing)
- - [Machine Translation](#machine-translation)
- - [Text Classification](#text-classification)
- - [Dialogue System](#dialogue-system)
- - [Embeddings](#embeddings)
- - [Machine/Reading Comprehension, Question Answering, Natural Language Understanding](#machine/reading-comprehension,-question-answering,-natural-language-understanding)
- - [Knowledge Base Representation / Knowledge Representation Learning](#knowledge-base-representation/knowledge-representation-learning)
+1. [Natural Language Processing](#natural-language-processing)
+    1. [Machine Translation](#machine-translation)
+    2. [Text Classification](#text-classification)
+    3. [Dialogue System](#dialogue-system)
+    4. [Embeddings](#embeddings)
+    5. [Machine/Reading Comprehension, Question Answering, Natural Language Understanding](#machine/reading-comprehension,-question-answering,-natural-language-understanding)
+    6. [Knowledge Base Representation / Knowledge Representation Learning](#knowledge-base-representation/knowledge-representation-learning)
 
 ## Natural Language Processing
 
