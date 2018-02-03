@@ -19,7 +19,9 @@
         7. [Grammatical Error Correction](#grammatical-error-correction)
     8. [Sentiment Analysis / Stance Detection](#sentiment-analysis--stance-detection)
     9. [Multi-Model](#multi-model)
-2. [Deep Learning](#deep-learning)
+2. [Commonsense](#commonsense)
+    1. [Script Knowledge](#script-knowledge)
+3. [Deep Learning](#deep-learning)
     1. [Recurrent Neural Networks](#recurrent-neural-networks)
     2. [Optimizations](#optimizations)
     3. [Neural Turing Machines](#neural-turing-machines)
@@ -29,8 +31,7 @@
     7. [Convolutional Networks](#convolutional-networks)
     8. [Residual Networks](#residual-networks)
     9. [Multi-Model](#multi-model)
-3. [Reinforcement Learning](#reinforcement-learning)
-
+4. [Reinforcement Learning](#reinforcement-learning)
 
 ## Natural Language Processing
 - **Speech and Language Processing**, [[book]](https://web.stanford.edu/~jurafsky/slp3/).
@@ -192,6 +193,23 @@ The SemEval-2016 Stance Dataset]](http://www.saifmohammad.com/WebPages/StanceDat
 - **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/abs/1603.06270).
 - **A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks**, [[paper]](https://arxiv.org/abs/1611.01587), [[blog]](https://theneuralperspective.com/2017/03/08/a-joint-many-task-model-growing-a-neural-network-for-multiple-nlp-tasks/), sources: [[rubythonode/joint-many-task-model]](https://github.com/rubythonode/joint-many-task-model).
 - **Natural Language Processing (Almost) from Scratch**, [[paper]](https://arxiv.org/abs/1103.0398), sources: [[attardi/deepnl]](https://github.com/attardi/deepnl).
+
+## Commonsense
+- **ConceptNet 5.5: An Open Multilingual Graph of General Knowledge**, [[paper]](https://arxiv.org/abs/1612.03975), sources: [[GitHub page]](https://github.com/commonsense), [[commonsense/conceptnet5]](https://github.com/commonsense/conceptnet5), [[commonsense/conceptnet-numberbatch]](https://github.com/commonsense/conceptnet-numberbatch).
+- **Representing General Relational Knowledge in ConceptNet 5**, [[paper]](http://lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf).
+- **Commonsense based Topic Modeling**, [[paper]](http://sentic.net/wisdom2013rajagopal.pdf).
+- **Combining ConceptNet and WordNet for Word Sense Disambiguation**, [[paper]](http://www.aclweb.org/anthology/I11-1077).
+- **More Accurate Question Answering on Freebase**, [[paper]](http://ad-publications.informatik.uni-freiburg.de/freebase-qa.pdf).
+- **Commonsense for Machine Intelligence: Text to Knowledge and Knowledge to Text**, [[slides]](http://people.mpi-inf.mpg.de/~ntandon/presentations/cikm-2017-tutorial-commonsense/commonsense.pdf), [[CIKM 2017 Singapore Tutorials]](http://cikm2017.org/tutorialmain.html), [[Commonsense for Machine Intelligence, Allen Institute, CIKM 2017 TUTORIAL]](http://allenai.org/tutorials/csk/), [[Allen Institute]](http://allenai.org/index.html).
+
+### Script Knowledge
+- **DeScript: A Crowdsourced Corpus for the Acquisition of High-Quality Script Knowledge**, [[paper]](http://www.lrec-conf.org/proceedings/lrec2016/pdf/913_Paper.pdf).
+- **Inducing Neural Models of Script Knowledge**, [[paper]](https://aclanthology.coli.uni-saarland.de/pdf/W/W14/W14-1606.pdf).
+- **Inducing Script Structure from Crowdsourced Event Descriptions via Semi-Supervised Clustering**, [[paper]](http://www.coli.uni-saarland.de/~mroth/LSDSem/pdfs/LSDSem01.pdf).
+- **Learning Script Knowledge with Web Experiments**, [[paper]](http://www.aclweb.org/anthology/P10-1100).
+- **Open Mind Common Sense: Knowledge Acquisition from the General Public**, [[paper]](http://web.media.mit.edu/~lieber/Teaching/Common-Sense-Course-02/Open-Mind-AAAI2002.pdf).
+- **Unsupervised Learning of Narrative Event Chains**, [[paper]](https://www.aclweb.org/anthology/P/P08/P08-1090.pdf).
+- **LSDSem 2017: 2nd Workshop on Linking Models of Lexical, Sentential and Discourse-level Semantics**, [[homepage]](http://www.coli.uni-saarland.de/~mroth/LSDSem/), [[doc]](https://pdfs.semanticscholar.org/13da/c5f2d76b630307cc590efb898639c6c21245.pdf?_ga=2.115348101.2032186556.1517662608-872936552.1517662608).
 
 ## Deep Learning
 
