@@ -90,6 +90,7 @@
 - **word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method**, [[paper]](https://arxiv.org/abs/1402.3722).
 - **word2vec Parameter Learning Explained**, [[paper]](https://arxiv.org/abs/1411.2738).
 - **Better Word Representations with Recursive Neural Networks for Morphology**, [[paper]](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf).
+- **Linear Algebraic Structure of Word Senses, with Applications to Polysemy**, [[paper]](https://arxiv.org/abs/1601.03764), sources: [[YingyuLiang/SemanticVector]](https://github.com/YingyuLiang/SemanticVector).
 
 ### Machine/Reading Comprehension, Question Answering, Natural Language Understanding
 - **SQuAD 100,000+ Questions for Machine Comprehension of Text**, [[paper]](https://arxiv.org/abs/1606.05250), [[homepage - SQuAD]](https://rajpurkar.github.io/SQuAD-explorer/).
@@ -112,6 +113,8 @@
 - **World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions**, [[paper]](http://aclweb.org/anthology/D17-1086), [[homepage]](http://dataset.cs.mcgill.ca/downloads/rare_entity_dataset.html).
 - **An Attention-Based Word-Level Interaction Model: Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1801.09893).
 - **Teaching Machines to Read and Comprehend**, [[paper]](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), sources: [[thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend]](https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend).
+- **MaskGAN: Better Text Generation via Filling in the `______`**, [[paper]](https://arxiv.org/abs/1801.07736).
+- **Constructing Datasets for Multi-hop Reading Comprehension Across Documents**, [[paper]](https://arxiv.org/abs/1710.06481).
 
 #### Memory Network
 - **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).
@@ -251,6 +254,7 @@ The SemEval-2016 Stance Dataset]](http://www.saifmohammad.com/WebPages/StanceDat
 ### Generative Adversarial Networks
 - **Generative Adversarial Nets**, [[paper]](https://arxiv.org/abs/1406.2661), sources: [[IsaacChanghau/AmusingPythonCodes/generative_adversarial_nets]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/generative_adversarial_nets), [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
 - **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**, [[paper]](https://arxiv.org/abs/1511.06434), sources: [[Newmu/dcgan_code]](https://github.com/Newmu/dcgan_code).
+- **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**, [[paper]](https://arxiv.org/abs/1609.05473), sources:[[LantaoYu/SeqGAN]](https://github.com/LantaoYu/SeqGAN).
 
 ### Highway Networks
 - **Highway Networks**, [[paper]](https://arxiv.org/abs/1505.00387), sources: [[IsaacChanghau/AmusingPythonCodes/highway_networks]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/highway_networks), [[lucko515/fully-connected-highway-network]](https://github.com/lucko515/fully-connected-highway-network), [[fomorians/highway-cnn]](https://github.com/fomorians/highway-cnn).
