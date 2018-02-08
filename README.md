@@ -175,7 +175,10 @@
 - **A Fast and Accurate Dependency Parser using Neural Networks**, [[paper]](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf), sources: [[akjindal53244/dependency_parsing_tf]](https://github.com/akjindal53244/dependency_parsing_tf), [[ljj314zz/dependency_parsing_tf-master]](https://github.com/ljj314zz/dependency_parsing_tf-master).
 
 #### Punctuation Restoration
-- **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://www.researchgate.net/publication/307889284_Bidirectional_Recurrent_Neural_Network_with_Attention_Mechanism_for_Punctuation_Restoration), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).
+- **Punctuation Prediction for Unsegmented Transcript Based on Word Vector**, [[paper]](http://www.lrec-conf.org/proceedings/lrec2016/pdf/103_Paper.pdf).
+- **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://pdfs.semanticscholar.org/8785/efdad2abc384d38e76a84fb96d19bbe788c1.pdf?_ga=2.156364859.1813940814.1518068648-1853451355.1518068648), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).
+- **Joint Learning of Correlated Sequence Labeling Tasks Using Bidirectional Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1703.04650.pdf).
+- **Sequence-to-Sequence Models for Punctuated Transcription Combing Lexical and Acoustic Features**, [[paper]](http://homepages.inf.ed.ac.uk/s1569734/papers/icassp-2017.pdf), sources: [[choko/acoustic_punctuation]](https://github.com/choko/acoustic_punctuation).
 
 #### Grammatical Error Correction
 - **A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction**, [[paper]](https://arxiv.org/abs/1801.08831), [[nusnlp/mlconvgec2018]](https://github.com/nusnlp/mlconvgec2018).
@@ -186,8 +189,7 @@
 - **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**, [[paper]](https://arxiv.org/abs/1711.09645), [[data]](https://github.com/EdinburghNLP/spot-data).
 - **Multitask Learning for Fine-Grained Twitter Sentiment Analysis**, [[paper]](https://arxiv.org/abs/1707.03569), sources: [[balikasg/sigir2017]](https://github.com/balikasg/sigir2017).
 - **Detecting Stance in Tweets And Analyzing its Interaction with Sentiment**, [[paper]](http://anthology.aclweb.org/S16-2021), sources: [[vishaalmohan/twitter-stance-detection]](https://github.com/vishaalmohan/twitter-stance-detection).
-- **SemEval-2016 Task 6: Detecting Stance in Tweets**, [[paper]](http://www.aclweb.org/anthology/S16-1003), [[homepage]](http://alt.qcri.org/semeval2016/task6/), [[
-The SemEval-2016 Stance Dataset]](http://www.saifmohammad.com/WebPages/StanceDataset.htm).
+- **SemEval-2016 Task 6: Detecting Stance in Tweets**, [[paper]](http://www.aclweb.org/anthology/S16-1003), [[homepage]](http://alt.qcri.org/semeval2016/task6/), [[The SemEval-2016 Stance Dataset]](http://www.saifmohammad.com/WebPages/StanceDataset.htm).
 - **DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs**, [[paper]](https://arxiv.org/abs/1606.05694).
 - **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/abs/1605.01655).
 - **Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention**, [[paper]](https://arxiv.org/abs/1801.03032).
