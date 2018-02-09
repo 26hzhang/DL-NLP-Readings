@@ -115,6 +115,10 @@
 - **Teaching Machines to Read and Comprehend**, [[paper]](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), sources: [[thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend]](https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend).
 - **MaskGAN: Better Text Generation via Filling in the `______`**, [[paper]](https://arxiv.org/abs/1801.07736).
 - **Constructing Datasets for Multi-hop Reading Comprehension Across Documents**, [[paper]](https://arxiv.org/abs/1710.06481).
+- **Deep Learning for Answer Sentence Selection**, [[paper]](https://arxiv.org/pdf/1412.1632.pdf), sources: [[brmson/Sentence-selection]](https://github.com/brmson/Sentence-selection).
+- **Multi-attention Recurrent Network for Human Communication Comprehension**, [[paper]](https://arxiv.org/abs/1802.00923).
+- **FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension**, [[paper]](https://arxiv.org/abs/1711.07341), sources: [[exe1023/FusionNet]](https://github.com/exe1023/FusionNet), [[momohuang/FusionNet-NLI]](https://github.com/momohuang/FusionNet-NLI).
+- **Improved Neural Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1704.06194).
 
 #### Memory Network
 - **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).
@@ -193,6 +197,7 @@
 - **DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs**, [[paper]](https://arxiv.org/abs/1606.05694).
 - **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/abs/1605.01655).
 - **Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention**, [[paper]](https://arxiv.org/abs/1801.03032).
+- **Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning**, [[paper]](https://arxiv.org/abs/1802.00924), 
 
 ### Multi-Model
 - **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/abs/1603.06270).
