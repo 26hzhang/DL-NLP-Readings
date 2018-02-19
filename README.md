@@ -38,9 +38,10 @@
 
 ### Machine Translation
 - **A Convolutional Encoder Model for Neural Machine Translation**, [[paper]](https://arxiv.org/abs/1611.02344), sources: [[facebookresearch/fairseq]](https://github.com/facebookresearch/fairseq).
-- **Neural Machine Translation by Jointly Learning to Align and Translate**, [[paper]](https://arxiv.org/abs/1409.0473), sources: [[lisa-groundhog/GroundHog]](https://github.com/lisa-groundhog/GroundHog/tree/master/experiments/nmt).
+- **Neural Machine Translation by Jointly Learning to Align and Translate**, [[paper]](https://arxiv.org/abs/1409.0473), sources: [[lisa-groundhog/GroundHog]](https://github.com/lisa-groundhog/GroundHog/tree/master/experiments/nmt), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
 - **On the properties of neural machine Translation Encoder-Decoder Approaches**, [[paper]](https://arxiv.org/abs/1409.1259).
 - **Context Models for OOV Word Translation in Low-Resource Language**, [[paper]](https://arxiv.org/abs/1801.08660).
+- **Effective Approaches to Attention-based Neural Machine Translation**, [[paper]](http://aclweb.org/anthology/D15-1166), [[HarvardNLP homepage]](http://nlp.seas.harvard.edu/code/), sources: [[dillonalaird/Attention]](https://github.com/dillonalaird/Attention), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
 
 ### Text Classification
 - **Bag of Tricks for Efficient Text Classification**, [[paper]](https://arxiv.org/abs/1607.01759), sources: [[facebookresearch/fastText]](https://github.com/facebookresearch/fastText).
@@ -120,6 +121,7 @@
 - **Multi-attention Recurrent Network for Human Communication Comprehension**, [[paper]](https://arxiv.org/abs/1802.00923).
 - **FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension**, [[paper]](https://arxiv.org/abs/1711.07341), sources: [[exe1023/FusionNet]](https://github.com/exe1023/FusionNet), [[momohuang/FusionNet-NLI]](https://github.com/momohuang/FusionNet-NLI).
 - **Improved Neural Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1704.06194).
+- **Long Short-Term Memory-Networks for Machine Reading**, [[paper]](https://arxiv.org/pdf/1601.06733.pdf), sources: [[cheng6076/SNLI-attention]](https://github.com/cheng6076/SNLI-attention), [[vsitzmann/snli-attention-tensorflow]](https://github.com/vsitzmann/snli-attention-tensorflow), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
 
 #### Memory Network
 - **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).
@@ -198,7 +200,8 @@
 - **DeepStance at SemEval-2016 Task 6: Detecting Stance in Tweets Using Character and Word-Level CNNs**, [[paper]](https://arxiv.org/abs/1606.05694).
 - **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/abs/1605.01655).
 - **Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention**, [[paper]](https://arxiv.org/abs/1801.03032).
-- **Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning**, [[paper]](https://arxiv.org/abs/1802.00924), 
+- **Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning**, [[paper]](https://arxiv.org/abs/1802.00924).
+- **Attention-based LSTM for Aspect-level Sentiment Classification**, [[paper]](https://aclweb.org/anthology/D16-1058), sources: [[scaufengyang/TD-LSTM]](https://github.com/scaufengyang/TD-LSTM).
 
 ### Multi-Model
 - **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/abs/1603.06270).
