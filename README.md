@@ -122,6 +122,7 @@
 - **FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension**, [[paper]](https://arxiv.org/abs/1711.07341), sources: [[exe1023/FusionNet]](https://github.com/exe1023/FusionNet), [[momohuang/FusionNet-NLI]](https://github.com/momohuang/FusionNet-NLI).
 - **Improved Neural Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1704.06194).
 - **Long Short-Term Memory-Networks for Machine Reading**, [[paper]](https://arxiv.org/pdf/1601.06733.pdf), sources: [[cheng6076/SNLI-attention]](https://github.com/cheng6076/SNLI-attention), [[vsitzmann/snli-attention-tensorflow]](https://github.com/vsitzmann/snli-attention-tensorflow), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
+- **Attention-over-Attention Neural Networks for Reading Comprehension**, [[paper]](https://arxiv.org/abs/1607.04423), sources: [[OlavHN/attention-over-attention]](https://github.com/OlavHN/attention-over-attention), [[marshmelloX/attention-over-attention]](https://github.com/marshmelloX/attention-over-attention).
 
 #### Memory Network
 - **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).
@@ -139,6 +140,7 @@
 - **TransR: Learning Entity and Relation Embeddings for Knowledge Graph Completion**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9571/9523), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - **TransD: Knowledge Graph Embedding via Dynamic Mapping Matrix**, [[paper]](http://www.aclweb.org/anthology/P15-1067), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - **RelNet: End-to-End Modeling of Entities & Relations**, [[paper]](https://arxiv.org/abs/1706.07179), [[homepage]](http://thetb.github.io).
+- **Context-Aware Representations for Knowledge Base Relation Extraction**, [[paper]](http://aclweb.org/anthology/D17-1188), sources: [[UKPLab/emnlp2017-relation-extraction]](https://github.com/UKPLab/emnlp2017-relation-extraction).
 
 ### Semantic Related
 
