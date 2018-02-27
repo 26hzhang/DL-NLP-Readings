@@ -188,6 +188,7 @@
 - **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://pdfs.semanticscholar.org/8785/efdad2abc384d38e76a84fb96d19bbe788c1.pdf?_ga=2.156364859.1813940814.1518068648-1853451355.1518068648), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).
 - **Joint Learning of Correlated Sequence Labeling Tasks Using Bidirectional Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1703.04650.pdf).
 - **Sequence-to-Sequence Models for Punctuated Transcription Combing Lexical and Acoustic Features**, [[paper]](http://homepages.inf.ed.ac.uk/s1569734/papers/icassp-2017.pdf), sources: [[choko/acoustic_punctuation]](https://github.com/choko/acoustic_punctuation).
+- **Attentional Parallel RNNs for Generating Punctuation in Transcribed Speech**, [[paper]](https://repositori.upf.edu/bitstream/handle/10230/33936/oktem_lncs_attentional.pdf?sequence=1&isAllowed=y), [[dataset]](https://repositori.upf.edu/handle/10230/33981), sources: [[alpoktem/punkProse]](https://github.com/alpoktem/punkProse).
 
 #### Grammatical Error Correction
 - **A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction**, [[paper]](https://arxiv.org/abs/1801.08831), [[nusnlp/mlconvgec2018]](https://github.com/nusnlp/mlconvgec2018).
@@ -242,6 +243,7 @@
 - **Supervised Sequence Labelling with Recurrent Neural Networks**, [[Alex Graves's Ph.D. Thesis]](https://www.cs.toronto.edu/~graves/preprint.pdf).
 - **Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks**, [[paper]](https://arxiv.org/abs/1611.06204).
 - **Nested LSTMs**, [[paper]](https://arxiv.org/abs/1801.10308), sources: [[hannw/nlstm]](https://github.com/hannw/nlstm).
+- **Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**, [[paper]](http://www.aclweb.org/anthology/P15-1150), sources: [[stanfordnlp/treelstm]](https://github.com/stanfordnlp/treelstm), [[nicolaspi/treelstm]](https://github.com/nicolaspi/treelstm), [[sapruash/RecursiveNN]](https://github.com/sapruash/RecursiveNN), [[dallascard/TreeLSTM]](https://github.com/dallascard/TreeLSTM).
 
 ### Optimizations
 - **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**, [[paper]](https://arxiv.org/abs/1502.01852), [[Kaiming He's homepage]](http://kaiminghe.com), sources: [[nutszebra/prelu_net]](https://github.com/nutszebra/prelu_net).
