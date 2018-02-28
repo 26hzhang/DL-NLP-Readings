@@ -189,6 +189,8 @@
 - **Joint Learning of Correlated Sequence Labeling Tasks Using Bidirectional Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1703.04650.pdf).
 - **Sequence-to-Sequence Models for Punctuated Transcription Combing Lexical and Acoustic Features**, [[paper]](http://homepages.inf.ed.ac.uk/s1569734/papers/icassp-2017.pdf), sources: [[choko/acoustic_punctuation]](https://github.com/choko/acoustic_punctuation).
 - **Attentional Parallel RNNs for Generating Punctuation in Transcribed Speech**, [[paper]](https://repositori.upf.edu/bitstream/handle/10230/33936/oktem_lncs_attentional.pdf?sequence=1&isAllowed=y), [[dataset]](https://repositori.upf.edu/handle/10230/33981), sources: [[alpoktem/punkProse]](https://github.com/alpoktem/punkProse).
+- **A Deep Neural Network Approach for Sentence Boundary Detection in Broadcast News**, [[paper]](http://www.cs.tut.fi/~huangg/papers/2014_IS/xu2014deep.pdf).
+- **Sentence Segmentation in Narrative Transcripts from Neuropsychological Tests using Recurrent Convolutional Neural Networks**, [[paper]](http://www.aclweb.org/anthology/E17-1030).
 
 #### Grammatical Error Correction
 - **A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction**, [[paper]](https://arxiv.org/abs/1801.08831), [[nusnlp/mlconvgec2018]](https://github.com/nusnlp/mlconvgec2018).
