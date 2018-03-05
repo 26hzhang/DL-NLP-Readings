@@ -50,6 +50,7 @@
 - **Recurrent Convolutional Neural Networks for Text Classification**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745/9552), sources: [[knok/rcnn-text-classification]](https://github.com/knok/rcnn-text-classification), [[airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier]](https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier).
 - **Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean**, [[paper]](https://arxiv.org/abs/1708.02657), sources: [[zhangxiangxiao/glyph]](https://github.com/zhangxiangxiao/glyph).
 - **Densely Connected Bidirectional LSTM with Applications to Sentence Classification**, [[paper]](https://arxiv.org/abs/1802.00889), source: [[IsaacChanghau/Dense_BiLSTM]](https://github.com/IsaacChanghau/Dense_BiLSTM).
+- **Learned in Translation: Contextualized Word Vectors**, [[paper]](https://arxiv.org/pdf/1708.00107.pdf), sources: [[salesforce/cove]](https://github.com/salesforce/cove).
 
 ### Dialogue System
 - **A Hierarchical Recurrent Encoder-Decoder for Generative Context-Aware Query Suggestion**, [[paper]](https://arxiv.org/abs/1507.02221), sources: [[sordonia/hred-qs]](https://github.com/sordonia/hred-qs).
@@ -123,6 +124,7 @@
 - **Improved Neural Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1704.06194).
 - **Long Short-Term Memory-Networks for Machine Reading**, [[paper]](https://arxiv.org/pdf/1601.06733.pdf), sources: [[cheng6076/SNLI-attention]](https://github.com/cheng6076/SNLI-attention), [[vsitzmann/snli-attention-tensorflow]](https://github.com/vsitzmann/snli-attention-tensorflow), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
 - **Attention-over-Attention Neural Networks for Reading Comprehension**, [[paper]](https://arxiv.org/abs/1607.04423), sources: [[OlavHN/attention-over-attention]](https://github.com/OlavHN/attention-over-attention), [[marshmelloX/attention-over-attention]](https://github.com/marshmelloX/attention-over-attention).
+- **Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension**, [[paper]](https://arxiv.org/pdf/1803.00191), sources: [[intfloat/commonsense-rc]](https://github.com/intfloat/commonsense-rc).
 
 #### Memory Network
 - **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).
@@ -207,6 +209,7 @@
 - **Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention**, [[paper]](https://arxiv.org/abs/1801.03032).
 - **Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning**, [[paper]](https://arxiv.org/abs/1802.00924).
 - **Attention-based LSTM for Aspect-level Sentiment Classification**, [[paper]](https://aclweb.org/anthology/D16-1058), sources: [[scaufengyang/TD-LSTM]](https://github.com/scaufengyang/TD-LSTM).
+- **A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1609.02745.pdf).
 
 ### Multi-Model
 - **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/abs/1603.06270).
