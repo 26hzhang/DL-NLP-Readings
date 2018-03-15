@@ -94,6 +94,8 @@
 - **word2vec Parameter Learning Explained**, [[paper]](https://arxiv.org/abs/1411.2738).
 - **Better Word Representations with Recursive Neural Networks for Morphology**, [[paper]](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf).
 - **Linear Algebraic Structure of Word Senses, with Applications to Polysemy**, [[paper]](https://arxiv.org/abs/1601.03764), sources: [[YingyuLiang/SemanticVector]](https://github.com/YingyuLiang/SemanticVector).
+- **Character-Aware Neural Language Models**, [[paper]](https://arxiv.org/pdf/1508.06615.pdf), sources: [[carpedm20/lstm-char-cnn-tensorflow]](https://github.com/carpedm20/lstm-char-cnn-tensorflow), [[yoonkim/lstm-char-cnn]](https://github.com/yoonkim/lstm-char-cnn).
+- **Compositional Morphology for Word Representations and Language Modelling**, [[paper]](http://proceedings.mlr.press/v32/botha14.pdf), sources: [[thompsonb/comp-morph]](https://github.com/thompsonb/comp-morph), [[claravania/subword-lstm-lm]](https://github.com/claravania/subword-lstm-lm).
 
 ### Machine/Reading Comprehension, Question Answering, Natural Language Understanding
 - **SQuAD 100,000+ Questions for Machine Comprehension of Text**, [[paper]](https://arxiv.org/abs/1606.05250), [[homepage - SQuAD]](https://rajpurkar.github.io/SQuAD-explorer/).
@@ -125,6 +127,7 @@
 - **Long Short-Term Memory-Networks for Machine Reading**, [[paper]](https://arxiv.org/pdf/1601.06733.pdf), sources: [[cheng6076/SNLI-attention]](https://github.com/cheng6076/SNLI-attention), [[vsitzmann/snli-attention-tensorflow]](https://github.com/vsitzmann/snli-attention-tensorflow), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
 - **Attention-over-Attention Neural Networks for Reading Comprehension**, [[paper]](https://arxiv.org/abs/1607.04423), sources: [[OlavHN/attention-over-attention]](https://github.com/OlavHN/attention-over-attention), [[marshmelloX/attention-over-attention]](https://github.com/marshmelloX/attention-over-attention).
 - **Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension**, [[paper]](https://arxiv.org/pdf/1803.00191), sources: [[intfloat/commonsense-rc]](https://github.com/intfloat/commonsense-rc).
+- **Contextualized Word Representations for Reading Comprehension**, [[paper]](https://arxiv.org/pdf/1712.03609.pdf), sources: [[shimisalant/CWR]](https://github.com/shimisalant/CWR).
 
 #### Memory Network
 - **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).
@@ -223,6 +226,7 @@
 - **Combining ConceptNet and WordNet for Word Sense Disambiguation**, [[paper]](http://www.aclweb.org/anthology/I11-1077).
 - **More Accurate Question Answering on Freebase**, [[paper]](http://ad-publications.informatik.uni-freiburg.de/freebase-qa.pdf).
 - **Commonsense for Machine Intelligence: Text to Knowledge and Knowledge to Text**, [[slides]](http://people.mpi-inf.mpg.de/~ntandon/presentations/cikm-2017-tutorial-commonsense/commonsense.pdf), [[CIKM 2017 Singapore Tutorials]](http://cikm2017.org/tutorialmain.html), [[Commonsense for Machine Intelligence, Allen Institute, CIKM 2017 TUTORIAL]](http://allenai.org/tutorials/csk/), [[Allen Institute]](http://allenai.org/index.html).
+- **Commonsense Knowledge Base Completion**, [[paper]](http://ttic.uchicago.edu/~kgimpel/papers/li+etal.acl16.pdf), [[homepage]](http://ttic.uchicago.edu/~kgimpel/commonsense.html), sources: [[Lorraine333/ACL_CKBC]](https://github.com/Lorraine333/ACL_CKBC).
 
 ### Script Knowledge
 - **DeScript: A Crowdsourced Corpus for the Acquisition of High-Quality Script Knowledge**, [[paper]](http://www.lrec-conf.org/proceedings/lrec2016/pdf/913_Paper.pdf).
