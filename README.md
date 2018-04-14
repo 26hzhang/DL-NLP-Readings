@@ -21,11 +21,12 @@
     3. [Neural Network Optimization](#neural-network-optimization)
     4. [Neural Tuning Machine](#neural-tuning-machine)
     5. [Capsule Network](#capsule-network)
-    6. [Highway Network](#highway-network)
-    7. [Residual Network](#residual-network)
-    8. [Generative Adversarial Network](#generative-adversarial-network)
-    9. [Multi-Task Models](#multi-task-models)
-    10. [Others](#others)
+    6. [Autoencoder](#autoencoder)
+    7. [Highway Network](#highway-network)
+    8. [Residual Network](#residual-network)
+    9. [Generative Adversarial Network](#generative-adversarial-network)
+    10. [Multi-Task Models](#multi-task-models)
+    11. [Others](#others)
 3. [Reinforcement Learning](#reinforcement-learning)
 
 ## Natural Language Processing
@@ -172,6 +173,9 @@
 - **Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning**, [[paper]](https://arxiv.org/abs/1802.00924).
 - **Attention-based LSTM for Aspect-level Sentiment Classification**, [[paper]](https://aclweb.org/anthology/D16-1058), sources: [[scaufengyang/TD-LSTM]](https://github.com/scaufengyang/TD-LSTM).
 - **A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1609.02745.pdf).
+- **Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance-Level Multimodal Sentiment Analysis**, [[paper]](https://www.aclweb.org/anthology/D/D15/D15-1303.pdf).
+- **Select-additive Learning: Improving Generalization in Multimodal Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1609.05244.pdf), sources: [[HaohanWang/SelectAdditiveLearning]](https://github.com/HaohanWang/SelectAdditiveLearning).
+- **Tensor Fusion Network for Multimodal Sentiment Analysis**, [[paper]](https://www.aclweb.org/anthology/D17-1115), sources: [[A2Zadeh/TensorFusionNetwork]](https://github.com/A2Zadeh/TensorFusionNetwork).
 
 ### Dependency Parser
 - **A Fast and Accurate Dependency Parser using Neural Networks**, [[paper]](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf), sources: [[akjindal53244/dependency_parsing_tf]](https://github.com/akjindal53244/dependency_parsing_tf), [[ljj314zz/dependency_parsing_tf-master]](https://github.com/ljj314zz/dependency_parsing_tf-master).
@@ -224,6 +228,7 @@
 - **Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**, cover _semantic relatedness and sentiment classification_ tasks. [[paper]](http://www.aclweb.org/anthology/P15-1150), sources: [[stanfordnlp/treelstm]](https://github.com/stanfordnlp/treelstm), [[nicolaspi/treelstm]](https://github.com/nicolaspi/treelstm), [[sapruash/RecursiveNN]](https://github.com/sapruash/RecursiveNN), [[dallascard/TreeLSTM]](https://github.com/dallascard/TreeLSTM).
 
 ## General
+- **On the Origin of Deep Learning**, [[paper]](https://arxiv.org/pdf/1702.07800.pdf).
 
 ### Recurrent Neural Network
 - **An Empirical Exploration of Recurrent Network Architectures**, [[paper]](http://proceedings.mlr.press/v37/jozefowicz15.pdf).
@@ -266,6 +271,9 @@
 
 ### Capsule Network
 - **Dynamic Routing Between Capsules**, [[paper]](https://arxiv.org/abs/1710.09829), [[blog]](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/), [[Understanding Hinton’s Capsule Networks]](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b), sources: [[soskek/dynamic_routing_between_capsules]](https://github.com/soskek/dynamic_routing_between_capsules), [[naturomics/CapsNet-Tensorflow]](https://github.com/naturomics/CapsNet-Tensorflow), [[XifengGuo/CapsNet-Keras]](https://github.com/XifengGuo/CapsNet-Keras).
+
+### Autoencoder
+- **k-Sparse Autoencoders**, [[paper]](https://arxiv.org/pdf/1312.5663.pdf), sources: [[arashsaber/Sparse-Auto-Encoder]](https://github.com/arashsaber/Sparse-Auto-Encoder), [[snooky23/K-Sparse-AutoEncoder]](https://github.com/snooky23/K-Sparse-AutoEncoder).
 
 ### Highway Network
 - **Highway Networks**, [[paper]](https://arxiv.org/abs/1505.00387), sources: [[IsaacChanghau/AmusingPythonCodes/highway_networks]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/highway_networks), [[lucko515/fully-connected-highway-network]](https://github.com/lucko515/fully-connected-highway-network), [[fomorians/highway-cnn]](https://github.com/fomorians/highway-cnn).
