@@ -9,7 +9,7 @@
     5. [Commonsense Knowledge Base and Its Usages](#commonsense-knowledge-base-and-its-usages)
     6. [Sequence Labeling (POS Tagging, Chunking, NER, Punctuation Restoration, Semantic Role Labeling and etc.)](#sequence-labeling-pos-tagging-chunking-ner-punctuation-restoration-semantic-role-labeling-and-etc)
     7. [Coreference / Anaphora Resolution](#coreference--anaphora-resolution)
-    8. [Sentiment Analysis / Stance Detection](#sentiment-analysis--Stance-detection)
+    8. [Sentiment Analysis / Stance Detection](#sentiment-analysis--stance-detection)
     9. [Dependency Parser](#dependency-parser)
     10. [Grammatical Error Correction](#grammatical-error-correction)
     11. [Text / Sentence / Document Classification](#text--sentence--document-classification)
