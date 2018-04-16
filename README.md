@@ -32,6 +32,7 @@
 ## Natural Language Processing
 - **Speech and Language Processing**, [[book]](https://web.stanford.edu/~jurafsky/slp3/).
 - **Supervised Sequence Labelling with Recurrent Neural Networks**, [[Alex Graves's Ph.D. Thesis]](https://www.cs.toronto.edu/~graves/preprint.pdf).
+- **Sentic Computing**, [[book]](http://sentic.net/sentic-computing.pdf).
 
 ### Machine Translation
 - **A Convolutional Encoder Model for Neural Machine Translation**, [[paper]](https://arxiv.org/abs/1611.02344), sources: [[facebookresearch/fairseq]](https://github.com/facebookresearch/fairseq).
@@ -121,37 +122,30 @@
 - **LSDSem 2017: 2nd Workshop on Linking Models of Lexical, Sentential and Discourse-level Semantics**, [[homepage]](http://www.coli.uni-saarland.de/~mroth/LSDSem/), [[doc]](https://pdfs.semanticscholar.org/13da/c5f2d76b630307cc590efb898639c6c21245.pdf?_ga=2.115348101.2032186556.1517662608-872936552.1517662608).
 
 ### Sequence Labeling (POS Tagging, Chunking, NER, Punctuation Restoration, Semantic Role Labeling and etc.)
-- **Automatic Semantic Role Labeling**, [[slides]](https://nlp.stanford.edu/kristina/papers/SRL-Tutorial-post-HLT-NAACL-06.pdf).
-- **Semantic Role Labeling**, [[doc]](https://web.stanford.edu/~jurafsky/slp3/22.pdf).
-- **Part-of-Speech Tagging**, [[slides]](http://www.computational-logic.org/iccl/master/lectures/summer06/nlp/part-of-speech-tagging.pdf).
-- **Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling**, [[slides]](http://www.lsi.upc.edu/~srlconll/st05/slides/intro.pdf).
-- **Semantic Role Labeling Tutorial**, [[slides]](http://naacl2013.naacl.org/Documents/semantic-role-labeling-part-1-naacl-2013-tutorial.pdf).
+- **Automatic Semantic Role Labeling**, [[slides]](https://nlp.stanford.edu/kristina/papers/SRL-Tutorial-post-HLT-NAACL-06.pdf); **Semantic Role Labeling**, [[doc]](https://web.stanford.edu/~jurafsky/slp3/22.pdf); **Part-of-Speech Tagging**, [[slides]](http://www.computational-logic.org/iccl/master/lectures/summer06/nlp/part-of-speech-tagging.pdf), **Semantic Role Labeling Tutorial**, [[slides]](http://naacl2013.naacl.org/Documents/semantic-role-labeling-part-1-naacl-2013-tutorial.pdf).
+- **Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling**, [[paper]](http://www.cs.upc.edu/~srlconll/st05/papers/intro.pdf), [[homepage]](http://www.lsi.upc.edu/~srlconll/), [[homepage]](http://www.lsi.upc.edu/~srlconll/st04/st04.html).
 - **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/abs/1603.06270).
 - **Bidirectional LSTM-CRF Models for Sequence Tagging**, [[paper]](https://arxiv.org/abs/1508.01991), [[blog]](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html), sources: [[Hironsan/anago]](https://github.com/Hironsan/anago), [[guillaumegenthial/sequence_tagging]](https://github.com/guillaumegenthial/sequence_tagging).
 - **Boosting Named Entity Recognition with Neural Character Embeddings**, [[paper]](https://arxiv.org/abs/1505.05008), sources: [[isohrab/German-NER]](https://github.com/isohrab/German-NER).
 - **End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF**, [[paper]](https://arxiv.org/abs/1603.01354), sources: [[LopezGG/NN_NER_tensorFlow]](https://github.com/LopezGG/NN_NER_tensorFlow).
 - **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions**, [[paper]](https://arxiv.org/abs/1702.02098), sources: [[iesl/dilated-cnn-ner]](https://github.com/iesl/dilated-cnn-ner).
-- **Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network**, [[paper]](https://nlp.stanford.edu/pubs/tagging.pdf).
 - **Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks**, [[paper]](https://arxiv.org/abs/1703.06345), sources: [[kimiyoung/transfer]](https://github.com/kimiyoung/transfer).
 - **Named Entity Recognition with Bidirectional LSTM-CNNs**, [[paper]](https://www.aclweb.org/anthology/Q16-1026), sources: [[ThanhChinhBK/Ner-BiLSTM-CNNs]](https://github.com/ThanhChinhBK/Ner-BiLSTM-CNNs).
 - **Neural Architectures for Named Entity Recognition**, [[paper]](https://arxiv.org/abs/1603.01360), sources: [[clab/stack-lstm-ner]](https://github.com/clab/stack-lstm-ner), [[glample/tagger]](https://github.com/glample/tagger), [[marekrei/sequence-labeler]](https://github.com/marekrei/sequence-labeler).
 - **Neural Models for Sequence Chunking**, [[paper]](https://arxiv.org/abs/1701.04027).
 - **Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks**, [[paper]](https://arxiv.org/abs/1707.06799), sources: [[UKPLab/emnlp2017-bilstm-cnn-crf]](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf).
 - **Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?**, [[paper]](https://nlp.stanford.edu/pubs/CICLing2011-manning-tagging.pdf).
-- **Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network**, [[paper]](https://arxiv.org/abs/1510.06168).
 - **Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss**, [[paper]](https://arxiv.org/abs/1604.05529), sources: [[bplank/bilstm-aux]](https://github.com/bplank/bilstm-aux).
 - **Punctuation Prediction for Unsegmented Transcript Based on Word Vector**, [[paper]](http://www.lrec-conf.org/proceedings/lrec2016/pdf/103_Paper.pdf).
 - **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://pdfs.semanticscholar.org/8785/efdad2abc384d38e76a84fb96d19bbe788c1.pdf?_ga=2.156364859.1813940814.1518068648-1853451355.1518068648), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).
 - **Joint Learning of Correlated Sequence Labeling Tasks Using Bidirectional Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1703.04650.pdf).
 - **Sequence-to-Sequence Models for Punctuated Transcription Combing Lexical and Acoustic Features**, [[paper]](http://homepages.inf.ed.ac.uk/s1569734/papers/icassp-2017.pdf), sources: [[choko/acoustic_punctuation]](https://github.com/choko/acoustic_punctuation).
 - **Attentional Parallel RNNs for Generating Punctuation in Transcribed Speech**, [[paper]](https://repositori.upf.edu/bitstream/handle/10230/33936/oktem_lncs_attentional.pdf?sequence=1&isAllowed=y), [[dataset]](https://repositori.upf.edu/handle/10230/33981), sources: [[alpoktem/punkProse]](https://github.com/alpoktem/punkProse).
-- **A Deep Neural Network Approach for Sentence Boundary Detection in Broadcast News**, [[paper]](http://www.cs.tut.fi/~huangg/papers/2014_IS/xu2014deep.pdf).
 - **Sentence Segmentation in Narrative Transcripts from Neuropsychological Tests using Recurrent Convolutional Neural Networks**, [[paper]](http://www.aclweb.org/anthology/E17-1030).
-- **Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling**, [[paper]](http://www.cs.upc.edu/~srlconll/st05/papers/intro.pdf), [[homepage]](http://www.lsi.upc.edu/~srlconll/), [[homepage]](http://www.lsi.upc.edu/~srlconll/st04/st04.html).
 - **Deep Semantic Role Labeling: What Works and Whats Next**, [[paper]](https://homes.cs.washington.edu/~luheng/files/acl2017_hllz.pdf), sources: [[luheng/deep_srl]](https://github.com/luheng/deep_srl).
 - **End-to-end Learning of Semantic Role Labeling using RNN**, [[paper]](http://www.aclweb.org/anthology/P15-1109), sources: [[sanjaymeena/semantic_role_labeling_deep_learning]](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning).
 - **Neural Semantic Role Labeling with Dependency Path Embeddings**, [[paper]](https://arxiv.org/abs/1605.07515), sources: [[microth/PathLSTM]](https://github.com/microth/PathLSTM).
-- **Semantic Role Labeling with Neural Network Factors**, [[paper]](http://www.aclweb.org/anthology/D15-1112).
+- **Part-of-Speech Tagging for Twitter with Adversarial Neural Networks**, [[paper]](https://www.aclweb.org/anthology/D17-1256), sources: [[guitaowufeng/TPANN]](https://github.com/guitaowufeng/TPANN).
 
 ### Coreference / Anaphora Resolution
 - **Deep Reinforcement Learning for Mention-Ranking Coreference Models**, [[paper]](https://arxiv.org/abs/1609.08667), [[blog]](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [[demo]](https://huggingface.co/coref/), sources: [[huggingface/neuralcoref]](https://github.com/huggingface/neuralcoref), [[clarkkev/deep-coref]](https://github.com/clarkkev/deep-coref).
@@ -179,6 +173,7 @@
 
 ### Dependency Parser
 - **A Fast and Accurate Dependency Parser using Neural Networks**, [[paper]](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf), sources: [[akjindal53244/dependency_parsing_tf]](https://github.com/akjindal53244/dependency_parsing_tf), [[ljj314zz/dependency_parsing_tf-master]](https://github.com/ljj314zz/dependency_parsing_tf-master).
+- **Deep Bi-Affine Attention for Neural Dependency Parsing**, [[paper]](https://web.stanford.edu/~tdozat/files/TDozat-ICLR2017-Paper.pdf), sources: [[tdozat/Parser-v1]](https://github.com/tdozat/Parser-v1), [[tdozat/Parser-v2]](https://github.com/tdozat/Parser-v2).
 
 ### Grammatical Error Correction
 - **The CoNLL-2014 Shared Task on Grammatical Error Correction**, [[paper]](http://www.aclweb.org/anthology/W14-1701), [[homepage]](http://www.comp.nus.edu.sg/~nlp/conll14st.html).
@@ -242,6 +237,7 @@
 - **Recurrent Neural Network Regularization**, [[paper]](https://arxiv.org/abs/1409.2329).
 - **Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks**, [[paper]](https://arxiv.org/abs/1611.06204).
 - **Nested LSTMs**, [[paper]](https://arxiv.org/abs/1801.10308), sources: [[hannw/nlstm]](https://github.com/hannw/nlstm).
+- **Neural Speed Reading via Skim-RNN**, [[paper]](https://arxiv.org/pdf/1711.02085.pdf), sources: [[schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch]](https://github.com/schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch).
 
 ### Convolutional Neural Network
 - **Visualizing and Understanding Convolutional Networks**, [[paper]](https://arxiv.org/abs/1311.2901).
