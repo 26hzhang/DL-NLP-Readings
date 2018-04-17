@@ -33,6 +33,8 @@
 - **Speech and Language Processing**, [[book]](https://web.stanford.edu/~jurafsky/slp3/).
 - **Supervised Sequence Labelling with Recurrent Neural Networks**, [[Alex Graves's Ph.D. Thesis]](https://www.cs.toronto.edu/~graves/preprint.pdf).
 - **Sentic Computing**, [[book]](http://sentic.net/sentic-computing.pdf).
+- **Knowledge Representation and Question Answering**, [[Handbook of Knowledge Representation - Chapter 20]](https://pdfs.semanticscholar.org/d0fc/5473d4fa1f9dff0829b0dd8f780220da33c3.pdf).
+- **Question Answering**, [[Speech and Language Processing 2017 - Chapter 28]](https://web.stanford.edu/~jurafsky/slp3/28.pdf).
 
 ### Machine Translation
 - **A Convolutional Encoder Model for Neural Machine Translation**, [[paper]](https://arxiv.org/abs/1611.02344), sources: [[facebookresearch/fairseq]](https://github.com/facebookresearch/fairseq).
@@ -55,8 +57,6 @@
 - **A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task**, [[paper]](https://arxiv.org/abs/1606.02858), sources: [[danqi/rc-cnn-dailymail]](https://github.com/danqi/rc-cnn-dailymail).
 - **An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge**, [[paper]](https://arxiv.org/abs/1606.00979), [[homepage]](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html), [[blog]](http://blog.csdn.net/LAW_130625/article/details/78484866).
 - **Dynamic Integration of Background Knowledge in Neural NLU Systems**, [[paper]](https://arxiv.org/abs/1706.02596), [[homepage]](https://dirkweissenborn.github.io/publications.html).
-- **Knowledge Representation and Question Answering**, [[Handbook of Knowledge Representation - Chapter 20]](https://pdfs.semanticscholar.org/d0fc/5473d4fa1f9dff0829b0dd8f780220da33c3.pdf).
-- **Question Answering**, [[Speech and Language Processing 2017 - Chapter 28]](https://web.stanford.edu/~jurafsky/slp3/28.pdf).
 - **LSTM-based Deep Learning Models for Non-factoid Answer Selection**, [[paper]](https://arxiv.org/abs/1511.04108), sources: [[Alan-Lee123/answer-selection]](https://github.com/Alan-Lee123/answer-selection), [[tambetm/allenAI]](https://github.com/tambetm/allenAI).
 - **Two-Stage Synthesis Networks for Transfer Learning in Machine**, [[paper]](https://arxiv.org/abs/1706.09789), sources: [[davidgolub/QuestionGeneration]](https://github.com/davidgolub/QuestionGeneration).
 - **World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions**, [[paper]](http://aclweb.org/anthology/D17-1086), [[homepage]](http://dataset.cs.mcgill.ca/downloads/rare_entity_dataset.html).
@@ -135,6 +135,7 @@
 - **Neural Models for Sequence Chunking**, [[paper]](https://arxiv.org/abs/1701.04027).
 - **Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks**, [[paper]](https://arxiv.org/abs/1707.06799), sources: [[UKPLab/emnlp2017-bilstm-cnn-crf]](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf).
 - **Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?**, [[paper]](https://nlp.stanford.edu/pubs/CICLing2011-manning-tagging.pdf).
+- **Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Recurrent Neural Network**, [[paper]](https://arxiv.org/pdf/1510.06168.pdf).
 - **Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss**, [[paper]](https://arxiv.org/abs/1604.05529), sources: [[bplank/bilstm-aux]](https://github.com/bplank/bilstm-aux).
 - **Punctuation Prediction for Unsegmented Transcript Based on Word Vector**, [[paper]](http://www.lrec-conf.org/proceedings/lrec2016/pdf/103_Paper.pdf).
 - **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://pdfs.semanticscholar.org/8785/efdad2abc384d38e76a84fb96d19bbe788c1.pdf?_ga=2.156364859.1813940814.1518068648-1853451355.1518068648), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).
@@ -143,8 +144,9 @@
 - **Attentional Parallel RNNs for Generating Punctuation in Transcribed Speech**, [[paper]](https://repositori.upf.edu/bitstream/handle/10230/33936/oktem_lncs_attentional.pdf?sequence=1&isAllowed=y), [[dataset]](https://repositori.upf.edu/handle/10230/33981), sources: [[alpoktem/punkProse]](https://github.com/alpoktem/punkProse).
 - **Sentence Segmentation in Narrative Transcripts from Neuropsychological Tests using Recurrent Convolutional Neural Networks**, [[paper]](http://www.aclweb.org/anthology/E17-1030).
 - **Deep Semantic Role Labeling: What Works and Whats Next**, [[paper]](https://homes.cs.washington.edu/~luheng/files/acl2017_hllz.pdf), sources: [[luheng/deep_srl]](https://github.com/luheng/deep_srl).
-- **End-to-end Learning of Semantic Role Labeling using RNN**, [[paper]](http://www.aclweb.org/anthology/P15-1109), sources: [[sanjaymeena/semantic_role_labeling_deep_learning]](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning).
+- **End-to-end Learning of Semantic Role Labeling using RNN**, [[paper]](http://www.aclweb.org/anthology/P15-1109), sources: [[sanjaymeena/semantic_role_labeling_deep_learning]](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning), [[hiroki13/neural-semantic-role-labeler]](https://github.com/hiroki13/neural-semantic-role-labeler).
 - **Neural Semantic Role Labeling with Dependency Path Embeddings**, [[paper]](https://arxiv.org/abs/1605.07515), sources: [[microth/PathLSTM]](https://github.com/microth/PathLSTM).
+- **Semantic Role Labeling with Neural Network Factors**, [[paper]](http://www.aclweb.org/anthology/D15-1112)
 - **Part-of-Speech Tagging for Twitter with Adversarial Neural Networks**, [[paper]](https://www.aclweb.org/anthology/D17-1256), sources: [[guitaowufeng/TPANN]](https://github.com/guitaowufeng/TPANN).
 
 ### Coreference / Anaphora Resolution
@@ -238,6 +240,8 @@
 - **Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks**, [[paper]](https://arxiv.org/abs/1611.06204).
 - **Nested LSTMs**, [[paper]](https://arxiv.org/abs/1801.10308), sources: [[hannw/nlstm]](https://github.com/hannw/nlstm).
 - **Neural Speed Reading via Skim-RNN**, [[paper]](https://arxiv.org/pdf/1711.02085.pdf), sources: [[schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch]](https://github.com/schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch).
+- **Variable Computation in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1611.06188.pdf).
+- **Pointer Networks**, [[paper]](https://arxiv.org/pdf/1506.03134.pdf), [[blog]](http://fastml.com/introduction-to-pointer-networks/), sources: [[devsisters/pointer-network-tensorflow]](https://github.com/devsisters/pointer-network-tensorflow), [[https://github.com/ikostrikov/TensorFlow-Pointer-Networks]](https://github.com/ikostrikov/TensorFlow-Pointer-Networks), [[keon/pointer-networks]](https://github.com/keon/pointer-networks), [[pemami4911/neural-combinatorial-rl-pytorch]](https://github.com/pemami4911/neural-combinatorial-rl-pytorch), [[shiretzet/PointerNet]](https://github.com/shiretzet/PointerNet).
 
 ### Convolutional Neural Network
 - **Visualizing and Understanding Convolutional Networks**, [[paper]](https://arxiv.org/abs/1311.2901).
