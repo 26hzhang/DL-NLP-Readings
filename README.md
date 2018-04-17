@@ -239,9 +239,11 @@
 - **Recurrent Neural Network Regularization**, [[paper]](https://arxiv.org/abs/1409.2329).
 - **Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks**, [[paper]](https://arxiv.org/abs/1611.06204).
 - **Nested LSTMs**, [[paper]](https://arxiv.org/abs/1801.10308), sources: [[hannw/nlstm]](https://github.com/hannw/nlstm).
+- **Pointer Networks**, [[paper]](https://arxiv.org/pdf/1506.03134.pdf), [[blog]](http://fastml.com/introduction-to-pointer-networks/), sources: [[devsisters/pointer-network-tensorflow]](https://github.com/devsisters/pointer-network-tensorflow), [[https://github.com/ikostrikov/TensorFlow-Pointer-Networks]](https://github.com/ikostrikov/TensorFlow-Pointer-Networks), [[keon/pointer-networks]](https://github.com/keon/pointer-networks), [[pemami4911/neural-combinatorial-rl-pytorch]](https://github.com/pemami4911/neural-combinatorial-rl-pytorch), [[shiretzet/PointerNet]](https://github.com/shiretzet/PointerNet).
 - **Neural Speed Reading via Skim-RNN**, [[paper]](https://arxiv.org/pdf/1711.02085.pdf), sources: [[schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch]](https://github.com/schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch).
 - **Variable Computation in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1611.06188.pdf).
-- **Pointer Networks**, [[paper]](https://arxiv.org/pdf/1506.03134.pdf), [[blog]](http://fastml.com/introduction-to-pointer-networks/), sources: [[devsisters/pointer-network-tensorflow]](https://github.com/devsisters/pointer-network-tensorflow), [[https://github.com/ikostrikov/TensorFlow-Pointer-Networks]](https://github.com/ikostrikov/TensorFlow-Pointer-Networks), [[keon/pointer-networks]](https://github.com/keon/pointer-networks), [[pemami4911/neural-combinatorial-rl-pytorch]](https://github.com/pemami4911/neural-combinatorial-rl-pytorch), [[shiretzet/PointerNet]](https://github.com/shiretzet/PointerNet).
+- **Learning to Skim Text**, [[paper]](http://aclweb.org/anthology/P17-1172), [[notes]](https://zhuanlan.zhihu.com/p/30555359).
+
 
 ### Convolutional Neural Network
 - **Visualizing and Understanding Convolutional Networks**, [[paper]](https://arxiv.org/abs/1311.2901).
