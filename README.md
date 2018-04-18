@@ -109,7 +109,7 @@
 - **On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**, [[paper]](https://arxiv.org/abs/1605.07669).
 
 ### Knowledge Base Completion / Representation
-- **Reasoning With Neural Tensor Networks for Knowledge Base Completion**, [[paper]](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf), sources: [[siddharth-agrawal/Neural-Tensor-Network]](https://github.com/siddharth-agrawal/Neural-Tensor-Network).
+- **Reasoning With Neural Tensor Networks for Knowledge Base Completion**, [[paper]](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf), sources: [[siddharth-agrawal/Neural-Tensor-Network]](https://github.com/siddharth-agrawal/Neural-Tensor-Network), [[dddoss/tensorflow-socher-ntn]](https://github.com/dddoss/tensorflow-socher-ntn).
 - **Knowledge Graph Completion with Adaptive Sparse Transfer Matrix**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11982/11693), sources: [[FrankWork/transparse]](https://github.com/FrankWork/transparse), [[thunlp/Fast-TransX]](https://github.com/thunlp/Fast-TransX).
 - **PTransE: Modeling Relation Paths for Representation Learning of Knowledge Bases**, [[paper]](https://arxiv.org/abs/1506.00379), [[homepage]](https://github.com/thunlp), sources: [[thunlp/Fast-TransX]](https://github.com/thunlp/Fast-TransX).
 - **TransE: Translating Embeddings for Modeling Multi-relational Data**, [[paper]](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
@@ -182,12 +182,19 @@
 - **Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning**, [[paper]](https://arxiv.org/abs/1802.00924).
 - **Attention-based LSTM for Aspect-level Sentiment Classification**, [[paper]](https://aclweb.org/anthology/D16-1058), sources: [[scaufengyang/TD-LSTM]](https://github.com/scaufengyang/TD-LSTM).
 - **A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1609.02745.pdf).
+- **A Convolutional Neural Network for Modelling Sentences**, [[paper]](https://arxiv.org/pdf/1404.2188.pdf), sources: [[hritik25/Dynamic-CNN-for-Modelling-Sentences]](https://github.com/hritik25/Dynamic-CNN-for-Modelling-Sentences), [[FredericGodin/DynamicCNN]](https://github.com/FredericGodin/DynamicCNN).
 - **Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance-Level Multimodal Sentiment Analysis**, [[paper]](https://www.aclweb.org/anthology/D/D15/D15-1303.pdf).
+- **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank**, [[paper]](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf), sources: [[rksltnl/RNTN]](https://github.com/rksltnl/RNTN).
 - **Select-additive Learning: Improving Generalization in Multimodal Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1609.05244.pdf), sources: [[HaohanWang/SelectAdditiveLearning]](https://github.com/HaohanWang/SelectAdditiveLearning).
 - **Tensor Fusion Network for Multimodal Sentiment Analysis**, [[paper]](https://www.aclweb.org/anthology/D17-1115), sources: [[A2Zadeh/TensorFusionNetwork]](https://github.com/A2Zadeh/TensorFusionNetwork).
+- **Context-Dependent Sentiment Analysis in User-Generated Videos**, [[paper]](http://sentic.net/context-dependent-sentiment-analysis-in-user-generated-videos.pdf), sources: [[SenticNet/contextual-sentiment-analysis]](https://github.com/SenticNet/contextual-sentiment-analysis).
+- **Convolutional MKL Based Multimodal Emotion Recognition and Sentiment Analysis**, [[paper]](http://sentic.net/convolutional-mkl-based-multimodal-sentiment-analysis.pdf), sources: [[SenticNet/multimodal-sentiment-detection]](https://github.com/SenticNet/multimodal-sentiment-detection).
+- **Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM**, [[paper]](http://sentic.net/sentic-lstm.pdf).
+- **Sentic LSTM: a Hybrid Network for Targeted Aspect-Based Sentiment Analysis**, [[paper]](https://link.springer.com/article/10.1007/s12559-018-9549-x), sources: [[SenticNet/sentic-lstm]](https://github.com/SenticNet/sentic-lstm).
 
 ### Dependency Parser
 - **A Fast and Accurate Dependency Parser using Neural Networks**, [[paper]](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf), sources: [[akjindal53244/dependency_parsing_tf]](https://github.com/akjindal53244/dependency_parsing_tf), [[ljj314zz/dependency_parsing_tf-master]](https://github.com/ljj314zz/dependency_parsing_tf-master).
+- **Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representation**, [[paper]](https://arxiv.org/pdf/1603.04351.pdf), sources: [[elikip/bist-parser]](https://github.com/elikip/bist-parser).
 - **Deep Bi-Affine Attention for Neural Dependency Parsing**, [[paper]](https://web.stanford.edu/~tdozat/files/TDozat-ICLR2017-Paper.pdf), sources: [[tdozat/Parser-v1]](https://github.com/tdozat/Parser-v1), [[tdozat/Parser-v2]](https://github.com/tdozat/Parser-v2).
 
 ### Grammatical Error Correction
@@ -242,6 +249,7 @@
 - **Deep Learning Tutorial**, _LISA lab, University of Montreal_, [[docs]](http://deeplearning.net/tutorial/deeplearning.pdf).
 - **On the Origin of Deep Learning**, [[paper]](https://arxiv.org/pdf/1702.07800.pdf).
 - **Efficient Methods and Hardware for Deep Learning**, [[Ph.D Thesis]](https://stacks.stanford.edu/file/druid:qf934gh3708/EFFICIENT%20METHODS%20AND%20HARDWARE%20FOR%20DEEP%20LEARNING-augmented.pdf), [[Song Han's homepage]](https://mtlsites.mit.edu/songhan/), [[slides]](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf).
+- **Multiple Kernel Learning Algorithms**, [[paper]](http://jmlr.csail.mit.edu/papers/volume12/gonen11a/gonen11a.pdf).
 
 ### Recurrent Neural Network
 - **An Empirical Exploration of Recurrent Network Architectures**, [[paper]](http://proceedings.mlr.press/v37/jozefowicz15.pdf).
