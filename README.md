@@ -1,7 +1,8 @@
 # My Reading Lists of Deep Learning and Natural Language Processing
 
 ## Table of Contents
-1. [Natural Language Processing](#natural-language-processing)
+1. [Machine / Deep / Reinforcement Learning Courses / Tutorials](#machine--deep--reinforcement-learning-courses--tutorials)
+2. [Natural Language Processing](#natural-language-processing)
     1. [Machine Translation](#machine-translation)
     2. [Machine / Reading Comprehension, Question Answering, Natural Language Understanding](#machine--reading-comprehension-question-answering-natural-language-understanding)
     3. [Dialogue / Conversation / Chatbot System](#dialogue--conversation--chatbot-system)
@@ -15,7 +16,7 @@
     11. [Text / Sentence / Document Classification](#text--sentence--document-classification)
     12. [Embeddings](#embeddings)
     13. [Multi-task Models](#multi-task-models)
-2. [General](#general)
+3. [General](#general)
     1. [Recurrent Neural Network](#recurrent-neural-network)
     2. [Convolutional Neural Network](#convolutional-neural-network)
     3. [Neural Network Optimization](#neural-network-optimization)
@@ -27,7 +28,19 @@
     9. [Generative Adversarial Network](#generative-adversarial-network)
     10. [Multi-Task Models](#multi-task-models)
     11. [Others](#others)
-3. [Reinforcement Learning](#reinforcement-learning)
+4. [Reinforcement Learning](#reinforcement-learning)
+
+## Machine / Deep / Reinforcement Learning Courses / Tutorials
+- **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://www.phontron.com/class/nn4nlp2018/index.html).
+- **CS231n: Convolutional Neural Networks for Visual Recognition**, _Stanford University_, [[url]](http://cs231n.stanford.edu).
+- **CS229: Machine Learning**, _Stanford University_, [[url]](http://cs229.stanford.edu).
+- **CS224d: Deep Learning for Natural Language Processing**, _Stanford University_, [[url]](http://cs224d.stanford.edu/index.html).
+- **CS6101: Deep Learning for NLP**, _National University of Singapore_, [[url]](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/#s).
+- **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/), [[YouTube]](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja), [[Chinese notes: hankcs.com]](http://www.hankcs.com/tag/cs224n/).
+- **Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial**, _Stanford University_, [[url]](http://ufldl.stanford.edu/tutorial/), [[another url]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial).
+- **Essence of linear algebra**, [[YouTube]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+- **University College London (UCL) Course on Reinforcement Learning (RL)**, [[url]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
+- **MIT 6.S099: Artificial General Intelligence**, _Massachusetts Institute of Technology_, [[url]](https://agi.mit.edu).
 
 ## Natural Language Processing
 - **Speech and Language Processing**, [[book]](https://web.stanford.edu/~jurafsky/slp3/).
@@ -225,7 +238,7 @@
 - **Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**, cover _semantic relatedness and sentiment classification_ tasks. [[paper]](http://www.aclweb.org/anthology/P15-1150), sources: [[stanfordnlp/treelstm]](https://github.com/stanfordnlp/treelstm), [[nicolaspi/treelstm]](https://github.com/nicolaspi/treelstm), [[sapruash/RecursiveNN]](https://github.com/sapruash/RecursiveNN), [[dallascard/TreeLSTM]](https://github.com/dallascard/TreeLSTM).
 
 ## General
-- **Deep Learning Tutorial**, [[slides]](/Papers/General/Deep%20Learning%20Tutorial.pdf), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
+- **Deep Learning Tutorial**, _李宏毅 (Hung-yi Lee)_, [[slides]](/Papers/General/Deep%20Learning%20Tutorial.pdf), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
 - **Deep Learning Tutorial**, _LISA lab, University of Montreal_, [[docs]](http://deeplearning.net/tutorial/deeplearning.pdf).
 - **On the Origin of Deep Learning**, [[paper]](https://arxiv.org/pdf/1702.07800.pdf).
 - **Efficient Methods and Hardware for Deep Learning**, [[Ph.D Thesis]](https://stacks.stanford.edu/file/druid:qf934gh3708/EFFICIENT%20METHODS%20AND%20HARDWARE%20FOR%20DEEP%20LEARNING-augmented.pdf), [[Song Han's homepage]](https://mtlsites.mit.edu/songhan/), [[slides]](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf).
