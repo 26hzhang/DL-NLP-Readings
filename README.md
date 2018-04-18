@@ -29,6 +29,7 @@
     10. [Multi-Task Models](#multi-task-models)
     11. [Others](#others)
 4. [Reinforcement Learning](#reinforcement-learning)
+5. [Other's Reading Lists and Resources](#others-reading-lists-and-resources)
 
 ## Machine / Deep / Reinforcement Learning Courses / Tutorials
 - **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://www.phontron.com/class/nn4nlp2018/index.html).
@@ -327,3 +328,11 @@
 ## Reinforcement Learning
 - **Playing Atari with Deep Reinforcement Learning**, [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [[blog]](https://keon.io/deep-q-learning/), sources: [[kuz/DeepMind-Atari-Deep-Q-Learner]](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner).
 
+## Other's Reading Lists and Resources
+- [[andrewt3000/DL4NLP]](https://github.com/andrewt3000/DL4NLP).
+- [[kjw0612/awesome-rnn]](https://github.com/kjw0612/awesome-rnn).
+- [[keon/awesome-nlp]](https://github.com/keon/awesome-nlp).
+- [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
+- [[tensorflow/nmt]](https://github.com/tensorflow/nmt), _TensorFlow Neural Machine Translation Tutorial_.
+- [[nfmcclure/tensorflow_cookbook]](https://github.com/nfmcclure/tensorflow_cookbook), book: [[TensorFlow Machine Learning Cookbook]](/Papers/Others/Tensorflow%20Machine%20Learning%20Cookbook.pdf).
+- [[wesm/pydata-book]](https://github.com/wesm/pydata-book), book: [[Python for Data Analysis]](/Papers/Others/Python%20for%20Data%20Analysis.pdf), [[Python for Data Analysis (Chinese)]](/Papers/Others/Python%20for%20Data%20Analysis%20CN.pdf).
