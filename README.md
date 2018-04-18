@@ -225,7 +225,10 @@
 - **Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**, cover _semantic relatedness and sentiment classification_ tasks. [[paper]](http://www.aclweb.org/anthology/P15-1150), sources: [[stanfordnlp/treelstm]](https://github.com/stanfordnlp/treelstm), [[nicolaspi/treelstm]](https://github.com/nicolaspi/treelstm), [[sapruash/RecursiveNN]](https://github.com/sapruash/RecursiveNN), [[dallascard/TreeLSTM]](https://github.com/dallascard/TreeLSTM).
 
 ## General
+- **Deep Learning Tutorial**, [[slides]](/Papers/General/Deep%20Learning%20Tutorial.pdf), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
+- **Deep Learning Tutorial**, _LISA lab, University of Montreal_, [[docs]](http://deeplearning.net/tutorial/deeplearning.pdf).
 - **On the Origin of Deep Learning**, [[paper]](https://arxiv.org/pdf/1702.07800.pdf).
+- **Efficient Methods and Hardware for Deep Learning**, [[Ph.D Thesis]](https://stacks.stanford.edu/file/druid:qf934gh3708/EFFICIENT%20METHODS%20AND%20HARDWARE%20FOR%20DEEP%20LEARNING-augmented.pdf), [[Song Han's homepage]](https://mtlsites.mit.edu/songhan/), [[slides]](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf).
 
 ### Recurrent Neural Network
 - **An Empirical Exploration of Recurrent Network Architectures**, [[paper]](http://proceedings.mlr.press/v37/jozefowicz15.pdf).
@@ -243,6 +246,7 @@
 - **Neural Speed Reading via Skim-RNN**, [[paper]](https://arxiv.org/pdf/1711.02085.pdf), sources: [[schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch]](https://github.com/schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch).
 - **Variable Computation in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1611.06188.pdf).
 - **Learning to Skim Text**, [[paper]](http://aclweb.org/anthology/P17-1172), [[notes]](https://zhuanlan.zhihu.com/p/30555359).
+- **Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1708.06834.pdf), [[homepage]](https://imatge-upc.github.io/skiprnn-2017-telecombcn/), sources: [[imatge-upc/skiprnn-2017-telecombcn]](https://github.com/imatge-upc/skiprnn-2017-telecombcn).
 
 
 ### Convolutional Neural Network
