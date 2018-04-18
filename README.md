@@ -36,7 +36,7 @@
 - **CS229: Machine Learning**, _Stanford University_, [[url]](http://cs229.stanford.edu).
 - **CS224d: Deep Learning for Natural Language Processing**, _Stanford University_, [[url]](http://cs224d.stanford.edu/index.html).
 - **CS6101: Deep Learning for NLP**, _National University of Singapore_, [[url]](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/#s).
-- **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/), [[YouTube]](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja), [[Chinese notes: hankcs.com]](http://www.hankcs.com/tag/cs224n/).
+- **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/), [[YouTube]](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja), [[Chinese notes]](http://www.hankcs.com/tag/cs224n/).
 - **Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial**, _Stanford University_, [[url]](http://ufldl.stanford.edu/tutorial/), [[another url]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial).
 - **Essence of linear algebra**, [[YouTube]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 - **University College London (UCL) Course on Reinforcement Learning (RL)**, [[url]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
@@ -287,6 +287,7 @@
 
 ### Neural Tuning Machine
 - **Neural Turing Machines**, [[paper]](https://arxiv.org/abs/1410.5401.pdf), sources: [[carpedm20/NTM-tensorflow]](https://github.com/carpedm20/NTM-tensorflow).
+- **Hybrid Computing Using a Neural Network with Dynamic External Memory**, [[paper]](https://pdfs.semanticscholar.org/7635/78fa9003f6c0f735bc3250fc2116f6100463.pdf), sources: [[claymcleod/tf-differentiable-neural-computer]](https://github.com/claymcleod/tf-differentiable-neural-computer).
 
 ### Capsule Network
 - **Dynamic Routing Between Capsules**, [[paper]](https://arxiv.org/abs/1710.09829), [[blog]](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/), [[Understanding Hinton’s Capsule Networks]](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b), sources: [[soskek/dynamic_routing_between_capsules]](https://github.com/soskek/dynamic_routing_between_capsules), [[naturomics/CapsNet-Tensorflow]](https://github.com/naturomics/CapsNet-Tensorflow), [[XifengGuo/CapsNet-Keras]](https://github.com/XifengGuo/CapsNet-Keras).
