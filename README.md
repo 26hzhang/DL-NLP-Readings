@@ -1,8 +1,9 @@
-# My Reading Lists of Deep Learning and Natural Language Processing
+# My Reading Lists of Machine Learning, Natural Language Processing and etc.
 
 ## Table of Contents
-1. [Machine / Deep / Reinforcement Learning Courses / Tutorials](#machine--deep--reinforcement-learning-courses--tutorials)
-2. [Natural Language Processing](#natural-language-processing)
+1. [Machine / Deep / Reinforcement Learning Courses](#machine--deep--reinforcement-learning-courses)
+2. [Machine / Deep Learning Books](#machine--deep-learning-books)
+3. [Natural Language Processing](#natural-language-processing)
     1. [Machine Translation](#machine-translation)
     2. [Machine / Reading Comprehension, Question Answering, Natural Language Understanding](#machine--reading-comprehension-question-answering-natural-language-understanding)
     3. [Dialogue / Conversation / Chatbot System](#dialogue--conversation--chatbot-system)
@@ -16,7 +17,7 @@
     11. [Text / Sentence / Document Classification](#text--sentence--document-classification)
     12. [Embeddings](#embeddings)
     13. [Multi-task Models](#multi-task-models)
-3. [General](#general)
+4. [General](#general)
     1. [Recurrent Neural Network](#recurrent-neural-network)
     2. [Convolutional Neural Network](#convolutional-neural-network)
     3. [Neural Network Optimization](#neural-network-optimization)
@@ -28,13 +29,15 @@
     9. [Generative Adversarial Network](#generative-adversarial-network)
     10. [Multi-Task Models](#multi-task-models)
     11. [Others](#others)
-4. [Reinforcement Learning](#reinforcement-learning)
-5. [Other Resources](#other-resources)
+5. [Reinforcement Learning](#reinforcement-learning)
+6. [Extreme Learn Machines](#extreme-learn-machines)
+7. [Other Resources](#other-resources)
     1. [Reading Lists and Tutorials](#reading-lists-and-tutorials)
     2. [Python Books in Machine Learning and Data Analysis](#python-books-in-machine-learning-and-data-analysis)
     3. [Java / Scala Books in Machine Learning and Data Analysis](#java--scala-books-in-machine-learning-and-data-analysis)
+8. [Coding](#coding)
 
-## Machine / Deep / Reinforcement Learning Courses / Tutorials
+## Machine / Deep / Reinforcement Learning Courses
 - **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://www.phontron.com/class/nn4nlp2018/index.html).
 - **CS231n: Convolutional Neural Networks for Visual Recognition**, _Stanford University_, [[url]](http://cs231n.stanford.edu).
 - **CS229: Machine Learning**, _Stanford University_, [[url]](http://cs229.stanford.edu).
@@ -46,12 +49,21 @@
 - **University College London (UCL) Course on Reinforcement Learning (RL)**, [[url]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
 - **MIT 6.S099: Artificial General Intelligence**, _Massachusetts Institute of Technology_, [[url]](https://agi.mit.edu).
 
+## Machine / Deep Learning Books
+- **Pattern Recognition and Machine Learning**, [[book]](/Papers/ML%20DL%20Books/Pattern%Recognition%and%Machine%Learning.pdf), [[Chinese version book]](/Papers/ML%20DL%20Books/Pattern%Recognition%and%Machine%Learning%20Chinese.pdf), [[solutions]](/Papers/ML%20DL%20Books/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf).
+- **Machine Learning: A Probabilistic Perspective**, [[book]](/Papers/ML%20DL%20Books/Machine%20Learning%20A%20Probabilistic%20Perspective.pdf).
+- **机器学习 周志华**, [[book]](/Papers/ML%20DL%20Books/机器学习.pdf)
+- **统计学习方法**, [[book]](/Papers/ML%20DL%20Books/统计学习方法.pdf).
+- **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](/Papers/ML%20DL%20Books/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques.pdf).
+- **Deep Learning**, [[book]](/Papers/ML%20DL%20Books/Deep%20Learning.pdf), [[Chinese version book]](/Papers/ML%20DL%20Books/Deep%20Learning%20Chinese.pdf), [[homepage]](http://www.deeplearningbook.org).
+
 ## Natural Language Processing
-- **Speech and Language Processing**, [[book]](https://web.stanford.edu/~jurafsky/slp3/).
-- **Supervised Sequence Labelling with Recurrent Neural Networks**, [[Alex Graves's Ph.D. Thesis]](https://www.cs.toronto.edu/~graves/preprint.pdf).
+- **Speech and Language Processing**, [[webside]](https://web.stanford.edu/~jurafsky/slp3/), [[book: 3rd edition draft]](/Papers/NLP/Speech%20and%20Language%20Processing.pdf).
 - **Sentic Computing**, [[book]](http://sentic.net/sentic-computing.pdf).
-- **Knowledge Representation and Question Answering**, [[Handbook of Knowledge Representation - Chapter 20]](https://pdfs.semanticscholar.org/d0fc/5473d4fa1f9dff0829b0dd8f780220da33c3.pdf).
-- **Question Answering**, [[Speech and Language Processing 2017 - Chapter 28]](https://web.stanford.edu/~jurafsky/slp3/28.pdf).
+- **Handbook of Knowledge Representation**, [[book]](https://dai.fmph.uniba.sk/~sefranek/kri/handbook/handbook_of_kr.pdf).
+- **Deep Learning for NLP without Magic**, [[slides]](/Papers/NLP/Deep%20Learning%20for%20NLP%20without%20Magic.pdf).
+- **A Primer on Neural Network Models for Natural Language Processing**, [[book]](/Papers/NLP/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf).
+- **Conceptual Structures: From Information to Intelligence**, [[book]](/Papers/NLP/Conceptual%20Structures%20from%20Information%20to%20Intelligence.pdf).
 
 ### Machine Translation
 - **A Convolutional Encoder Model for Neural Machine Translation**, [[paper]](https://arxiv.org/abs/1611.02344), sources: [[facebookresearch/fairseq]](https://github.com/facebookresearch/fairseq).
@@ -139,6 +151,7 @@
 - **LSDSem 2017: 2nd Workshop on Linking Models of Lexical, Sentential and Discourse-level Semantics**, [[homepage]](http://www.coli.uni-saarland.de/~mroth/LSDSem/), [[doc]](https://pdfs.semanticscholar.org/13da/c5f2d76b630307cc590efb898639c6c21245.pdf?_ga=2.115348101.2032186556.1517662608-872936552.1517662608).
 
 ### Sequence Labeling (POS Tagging, Chunking, NER, Punctuation Restoration, Semantic Role Labeling and etc.)
+- **Supervised Sequence Labelling with Recurrent Neural Networks**, [[Alex Graves's Ph.D. Thesis]](https://www.cs.toronto.edu/~graves/preprint.pdf).
 - **Automatic Semantic Role Labeling**, [[slides]](https://nlp.stanford.edu/kristina/papers/SRL-Tutorial-post-HLT-NAACL-06.pdf); **Semantic Role Labeling**, [[doc]](https://web.stanford.edu/~jurafsky/slp3/22.pdf); **Part-of-Speech Tagging**, [[slides]](http://www.computational-logic.org/iccl/master/lectures/summer06/nlp/part-of-speech-tagging.pdf), **Semantic Role Labeling Tutorial**, [[slides]](http://naacl2013.naacl.org/Documents/semantic-role-labeling-part-1-naacl-2013-tutorial.pdf).
 - **Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling**, [[paper]](http://www.cs.upc.edu/~srlconll/st05/papers/intro.pdf), [[homepage]](http://www.lsi.upc.edu/~srlconll/), [[homepage]](http://www.lsi.upc.edu/~srlconll/st04/st04.html).
 - **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/abs/1603.06270).
@@ -212,6 +225,7 @@
 - **Recurrent Convolutional Neural Networks for Text Classification**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745/9552), sources: [[knok/rcnn-text-classification]](https://github.com/knok/rcnn-text-classification), [[airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier]](https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier).
 - **Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean**, [[paper]](https://arxiv.org/abs/1708.02657), sources: [[zhangxiangxiao/glyph]](https://github.com/zhangxiangxiao/glyph).
 - **Densely Connected Bidirectional LSTM with Applications to Sentence Classification**, [[paper]](https://arxiv.org/abs/1802.00889), source: [[IsaacChanghau/Dense_BiLSTM]](https://github.com/IsaacChanghau/Dense_BiLSTM).
+- **Deep Unordered Composition Rivals Syntactic Methods for Text Classification**, [[paper]](https://www.cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf), sources: [[miyyer/dan]](https://github.com/miyyer/dan).
 
 ### Embeddings
 - **How to Generate a Good Word Embedding?**, [[paper]](https://arxiv.org/abs/1507.05523), [[blog]](http://licstar.net/archives/620), sources: [[licstar/compare]](https://github.com/licstar/compare).
@@ -252,8 +266,8 @@
 - **Deep Learning Tutorial**, _李宏毅 (Hung-yi Lee)_, [[slides]](/Papers/General/Deep%20Learning%20Tutorial.pdf), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
 - **Deep Learning Tutorial**, _LISA lab, University of Montreal_, [[docs]](http://deeplearning.net/tutorial/deeplearning.pdf).
 - **On the Origin of Deep Learning**, [[paper]](https://arxiv.org/pdf/1702.07800.pdf).
-- **Efficient Methods and Hardware for Deep Learning**, [[Ph.D Thesis]](https://stacks.stanford.edu/file/druid:qf934gh3708/EFFICIENT%20METHODS%20AND%20HARDWARE%20FOR%20DEEP%20LEARNING-augmented.pdf), [[Song Han's homepage]](https://mtlsites.mit.edu/songhan/), [[slides]](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf).
 - **Multiple Kernel Learning Algorithms**, [[paper]](http://jmlr.csail.mit.edu/papers/volume12/gonen11a/gonen11a.pdf).
+- **Derivatives Backpropagation and Vectorization**, [[lecture notes]](/Papers/General/Derivatives%20Backpropagation%20and%20Vectorization.pdf).
 
 ### Recurrent Neural Network
 - **An Empirical Exploration of Recurrent Network Architectures**, [[paper]](http://proceedings.mlr.press/v37/jozefowicz15.pdf).
@@ -305,6 +319,7 @@
 - **Dynamic Routing Between Capsules**, [[paper]](https://arxiv.org/abs/1710.09829), [[blog]](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/), [[Understanding Hinton’s Capsule Networks]](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b), sources: [[soskek/dynamic_routing_between_capsules]](https://github.com/soskek/dynamic_routing_between_capsules), [[naturomics/CapsNet-Tensorflow]](https://github.com/naturomics/CapsNet-Tensorflow), [[XifengGuo/CapsNet-Keras]](https://github.com/XifengGuo/CapsNet-Keras).
 
 ### Autoencoder
+- **Sparse Autoencoder**, [[lecture notes]](/Papers/General/Autoencoder/Sparse%20Autoencoder.pdf).
 - **k-Sparse Autoencoders**, [[paper]](https://arxiv.org/pdf/1312.5663.pdf), sources: [[arashsaber/Sparse-Auto-Encoder]](https://github.com/arashsaber/Sparse-Auto-Encoder), [[snooky23/K-Sparse-AutoEncoder]](https://github.com/snooky23/K-Sparse-AutoEncoder).
 
 ### Highway Network
@@ -326,10 +341,20 @@
 
 ### Others
 - **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**, [[paper]](https://arxiv.org/abs/1609.06647), sources: [[tensorflow/models/im2txt]](https://github.com/tensorflow/models/tree/master/research/im2txt).
-
+- **Efficient Methods and Hardware for Deep Learning**, [[Ph.D Thesis]](https://stacks.stanford.edu/file/druid:qf934gh3708/EFFICIENT%20METHODS%20AND%20HARDWARE%20FOR%20DEEP%20LEARNING-augmented.pdf), [[Song Han's homepage]](https://mtlsites.mit.edu/songhan/), [[slides]](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf).
 
 ## Reinforcement Learning
+- **Reinforcement Learning: An Introduction**, [[book]](/Papers/Reinforcement%20Learning/Reinforcement%20Learning%20An%20Introduction.pdf).
 - **Playing Atari with Deep Reinforcement Learning**, [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [[blog]](https://keon.io/deep-q-learning/), sources: [[kuz/DeepMind-Atari-Deep-Q-Learner]](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner).
+
+## Extreme Learn Machines
+- **Extreme Learning Machine**, [[slides]](/Papers/ELM/Extreme%20Learning%20Machine.pdf).
+- **Extreme learning machines: a survey**, [[paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.522&rep=rep1&type=pdf).
+- **Extreme Learning Machine: A New Learning Scheme of Feedforward Neural Networks**, [[paper]](https://pdfs.semanticscholar.org/2b9c/0e4d1d473aadbe1c2a76f75bc02bfa6416b0.pdf).
+- **Extreme learning machine: Theory and applications**, [[paper]](http://axon.cs.byu.edu/~martinez/classes/678/Presentations/Yao.pdf).
+- **Extreme Learning Machine for Regression and Multiclass Classification**, [[paper]](/Papers/ELM/Extreme%20Learning%20Machine%20for%20Regression%20and%20Multiclass%20Classification.pdf).
+- **A Fast and Accurate Online Sequential Learning Algorithm for Feedforward Networks**, [[paper]](/Papers/ELM/A%20Fast%20and%20Accurate%20Online%20Sequential%20Learning%20Algorithm%20for%20Feedforward%20Networks.pdf).
+- **Universal Approximation Using Incremental Constructive Feedforward Networks With Random Hidden Nodes**, [[paper]](http://www.ntu.edu.sg/home/EGBHuang/pdf/I-ELM.pdf).
 
 ## Other Resources
 ### Reading Lists and Tutorials
@@ -357,3 +382,20 @@
 - **Deep Learning: A Practitioner's Approach**, [[book]](/Papers/Others/Java/Deep%20Learning%20a%20Practitioners%20Approach.pdf).
 - **Machine Learning with Spark**, [[book]](/Papers/Others/Java/Machine%20Learning%20with%20Spark.pdf), [[Chinses version book]](/Papers/Others/Java/Spark机器学习.pdf), sources: [[PacktPublishing/Machine-Learning-with-Spark]](https://github.com/PacktPublishing/Machine-Learning-with-Spark), [[PacktPublishing/Machine-Learning-with-Spark-Second-Edition]](https://github.com/PacktPublishing/Machine-Learning-with-Spark-Second-Edition).
 - **Advanced Analytics with Spark**, [[book]](/Papers/Others/Java/Advanced%20Analytics%20with%20Spark.pdf), [[Chinese version book]](/Papers/Others/Java/Spark高级数据分析.pdf), sources: [[sryza/aas]](https://github.com/sryza/aas).
+
+## Coding
+- **Java Cookbook 3rd Edition**, [[book]](/Papers/Coding/Java/Java%20Cookbook%203rd%20Edition.pdf).
+- **Effective Java 2nd Edition**, [[book]](/Papers/Coding/Java/Effective%20Java%202nd%20Edition.pdf).
+- **Coding Interview in Java**, [[book]](/Papers/Coding/Java/Coding%20Interview%20in%20Java.pdf).
+- **Java 8 in Action**, [[book]](/Papers/Coding/Java/Java%208%20in%20Action.pdf), [[Chinese version book]](/Papers/Coding/Java/Java%208%20in%20Action%20CN.pdf).
+- **Scala Cookbook**, [[book]](/Papers/Coding/Scala/Scala%20Cookbook.pdf).
+- **Programming in Scala**, [[book]](/Papers/Coding/Scala/Programming%20in%20Scala.pdf), [[Chinese version book]](/Papers/Coding/Scala/Programming%20in%20Scala%20CN.pdf).
+- **Scala for the Impatient**, [[book]](/Papers/Coding/Scala/Scala%20for%20the%20Impatient.pdf).
+- **Scala in Depth**, [[book]](/Papers/Coding/Scala/Scala%20in%20Depth.pdf).
+- **简明Python教程**, [[Chinese version book]](/Papers/Coding/Python/简明Python教程.pdf).
+- **Writing Idiomatic Python**, [[book]](/Papers/Coding/Python/Writing%20Idiomatic%20Python.pdf)
+- **Python Cookbook 3rd Edition**, [[book]](/Papers/Coding/Python/Python%20Cookbook%203rd%20Edition.pdf), [[Chinese version book]](/Papers/Coding/Python/Python%20Cookbook%203rd%20Edition%20CN.pdf).
+- **Core Python Applications Programming 3rd Edition**, [[book]](/Papers/Coding/Python/Core%20Python%20Applications%20Programming%203rd%20Edition.pdf), [[Chinese version book]](/Papers/Coding/Python/Core%20Python%20Applications%20Programming%203rd%20Edition%20CN.pdf).
+- **Web Scraping with Python: Collecting Data from the Modern Web**, [[book]](/Papers/Coding/Python/Web%20Scraping%20with%20Python.pdf).
+- **用Python写网络爬虫**, [[Chinese version book]](/Papers/Coding/Python/用Python写网络爬虫.pdf).
+
