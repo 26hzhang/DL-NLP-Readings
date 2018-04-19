@@ -29,7 +29,10 @@
     10. [Multi-Task Models](#multi-task-models)
     11. [Others](#others)
 4. [Reinforcement Learning](#reinforcement-learning)
-5. [Other's Reading Lists and Resources](#others-reading-lists-and-resources)
+5. [Other Resources](#other-resources)
+    1. [Reading Lists and Tutorials](#reading-lists-and-tutorials)
+    2. [Python Books in Machine Learning and Data Analysis](#python-books-in-machine-learning-and-data-analysis)
+    3. [Java / Scala Books in Machine Learning and Data Analysis](#java--scala-books-in-machine-learning-and-data-analysis)
 
 ## Machine / Deep / Reinforcement Learning Courses / Tutorials
 - **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://www.phontron.com/class/nn4nlp2018/index.html).
@@ -328,19 +331,29 @@
 ## Reinforcement Learning
 - **Playing Atari with Deep Reinforcement Learning**, [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [[blog]](https://keon.io/deep-q-learning/), sources: [[kuz/DeepMind-Atari-Deep-Q-Learner]](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner).
 
-## Other's Reading Lists and Resources
+## Other Resources
+### Reading Lists and Tutorials
 - [[andrewt3000/DL4NLP]](https://github.com/andrewt3000/DL4NLP), _reading lists_.
 - [[kjw0612/awesome-rnn]](https://github.com/kjw0612/awesome-rnn), _reading lists_.
 - [[keon/awesome-nlp]](https://github.com/keon/awesome-nlp), _reading lists_.
 - [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
 - [[tensorflow/nmt]](https://github.com/tensorflow/nmt), _TensorFlow Neural Machine Translation Tutorial_.
-- **TensorFlow Machine Learning Cookbook**, [[book]](/Papers/Others/Tensorflow%20Machine%20Learning%20Cookbook.pdf), sources: [[nfmcclure/tensorflow_cookbook]](https://github.com/nfmcclure/tensorflow_cookbook).
-- **TensorFlow技术解析与实战**, [[book]](/Papers/Others/TensorFlow技术解析与实战.pdf), sources: [[greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow]](https://github.com/greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow).
-- **Python机器学习及实践**, [[book]](/Papers/Others/Python机器学习及实践.pdf), sources: [[NobiGo/-MachineLearningStudy]](https://github.com/NobiGo/-MachineLearningStudy).
-- **Hands on Machine Learning with Scikit Learn and TensorFlow**, [[book]](/Papers/Others/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%29TensorFlow.pdf), sources: [[ageron/handson-ml]](https://github.com/ageron/handson-ml).
-- **Python Machine Learning**, [[book]](/Papers/Others/Python%20Machine%20Learning.pdf), sources: [[rasbt/python-machine-learning-book]](https://github.com/rasbt/python-machine-learning-book).
-- **Deep Learning with Tensorflow**, [[book]](/Papers/Others/Deep%20Learning%20with%20Tensorflow.pdf), sources: [[PacktPublishing/Deep-Learning-with-TensorFlow]](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow).
-- **Python for Data Analysis**, [[book]](/Papers/Others/Python%20for%20Data%20Analysis.pdf), [[Chinese version book]](/Papers/Others/Python%20for%20Data%20Analysis%20CN.pdf), sources: [[wesm/pydata-book]](https://github.com/wesm/pydata-book).
-- **Fundamentals of Deep Learning**, [[book]](/Papers/Others/Fundamentals%20of%20Deep%20Learning.pdf), sources: [[darksigma/Fundamentals-of-Deep-Learning-Book]](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book).
-- **Natural Language Processing with Python**, [[book]](/Papers/Others/Natural%20Language%20Processing%20with%20Python.pdf), [[Chinese version book]](/Papers/Others/Python自然语言处理.pdf).
-- **NLTK Essentials: Build cool NLP and machine learning applications using NLTK and other Python libraries**, [[book]](/Papers/Others/NLTK%20Essentials.pdf), [[Chinese version book]](/Papers/Others/NLTK基础教程-用NLTK和Python库构建机器学习应用.pdf).
+
+### Python Books in Machine Learning and Data Analysis
+- **TensorFlow Machine Learning Cookbook**, [[book]](/Papers/Others/Python/Tensorflow%20Machine%20Learning%20Cookbook.pdf), sources: [[nfmcclure/tensorflow_cookbook]](https://github.com/nfmcclure/tensorflow_cookbook).
+- **TensorFlow技术解析与实战**, [[book]](/Papers/Others/Python/TensorFlow技术解析与实战.pdf), sources: [[greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow]](https://github.com/greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow).
+- **Python机器学习及实践**, [[book]](/Papers/Others/Python/Python机器学习及实践.pdf), sources: [[NobiGo/-MachineLearningStudy]](https://github.com/NobiGo/-MachineLearningStudy).
+- **Hands on Machine Learning with Scikit Learn and TensorFlow**, [[book]](/Papers/Others/Python/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%29TensorFlow.pdf), sources: [[ageron/handson-ml]](https://github.com/ageron/handson-ml).
+- **Python Machine Learning**, [[book]](/Papers/Others/Python/Python%20Machine%20Learning.pdf), sources: [[rasbt/python-machine-learning-book]](https://github.com/rasbt/python-machine-learning-book).
+- **Deep Learning with Tensorflow**, [[book]](/Papers/Others/Python/Deep%20Learning%20with%20Tensorflow.pdf), sources: [[PacktPublishing/Deep-Learning-with-TensorFlow]](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow).
+- **Python for Data Analysis**, [[book]](/Papers/Others/Python/Python%20for%20Data%20Analysis.pdf), [[Chinese version book]](/Papers/Others/Python/Python%20for%20Data%20Analysis%20CN.pdf), sources: [[wesm/pydata-book]](https://github.com/wesm/pydata-book).
+- **Fundamentals of Deep Learning**, [[book]](/Papers/Others/Python/Fundamentals%20of%20Deep%20Learning.pdf), sources: [[darksigma/Fundamentals-of-Deep-Learning-Book]](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book).
+- **Natural Language Processing with Python**, [[book]](/Papers/Others/Python/Natural%20Language%20Processing%20with%20Python.pdf), [[Chinese version book]](/Papers/Others/Python/Python自然语言处理.pdf).
+- **NLTK Essentials: Build cool NLP and machine learning applications using NLTK and other Python libraries**, [[book]](/Papers/Others/Python/NLTK%20Essentials.pdf), [[Chinese version book]](/Papers/Others/Python/NLTK基础教程-用NLTK和Python库构建机器学习应用.pdf).
+
+### Java / Scala Books in Machine Learning and Data Analysis
+- **Java Deep Learning Essentials**, [[book]](/Papers/Others/Java/Java%20Deep%20Learning%20Essentials.pdf), [[Chinese version book]](/Papers/Others/Java/深度学习Java语言实现.pdf), sources: [[PacktPublishing/Java-Deep-Learning-Essentials]](https://github.com/PacktPublishing/Java-Deep-Learning-Essentials).
+- **Learning Spark: Lightning-Fast Data Analysis**, [[book]](/Papers/Others/Java/Learning%20Spark%20Lightning-Fast%20Data%20Analysis.pdf), [[Chinese version book]](/Papers/Others/Java/Spark快速大数据分析.pdf), sources: [[databricks/learning-spark]](https://github.com/databricks/learning-spark).
+- **Deep Learning: A Practitioner's Approach**, [[book]](/Papers/Others/Java/Deep%20Learning%20a%20Practitioners%20Approach.pdf).
+- **Machine Learning with Spark**, [[book]](/Papers/Others/Java/Machine%20Learning%20with%20Spark.pdf), [[Chinses version book]](/Papers/Others/Java/Spark机器学习.pdf), sources: [[PacktPublishing/Machine-Learning-with-Spark]](https://github.com/PacktPublishing/Machine-Learning-with-Spark), [[PacktPublishing/Machine-Learning-with-Spark-Second-Edition]](https://github.com/PacktPublishing/Machine-Learning-with-Spark-Second-Edition).
+- **Advanced Analytics with Spark**, [[book]](/Papers/Others/Java/Advanced%20Analytics%20with%20Spark.pdf), [[Chinese version book]](/Papers/Others/Java/Spark高级数据分析.pdf), sources: [[sryza/aas]](https://github.com/sryza/aas).
