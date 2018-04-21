@@ -19,7 +19,7 @@
     13. [Multi-task Models](#multi-task-models)
 4. [General](#general)
     1. [Recurrent Neural Network](#recurrent-neural-network)
-    2. [Convolutional Neural Network](#convolutional-neural-network)
+    2. [Convolutional Neural Network and Computer Vision](#convolutional-neural-network-and-computer-vision)
     3. [Neural Network Optimization](#neural-network-optimization)
     4. [Neural Tuning Machine](#neural-tuning-machine)
     5. [Capsule Network](#capsule-network)
@@ -31,7 +31,7 @@
     11. [Others](#others)
 5. [Reinforcement Learning](#reinforcement-learning)
 6. [Extreme Learn Machines](#extreme-learn-machines)
-7. [Other Resources](#other-resources)
+7. [Other Resources for Machine Learning](#other-resources-for-machine-learning)
     1. [Reading Lists and Tutorials](#reading-lists-and-tutorials)
     2. [Python Books in Machine Learning and Data Analysis](#python-books-in-machine-learning-and-data-analysis)
     3. [Java / Scala Books in Machine Learning and Data Analysis](#java--scala-books-in-machine-learning-and-data-analysis)
@@ -44,16 +44,18 @@
 - **CS224d: Deep Learning for Natural Language Processing**, _Stanford University_, [[url]](http://cs224d.stanford.edu/index.html).
 - **CS6101: Deep Learning for NLP**, _National University of Singapore_, [[url]](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/#s).
 - **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/), [[YouTube]](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja), [[Chinese notes]](http://www.hankcs.com/tag/cs224n/).
-- **Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial**, _Stanford University_, [[url]](http://ufldl.stanford.edu/tutorial/), [[another url]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial).
+- **Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial**, _Stanford University_, [[url]](http://ufldl.stanford.edu/tutorial/), [[another url]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial), [[Chinese]](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B).
 - **Essence of linear algebra**, [[YouTube]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 - **University College London (UCL) Course on Reinforcement Learning (RL)**, [[url]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
 - **MIT 6.S099: Artificial General Intelligence**, _Massachusetts Institute of Technology_, [[url]](https://agi.mit.edu).
+- **Theories of Deep Learning (STATS 385)**, _Stanford University_, [[url]](https://stats385.github.io/readings), [[YouTube]](https://www.youtube.com/playlist?list=PLL20C1i47eFCf9JNw1Ed1seBiIPltf5U0).
+- **fast.ai: Making neural nets uncool again**, [[url]](http://www.fast.ai/), [[Ultimate guide to setting up a Google Cloud machine for fast.ai]](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43).
 
 ## Machine / Deep Learning Books
 - **Pattern Recognition and Machine Learning**, [[book]](/Papers/ML%20DL%20Books/Pattern%Recognition%and%Machine%Learning.pdf), [[Chinese version book]](/Papers/ML%20DL%20Books/Pattern%Recognition%and%Machine%Learning%20Chinese.pdf), [[solutions]](/Papers/ML%20DL%20Books/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf).
 - **Machine Learning: A Probabilistic Perspective**, [[book]](/Papers/ML%20DL%20Books/Machine%20Learning%20A%20Probabilistic%20Perspective.pdf).
-- **机器学习 周志华**, [[book]](/Papers/ML%20DL%20Books/机器学习.pdf)
-- **统计学习方法**, [[book]](/Papers/ML%20DL%20Books/统计学习方法.pdf).
+- **机器学习 (周志华)**, [[Chinese version book]](/Papers/ML%20DL%20Books/机器学习.pdf)
+- **统计学习方法 (李航)**, [[Chinese version book]](/Papers/ML%20DL%20Books/统计学习方法.pdf).
 - **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](/Papers/ML%20DL%20Books/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques.pdf).
 - **Deep Learning**, [[book]](/Papers/ML%20DL%20Books/Deep%20Learning.pdf), [[Chinese version book]](/Papers/ML%20DL%20Books/Deep%20Learning%20Chinese.pdf), [[homepage]](http://www.deeplearningbook.org).
 
@@ -287,14 +289,14 @@
 - **Learning to Skim Text**, [[paper]](http://aclweb.org/anthology/P17-1172), [[notes]](https://zhuanlan.zhihu.com/p/30555359).
 - **Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1708.06834.pdf), [[homepage]](https://imatge-upc.github.io/skiprnn-2017-telecombcn/), sources: [[imatge-upc/skiprnn-2017-telecombcn]](https://github.com/imatge-upc/skiprnn-2017-telecombcn).
 
-
-### Convolutional Neural Network
+### Convolutional Neural Network and Computer Vision
 - **Visualizing and Understanding Convolutional Networks**, [[paper]](https://arxiv.org/abs/1311.2901).
-- **Densely Connected Convolutional Networks**, [[paper]](https://arxiv.org/abs/1608.06993).
+- **Densely Connected Convolutional Networks**, [[paper]](https://arxiv.org/abs/1608.06993), sources: [[liuzhuang13/DenseNet]](https://github.com/liuzhuang13/DenseNet).
 - **Learning Convolutional Neural Networks for Graphs**, [[paper]](https://arxiv.org/abs/1605.05273).
-- **Going Deeper with Convolutions**, [[paper]](https://arxiv.org/abs/1409.4842).
-- **ImageNet Classification with Deep Convolutional Neural Networks**, [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
-- **Very Deep Convolutional Networks for Large-Scale Image Recognition**, [[paper]](https://arxiv.org/abs/1409.1556).
+- **ImageNet Classification with Deep Convolutional Neural Networks**, _AlexNet_, [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
+- **Very Deep Convolutional Networks for Large-Scale Image Recognition**, _VGG_, [[paper]](https://arxiv.org/abs/1409.1556).
+- **Going Deeper with Convolutions**, _GoogLeNet_, [[paper]](https://arxiv.org/abs/1409.4842).
+- **Mask R-CNN**, [[paper]](https://arxiv.org/pdf/1703.06870.pdf), [[tutorial]](http://kaiminghe.com/iccv17tutorial/maskrcnn_iccv2017_tutorial_kaiminghe.pdf), [[video]](https://www.youtube.com/watch?v=2TikTv6PWDw), sources: [[matterport/Mask_RCNN]](https://github.com/matterport/Mask_RCNN), [[CharlesShang/FastMaskRCNN]](https://github.com/CharlesShang/FastMaskRCNN), [[facebookresearch/Detectron]](https://github.com/facebookresearch/Detectron).
 
 ### Neural Network Optimization
 - **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**, [[paper]](https://arxiv.org/abs/1502.01852), [[Kaiming He's homepage]](http://kaiminghe.com), sources: [[nutszebra/prelu_net]](https://github.com/nutszebra/prelu_net).
@@ -356,18 +358,22 @@
 - **A Fast and Accurate Online Sequential Learning Algorithm for Feedforward Networks**, [[paper]](/Papers/ELM/A%20Fast%20and%20Accurate%20Online%20Sequential%20Learning%20Algorithm%20for%20Feedforward%20Networks.pdf).
 - **Universal Approximation Using Incremental Constructive Feedforward Networks With Random Hidden Nodes**, [[paper]](http://www.ntu.edu.sg/home/EGBHuang/pdf/I-ELM.pdf).
 
-## Other Resources
+## Other Resources for Machine Learning
 ### Reading Lists and Tutorials
 - [[andrewt3000/DL4NLP]](https://github.com/andrewt3000/DL4NLP), _reading lists_.
 - [[kjw0612/awesome-rnn]](https://github.com/kjw0612/awesome-rnn), _reading lists_.
 - [[keon/awesome-nlp]](https://github.com/keon/awesome-nlp), _reading lists_.
+- [[snakeztc/NeuralDialogPapers]](https://github.com/snakeztc/NeuralDialogPapers), _reading lists_.
+- [[kristjankorjus/applied-deep-learning-resources]](https://github.com/kristjankorjus/applied-deep-learning-resources), _reading lists -- mainly focusing on CNNs_.
 - [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
 - [[tensorflow/nmt]](https://github.com/tensorflow/nmt), _TensorFlow Neural Machine Translation Tutorial_.
+- [[rougier/numpy-100]](https://github.com/rougier/numpy-100), _Numpy Tutorial_.
+
 
 ### Python Books in Machine Learning and Data Analysis
 - **TensorFlow Machine Learning Cookbook**, [[book]](/Papers/Others/Python/Tensorflow%20Machine%20Learning%20Cookbook.pdf), sources: [[nfmcclure/tensorflow_cookbook]](https://github.com/nfmcclure/tensorflow_cookbook).
-- **TensorFlow技术解析与实战**, [[book]](/Papers/Others/Python/TensorFlow技术解析与实战.pdf), sources: [[greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow]](https://github.com/greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow).
-- **Python机器学习及实践**, [[book]](/Papers/Others/Python/Python机器学习及实践.pdf), sources: [[NobiGo/-MachineLearningStudy]](https://github.com/NobiGo/-MachineLearningStudy).
+- **TensorFlow技术解析与实战**, [[Chinese version book]](/Papers/Others/Python/TensorFlow技术解析与实战.pdf), sources: [[greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow]](https://github.com/greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow).
+- **Python机器学习及实践**, [[Chinese version book]](/Papers/Others/Python/Python机器学习及实践.pdf), sources: [[NobiGo/-MachineLearningStudy]](https://github.com/NobiGo/-MachineLearningStudy).
 - **Hands on Machine Learning with Scikit Learn and TensorFlow**, [[book]](/Papers/Others/Python/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%29TensorFlow.pdf), sources: [[ageron/handson-ml]](https://github.com/ageron/handson-ml).
 - **Python Machine Learning**, [[book]](/Papers/Others/Python/Python%20Machine%20Learning.pdf), sources: [[rasbt/python-machine-learning-book]](https://github.com/rasbt/python-machine-learning-book).
 - **Deep Learning with Tensorflow**, [[book]](/Papers/Others/Python/Deep%20Learning%20with%20Tensorflow.pdf), sources: [[PacktPublishing/Deep-Learning-with-TensorFlow]](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow).
@@ -384,6 +390,11 @@
 - **Advanced Analytics with Spark**, [[book]](/Papers/Others/Java/Advanced%20Analytics%20with%20Spark.pdf), [[Chinese version book]](/Papers/Others/Java/Spark高级数据分析.pdf), sources: [[sryza/aas]](https://github.com/sryza/aas).
 
 ## Coding
+- **Learn Enough Git to Be Dangerous**, [[homepage]](https://www.learnenough.com/git-tutorial).
+- **Algorithms Tutorialhorizon**, [[homepage]](https://algorithms.tutorialhorizon.com).
+- **Git教程 (廖雪峰)**, [[homepage]](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000).
+- **JavaScript教程 (廖雪峰)**, [[homepage]](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000).
+- **Python教程 (廖雪峰)**, [[homepage]](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000).
 - **Java Cookbook 3rd Edition**, [[book]](/Papers/Coding/Java/Java%20Cookbook%203rd%20Edition.pdf).
 - **Effective Java 2nd Edition**, [[book]](/Papers/Coding/Java/Effective%20Java%202nd%20Edition.pdf).
 - **Coding Interview in Java**, [[book]](/Papers/Coding/Java/Coding%20Interview%20in%20Java.pdf).
@@ -398,4 +409,3 @@
 - **Core Python Applications Programming 3rd Edition**, [[book]](/Papers/Coding/Python/Core%20Python%20Applications%20Programming%203rd%20Edition.pdf), [[Chinese version book]](/Papers/Coding/Python/Core%20Python%20Applications%20Programming%203rd%20Edition%20CN.pdf).
 - **Web Scraping with Python: Collecting Data from the Modern Web**, [[book]](/Papers/Coding/Python/Web%20Scraping%20with%20Python.pdf).
 - **用Python写网络爬虫**, [[Chinese version book]](/Papers/Coding/Python/用Python写网络爬虫.pdf).
-
