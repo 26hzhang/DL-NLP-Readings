@@ -93,9 +93,7 @@
 - **World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions**, [[paper]](http://aclweb.org/anthology/D17-1086), [[homepage]](http://dataset.cs.mcgill.ca/downloads/rare_entity_dataset.html).
 - **An Attention-Based Word-Level Interaction Model: Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1801.09893).
 - **Teaching Machines to Read and Comprehend**, [[paper]](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), sources: [[thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend]](https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend).
-- **More Accurate Question Answering on Freebase**, [[paper]](http://ad-publications.informatik.uni-freiburg.de/freebase-qa.pdf).
 - **MaskGAN: Better Text Generation via Filling in the `______`**, [[paper]](https://arxiv.org/abs/1801.07736).
-- **Constructing Datasets for Multi-hop Reading Comprehension Across Documents**, [[paper]](https://arxiv.org/abs/1710.06481).
 - **Deep Learning for Answer Sentence Selection**, [[paper]](https://arxiv.org/pdf/1412.1632.pdf), sources: [[brmson/Sentence-selection]](https://github.com/brmson/Sentence-selection).
 - **Multi-attention Recurrent Network for Human Communication Comprehension**, [[paper]](https://arxiv.org/abs/1802.00923).
 - **FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension**, [[paper]](https://arxiv.org/abs/1711.07341), sources: [[exe1023/FusionNet]](https://github.com/exe1023/FusionNet), [[momohuang/FusionNet-NLI]](https://github.com/momohuang/FusionNet-NLI).
@@ -116,7 +114,6 @@
 - **Adversarial Learning for Neural Dialogue Generation**, [[paper]](https://arxiv.org/abs/1701.06547), sources: [[jiweil/Neural-Dialogue-Generation]](https://github.com/jiweil/Neural-Dialogue-Generation), [[liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow]](https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow).
 - **Attention with Intention for a Neural Network Conversation Model**, [[paper]](https://arxiv.org/abs/1510.08565).
 - **Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models**, [[paper]](https://arxiv.org/abs/1507.04808), sources: [[suriyadeepan/augmented_seq2seq]](https://github.com/suriyadeepan/augmented_seq2seq), [[julianser/hed-dlg]](https://github.com/julianser/hed-dlg), [[sordonia/hed-dlg]](https://github.com/sordonia/hed-dlg), [[julianser/hred-latent-piecewise]](https://github.com/julianser/hred-latent-piecewise), [[julianser/hed-dlg-truncated]](https://github.com/julianser/hed-dlg-truncated).
-- **Chatbot with common-sense database**, [[paper]](https://www.diva-portal.org/smash/get/diva2:812049/FULLTEXT01.pdf).
 - **Multi-view Response Selection for Human-Computer Conversation**, [[paper]](http://www.aclweb.org/anthology/D16-1036).
 - **Neural Responding Machine for Short-Text Conversation**, [[paper]](https://arxiv.org/abs/1503.02364).
 - **POMDP-based Statistical Spoken Dialogue Systems: a Review**, [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/young2013procieee.pdf).
@@ -154,8 +151,6 @@
 
 ### Sequence Labeling (POS Tagging, Chunking, NER, Punctuation Restoration, Semantic Role Labeling and etc.)
 - **Supervised Sequence Labelling with Recurrent Neural Networks**, [[Alex Graves's Ph.D. Thesis]](https://www.cs.toronto.edu/~graves/preprint.pdf).
-- **Automatic Semantic Role Labeling**, [[slides]](https://nlp.stanford.edu/kristina/papers/SRL-Tutorial-post-HLT-NAACL-06.pdf); **Semantic Role Labeling**, [[doc]](https://web.stanford.edu/~jurafsky/slp3/22.pdf); **Part-of-Speech Tagging**, [[slides]](http://www.computational-logic.org/iccl/master/lectures/summer06/nlp/part-of-speech-tagging.pdf), **Semantic Role Labeling Tutorial**, [[slides]](http://naacl2013.naacl.org/Documents/semantic-role-labeling-part-1-naacl-2013-tutorial.pdf).
-- **Introduction to the CoNLL-2005 Shared Task: Semantic Role Labeling**, [[paper]](http://www.cs.upc.edu/~srlconll/st05/papers/intro.pdf), [[homepage]](http://www.lsi.upc.edu/~srlconll/), [[homepage]](http://www.lsi.upc.edu/~srlconll/st04/st04.html).
 - **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/abs/1603.06270).
 - **Bidirectional LSTM-CRF Models for Sequence Tagging**, [[paper]](https://arxiv.org/abs/1508.01991), [[blog]](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html), sources: [[Hironsan/anago]](https://github.com/Hironsan/anago), [[guillaumegenthial/sequence_tagging]](https://github.com/guillaumegenthial/sequence_tagging).
 - **Boosting Named Entity Recognition with Neural Character Embeddings**, [[paper]](https://arxiv.org/abs/1505.05008), sources: [[isohrab/German-NER]](https://github.com/isohrab/German-NER).
@@ -233,11 +228,9 @@
 - **How to Generate a Good Word Embedding?**, [[paper]](https://arxiv.org/abs/1507.05523), [[blog]](http://licstar.net/archives/620), sources: [[licstar/compare]](https://github.com/licstar/compare).
 - **Word and Document Embeddings based on Neural Network Approaches (基于神经网络的词和文档语义向量表示方法研究)**, [[Ph.D. Thesis]](https://arxiv.org/pdf/1611.05962.pdf), [[blog]](http://licstar.net/archives/687).
 - **GloVe: Global Vectors for Word Representation**, [[paper]](https://nlp.stanford.edu/pubs/glove.pdf), [[homepage]](https://nlp.stanford.edu/projects/glove/), sources: [[stanfordnlp/GloVe]](https://github.com/stanfordnlp/GloVe).
-- **A Neural Probabilistic Language Model**, [[paper]](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf).
 - **A Simple But Tough-to-beat Baseline for Sentence Embeddings**, [[paper]](https://openreview.net/pdf?id=SyK00v5xx), sources: [[PrincetonML/SIF]](https://github.com/PrincetonML/SIF).
-- **A Simple Word Embedding Model for Lexical Substitution**, [[paper]](http://www.aclweb.org/anthology/W15-1501), sources: [[orenmel/lexsub]](https://github.com/orenmel/lexsub).
 - **An Ensemble Method to Produce High-Quality Word Embeddings**, [[paper]](https://arxiv.org/abs/1604.01692), [[blog]](https://blog.conceptnet.io/tag/word2vec/), sources: [[commonsense/conceptnet-numberbatch]](https://github.com/commonsense/conceptnet-numberbatch).
-- **Dependency-Based Word Embeddings**, [[paper]](http://www.aclweb.org/anthology/P14-2050), [[homepage]](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/), [[my blog]](https://isaacchanghau.github.io/2017/05/18/word2vecf/), sources: [[Yoav Goldberg/word2vecf]](https://bitbucket.org/yoavgo/word2vecf), [[IsaacChanghau/Word2VecfJava]](https://github.com/IsaacChanghau/Word2VecfJava/tree/master/src/main/java/com/isaac/word2vecf).
+- **Dependency-Based Word Embeddings**, [[paper]](http://www.aclweb.org/anthology/P14-2050), [[homepage]](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/), [[my blog]](https://isaacchanghau.github.io/2017/05/18/word2vecf/), sources: [[Yoav Goldberg/word2vecf]](https://bitbucket.org/yoavgo/word2vecf), [[IsaacChanghau/Word2VecfJava]](https://github.com/IsaacChanghau/Word2VecfJava/tree/master/src/main/java/com/isaac/word2vecf)， [[orenmel/lexsub]](https://github.com/orenmel/lexsub).
 - **context2vec: Learning Generic Context Embedding with Bidirectional LSTM**, [[paper]](http://www.aclweb.org/anthology/K16-1006), sources: [[orenmel/context2vec]](https://github.com/orenmel/context2vec).
 - **Enriching Word Vectors with Subword Information**, [[paper]](https://arxiv.org/abs/1607.04606), sources: [[facebookresearch/fastText]](https://github.com/facebookresearch/fastText), [[salestock/fastText.py]](https://github.com/salestock/fastText.py).
 - **Exploring the Limits of Language Modeling**, [[paper]](https://arxiv.org/abs/1602.02410), [[slides]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/slides/lipnet.pdf), sources: [[tensorflow/models/lm_1b]](https://github.com/tensorflow/models/tree/master/research/lm_1b).
@@ -247,7 +240,6 @@
 - **Improving Distributional Similarity with Lessons Learned from Word Embeddings**, [[paper]](http://www.aclweb.org/anthology/Q15-1016), [[homepage]](https://levyomer.wordpress.com/2015/03/30/improving-distributional-similarity-with-lessons-learned-from-word-embeddings/), sources: [[Omer Levy/hyperwords]](https://bitbucket.org/omerlevy/hyperwords).
 - **Distributed Representations of Words and Phrases and their Compositionality**, [[paper]](https://arxiv.org/abs/1310.4546), [[blog1]](https://www.cnblogs.com/peghoty/p/3857839.html), [[blog2]](http://blog.csdn.net/itplus/article/details/37969519), sources: [[word2vec]](https://code.google.com/archive/p/word2vec/), [[dav/word2vec]](https://github.com/dav/word2vec), [[yandex/faster-rnnlm]](https://github.com/yandex/faster-rnnlm), [[tensorflow/tensorflow/examples/tutorials/word2vec]](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/word2vec).
 - **Distributed Representations of Sentences and Documents**, [[paper]](https://arxiv.org/abs/1405.4053), sources: [[JonathanRaiman/PVDM]](https://github.com/JonathanRaiman/PVDM), [[klb3713/sentence2vec]](https://github.com/klb3713/sentence2vec).
-- **Efficient Estimation of Word Representations in Vector Space**, [[paper]](https://arxiv.org/abs/1301.3781), sources: [[word2vec]](https://code.google.com/archive/p/word2vec/).
 - **Exploiting Similarities among Languages for Machine Translation**, [[paper]](https://arxiv.org/abs/1309.4168), sources: [[mostafachatillon/word2vec]](https://github.com/mostafachatillon/word2vec/tree/master/word2vec%20machine%20translation), [[n8686025/word2vec-translation-matrix]](https://github.com/n8686025/word2vec-translation-matrix).
 - **Linguistic Regularities in Continuous Space Word Representations**, [[paper]](https://www.aclweb.org/anthology/N13-1090), sources: [[word2vec]](https://code.google.com/archive/p/word2vec/).
 - **Statistical Language Models based on Neural Networks**, [[Mikolov's Ph.D. Thesis]](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf), [[slides]](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf), sources: [[mspandit/rnnlm]](https://github.com/mspandit/rnnlm).
@@ -272,13 +264,7 @@
 - **Derivatives Backpropagation and Vectorization**, [[lecture notes]](/Papers/General/Derivatives%20Backpropagation%20and%20Vectorization.pdf).
 
 ### Recurrent Neural Network
-- **An Empirical Exploration of Recurrent Network Architectures**, [[paper]](http://proceedings.mlr.press/v37/jozefowicz15.pdf).
-- **Empirical Evaluation of Gated Recurrent Neural Network on Sequence Modeling**, [[paper]](https://arxiv.org/abs/1412.3555).
-- **Feed-forward Networks with Attention can Solve Some Long-term Memory Problems**, [[paper]](https://arxiv.org/abs/1512.08756).
 - **Grid Long Short-Term Memory**, [[paper]](https://arxiv.org/abs/1507.01526).
-- **Learning to Forget Continual Prediction with LSTM**, [[paper]](https://pdfs.semanticscholar.org/1154/0131eae85b2e11d53df7f1360eeb6476e7f4.pdf).
-- **Long Short-Term Memory**, [[paper]](http://www.bioinf.jku.at/publications/older/2604.pdf).
-- **LSTM: A Search Space Odyssey**, [[paper]](https://arxiv.org/abs/1503.04069).
 - **Long Short-Term Memory in Recurrent Neural Networks**, [[Gers' Ph.D. Thesis]](https://www.researchgate.net/profile/Felix_Gers/publication/2562741_Long_Short-Term_Memory_in_Recurrent_Neural_Networks/links/5759410a08ae9a9c954e77f5.pdf).
 - **Recurrent Neural Network Regularization**, [[paper]](https://arxiv.org/abs/1409.2329).
 - **Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks**, [[paper]](https://arxiv.org/abs/1611.06204).
@@ -369,7 +355,6 @@
 - [[tensorflow/nmt]](https://github.com/tensorflow/nmt), _TensorFlow Neural Machine Translation Tutorial_.
 - [[rougier/numpy-100]](https://github.com/rougier/numpy-100), _Numpy Tutorial_.
 
-
 ### Python Books in Machine Learning and Data Analysis
 - **TensorFlow Machine Learning Cookbook**, [[book]](/Papers/Others/Python/Tensorflow%20Machine%20Learning%20Cookbook.pdf), sources: [[nfmcclure/tensorflow_cookbook]](https://github.com/nfmcclure/tensorflow_cookbook).
 - **TensorFlow技术解析与实战**, [[Chinese version book]](/Papers/Others/Python/TensorFlow技术解析与实战.pdf), sources: [[greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow]](https://github.com/greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow).
@@ -405,7 +390,7 @@
 - **Scala in Depth**, [[book]](/Papers/Coding/Scala/Scala%20in%20Depth.pdf).
 - **简明Python教程**, [[Chinese version book]](/Papers/Coding/Python/简明Python教程.pdf).
 - **Writing Idiomatic Python**, [[book]](/Papers/Coding/Python/Writing%20Idiomatic%20Python.pdf)
-- **Python Cookbook 3rd Edition**, [[book]](/Papers/Coding/Python/Python%20Cookbook%203rd%20Edition.pdf), [[Chinese version book]](/Papers/Coding/Python/Python%20Cookbook%203rd%20Edition%20CN.pdf).
+- **Python Cookbook 3rd Edition**, [[book]](/Papers/Coding/Python/Python%20Cookbook%203rd%20Edition.pdf), [[Chinese version book]](/Papers/Coding/Python/Python%20Cookbook%203rd%20Edition%20CN.pdf), [[Chinese Online Readings]](http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html).
 - **Core Python Applications Programming 3rd Edition**, [[book]](/Papers/Coding/Python/Core%20Python%20Applications%20Programming%203rd%20Edition.pdf), [[Chinese version book]](/Papers/Coding/Python/Core%20Python%20Applications%20Programming%203rd%20Edition%20CN.pdf).
 - **Web Scraping with Python: Collecting Data from the Modern Web**, [[book]](/Papers/Coding/Python/Web%20Scraping%20with%20Python.pdf).
 - **用Python写网络爬虫**, [[Chinese version book]](/Papers/Coding/Python/用Python写网络爬虫.pdf).
