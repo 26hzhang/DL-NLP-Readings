@@ -1,0 +1,9 @@
+# Text, Sentence and Document Classification
+
+- **Bag of Tricks for Efficient Text Classification**, [[paper]](https://arxiv.org/abs/1607.01759), sources: [[facebookresearch/fastText]](https://github.com/facebookresearch/fastText).
+- **Convolutional Neural Networks for Sentence Classification**, [[paper]](https://arxiv.org/abs/1408.5882), sources: [[yoonkim/CNN_sentence]](https://github.com/yoonkim/CNN_sentence), [[dennybritz/cnn-text-classification-tf]](https://github.com/dennybritz/cnn-text-classification-tf).
+- **Hierarchical Attention Networks for Document Classification**, [[paper]](https://www.cs.cmu.edu/%7Ediyiy/docs/naacl16.pdf), sources: [[richliao/textClassifier]](https://github.com/richliao/textClassifier), [[ematvey/hierarchical-attention-networks]](https://github.com/ematvey/hierarchical-attention-networks).
+- **Recurrent Convolutional Neural Networks for Text Classification**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745/9552), sources: [[knok/rcnn-text-classification]](https://github.com/knok/rcnn-text-classification), [[airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier]](https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier).
+- **Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean**, [[paper]](https://arxiv.org/abs/1708.02657), sources: [[zhangxiangxiao/glyph]](https://github.com/zhangxiangxiao/glyph).
+- **Densely Connected Bidirectional LSTM with Applications to Sentence Classification**, [[paper]](https://arxiv.org/abs/1802.00889), source: [[IsaacChanghau/Dense_BiLSTM]](https://github.com/IsaacChanghau/Dense_BiLSTM).
+- **Deep Unordered Composition Rivals Syntactic Methods for Text Classification**, [[paper]](https://www.cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf), sources: [[miyyer/dan]](https://github.com/miyyer/dan).

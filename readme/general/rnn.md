@@ -1,0 +1,13 @@
+# Recurrent Neural Network
+
+- **Long Short-Term Memory in Recurrent Neural Networks**, [[Gers' Ph.D. Thesis]](https://www.researchgate.net/profile/Felix_Gers/publication/2562741_Long_Short-Term_Memory_in_Recurrent_Neural_Networks/links/5759410a08ae9a9c954e77f5.pdf).
+- **Recurrent Neural Network Regularization**, [[paper]](https://arxiv.org/abs/1409.2329).
+- **Visualizing and Understanding Curriculum Learning for Long Short-Term Memory Networks**, [[paper]](https://arxiv.org/abs/1611.06204).
+- **Grid Long Short-Term Memory**, [[paper]](https://arxiv.org/abs/1507.01526), sources: [[Tensotflow-GridLSTMCell]](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/GridLSTMCell).
+- **Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences**, [[paper]](https://arxiv.org/pdf/1610.09513v1.pdf), sources: [[Tensorflow-PhasedLSTMCell]](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/PhasedLSTMCell).
+- **Nested LSTMs**, [[paper]](https://arxiv.org/abs/1801.10308), sources: [[hannw/nlstm]](https://github.com/hannw/nlstm).
+- **Pointer Networks**, [[paper]](https://arxiv.org/pdf/1506.03134.pdf), [[blog]](http://fastml.com/introduction-to-pointer-networks/), sources: [[devsisters/pointer-network-tensorflow]](https://github.com/devsisters/pointer-network-tensorflow), [[https://github.com/ikostrikov/TensorFlow-Pointer-Networks]](https://github.com/ikostrikov/TensorFlow-Pointer-Networks), [[keon/pointer-networks]](https://github.com/keon/pointer-networks), [[pemami4911/neural-combinatorial-rl-pytorch]](https://github.com/pemami4911/neural-combinatorial-rl-pytorch), [[shiretzet/PointerNet]](https://github.com/shiretzet/PointerNet).
+- **Neural Speed Reading via Skim-RNN**, [[paper]](https://arxiv.org/pdf/1711.02085.pdf), sources: [[schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch]](https://github.com/schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch).
+- **Variable Computation in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1611.06188.pdf).
+- **Learning to Skim Text**, [[paper]](http://aclweb.org/anthology/P17-1172), [[notes]](https://zhuanlan.zhihu.com/p/30555359).
+- **Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1708.06834.pdf), [[homepage]](https://imatge-upc.github.io/skiprnn-2017-telecombcn/), sources: [[imatge-upc/skiprnn-2017-telecombcn]](https://github.com/imatge-upc/skiprnn-2017-telecombcn).
