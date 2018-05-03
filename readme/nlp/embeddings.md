@@ -20,5 +20,11 @@
 - **Implicitly Incorporating Morphological Information into Word Embedding**, [[paper]](https://arxiv.org/pdf/1701.02481.pdf).
 
 ## Interpretability
+- **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**, [[paper]](http://talukdar.net/papers/nnse_coling12.pdf), [[homepage]](http://www.cs.cmu.edu/~bmurphy/NNSE/).
+- **A Compositional and Interpretable Semantic Space**, [[paper]](http://www.aclweb.org/anthology/N15-1004).
+- **Online Learning of Interpretable Word Embeddings**, [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/emnlp2015_word2nvec.pdf).
+- **Sparse Word Embeddings Using l1 Regularized Online Learning**, [[paper]](https://www.ijcai.org/Proceedings/16/Papers/414.pdf), [[slides]](http://ofey.me/slides/sparse_ijcai16.pdf).
+- **Semantic Structure and Interpretability of Word Embeddings**, [[paper]](https://arxiv.org/pdf/1711.00331.pdf).
+- **Rotated Word Vector Representations and their Interpretability**, [[paper]](http://www.aclweb.org/anthology/D17-1041), [[poster]](https://sungjoonpark.github.io./assets/emnlp2017_poster.pdf), sources: [[SungjoonPark/factor_rotation]](https://github.com/SungjoonPark/factor_rotation), [[mvds314/factor_rotation]](https://github.com/mvds314/factor_rotation).
 - **SPOWV: Sparse Overcomplete Word Vector Representations**, [[paper]](http://www.aclweb.org/anthology/P15-1144), [[mfaruqui/sparse-coding]](https://github.com/mfaruqui/sparse-coding).
 - **SPINE: SParse Interpretable Neural Embeddings**, [[paper]](https://arxiv.org/pdf/1711.08792.pdf), sources: [[harsh19/SPINE]](https://github.com/harsh19/SPINE).

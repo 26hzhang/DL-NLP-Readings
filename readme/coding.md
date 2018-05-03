@@ -9,7 +9,7 @@
 - **Java Cookbook 3rd Edition**, [[book]](/Papers/Books/Coding/Java/Java%20Cookbook%203rd%20Edition.pdf).
 - **Effective Java 2nd Edition**, [[book]](/Papers/Books/Coding/Java/Effective%20Java%202nd%20Edition.pdf).
 - **Coding Interview in Java**, [[book]](/Papers/Books/Coding/Java/Coding%20Interview%20in%20Java.pdf).
-- **Java 8 in Action**, [[book]](/Papers/Books/Coding/Java/Java%208%20in%20Action.pdf), [[Chinese version book]](/Papers/Books/Coding/Java/Java%208%20in%20Action%20CN.pdf).
+- **Java 8 in Action**, [[book]](/Papers/Books/Coding/Java/Java%208%20in%20Action.pdf), [[Chinese version book]](/Papers/Books/Coding/Java/Java%208%20in%20Action%20CN.pdf), sources: [[java8/Java8InAction]](https://github.com/java8/Java8InAction).
 - **Scala Cookbook**, [[book]](/Papers/Books/Coding/Scala/Scala%20Cookbook.pdf).
 - **Programming in Scala**, [[book]](/Papers/Books/Coding/Scala/Programming%20in%20Scala.pdf), [[Chinese version book]](/Papers/Books/Coding/Scala/Programming%20in%20Scala%20CN.pdf).
 - **Scala for the Impatient**, [[book]](/Papers/Books/Coding/Scala/Scala%20for%20the%20Impatient.pdf).

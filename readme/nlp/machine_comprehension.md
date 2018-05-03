@@ -1,4 +1,4 @@
-# Machine / Reading Comprehension, Question Answering, Natural Language Understanding
+# Machine Comprehension, QA, NLU, NLSM
 
 ## Dataset
 - **SQuAD 100,000+ Questions for Machine Comprehension of Text**, [[paper]](https://arxiv.org/abs/1606.05250.pdf), [[homepage]](https://rajpurkar.github.io/SQuAD-explorer/).
@@ -8,9 +8,9 @@
 - **CNN/DailyMail: Teaching Machines to Read and Comprehend**, [[paper]](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), [[homepage]](https://cs.nyu.edu/~kcho/DMQA/), sources: [[thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend]](https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend).
 - **bAbI: Towards AI-Complete Question Answering: a Set of Prerequisite Toy Tasks**, [[paper]](https://arxiv.org/abs/1502.05698.pdf), [[homepage]](https://research.fb.com/downloads/babi/), sources: [[facebook/bAbI-tasks]](https://github.com/facebook/bAbI-tasks).
 - **RACE: Large-scale ReAding Comprehension Dataset From Examinations**, [[paper]](https://arxiv.org/pdf/1704.04683.pdf), [[homepage]](http://www.cs.cmu.edu/~glai1/data/race/), sources: [[qizhex/RACE_AR_baselines]](https://github.com/qizhex/RACE_AR_baselines).
-- **Looking Beyond the Surface: A Challenge Set for Reading Comprehension over Multiple Sentences**, [[paper]](http://cogcomp.org/papers/2018-MultiRC-NAACL.pdf), [[homepage]](http://cogcomp.org/multirc/), sources: [[CogComp/multirc]](https://github.com/CogComp/multirc/).
+- **MultiRC: Looking Beyond the Surface -- A Challenge Set for Reading Comprehension over Multiple Sentences**, [[paper]](http://cogcomp.org/papers/2018-MultiRC-NAACL.pdf), [[homepage]](http://cogcomp.org/multirc/), sources: [[CogComp/multirc]](https://github.com/CogComp/multirc/).
 
-## Methods
+## Machine Comprehension
 - **Query-Reduction Networks for Question Answering**, [[paper]](https://arxiv.org/abs/1606.04582), [[blog]](http://uwnlp.github.io/qrn/), sources: [[uwnlp/qrn]](https://github.com/uwnlp/qrn).
 - **Bi-Directional Attention Flow for Machine Comprehension**, [[paper]](https://arxiv.org/abs/1611.01603), [[homepage]](https://allenai.github.io/bi-att-flow/), [[demo]](http://allgood.cs.washington.edu:1995), sources: [[allenai/bi-att-flow]](https://github.com/allenai/bi-att-flow).
 - **Reading Wikipedia to Answer Open-Domain Questions**, [[paper]](https://arxiv.org/abs/1704.00051), sources: [[facebookresearch/DrQA]](https://github.com/facebookresearch/DrQA), [[hitvoice/DrQA]](https://github.com/hitvoice/DrQA).
@@ -28,11 +28,15 @@
 - **Multi-attention Recurrent Network for Human Communication Comprehension**, [[paper]](https://arxiv.org/abs/1802.00923).
 - **FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension**, [[paper]](https://arxiv.org/abs/1711.07341), sources: [[exe1023/FusionNet]](https://github.com/exe1023/FusionNet), [[momohuang/FusionNet-NLI]](https://github.com/momohuang/FusionNet-NLI).
 - **Improved Neural Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1704.06194).
-- **Long Short-Term Memory-Networks for Machine Reading**, [[paper]](https://arxiv.org/pdf/1601.06733.pdf), sources: [[cheng6076/SNLI-attention]](https://github.com/cheng6076/SNLI-attention), [[vsitzmann/snli-attention-tensorflow]](https://github.com/vsitzmann/snli-attention-tensorflow), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
 - **Attention-over-Attention Neural Networks for Reading Comprehension**, [[paper]](https://arxiv.org/abs/1607.04423), sources: [[OlavHN/attention-over-attention]](https://github.com/OlavHN/attention-over-attention), [[marshmelloX/attention-over-attention]](https://github.com/marshmelloX/attention-over-attention).
 - **Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension**, [[paper]](https://arxiv.org/pdf/1803.00191), sources: [[intfloat/commonsense-rc]](https://github.com/intfloat/commonsense-rc).
 - **Contextualized Word Representations for Reading Comprehension**, [[paper]](https://arxiv.org/pdf/1712.03609.pdf), sources: [[shimisalant/CWR]](https://github.com/shimisalant/CWR).
+
+## Memory Networks
 - **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).
 - **End-To-End Memory Networks**, [[paper]](https://arxiv.org/abs/1503.08895), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN), [[seominjoon/memnn-tensorflow]](https://github.com/seominjoon/memnn-tensorflow), [[domluna/memn2n]](https://github.com/domluna/memn2n), [[carpedm20/MemN2N-tensorflow]](https://github.com/carpedm20/MemN2N-tensorflow).
 - **Dynamic Memory Networks for Visual and Textual Question Answering**, [[paper]](https://arxiv.org/abs/1603.01417), [[blog]](https://yerevann.github.io/2016/02/05/implementing-dynamic-memory-networks/), sources: [[IsaacChanghau/AmusingPythonCodes/dmn]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/dmn), [[therne/dmn-tensorflow]](https://github.com/therne/dmn-tensorflow), [[barronalex/Dynamic-Memory-Networks-in-TensorFlow]](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow), [[ethancaballero/Improved-Dynamic-Memory-Networks-DMN-plus]](https://github.com/ethancaballero/Improved-Dynamic-Memory-Networks-DMN-plus), [[dandelin/Dynamic-memory-networks-plus-Pytorch]](https://github.com/dandelin/Dynamic-memory-networks-plus-Pytorch), [[DeepRNN/visual_question_answering]](https://github.com/DeepRNN/visual_question_answering).
 - **Ask Me Anything: Dynamic Memory Networks for Natural Language Processing**, [[paper]](https://arxiv.org/abs/1506.07285), sources: [[DongjunLee/dmn-tensorflow]](https://github.com/DongjunLee/dmn-tensorflow).
+
+## Natural Language Sentence Matching
+- **BiMPM: Bilateral Multi-Perspective Matching for Natural Language Sentences**, [[paper]](https://arxiv.org/pdf/1702.03814.pdf), sources: [[zhiguowang/BiMPM]](https://github.com/zhiguowang/BiMPM).

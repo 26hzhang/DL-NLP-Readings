@@ -46,3 +46,13 @@
 - [[kristjankorjus/applied-deep-learning-resources]](https://github.com/kristjankorjus/applied-deep-learning-resources), _reading lists -- mainly focusing on CNNs_.
 - [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
 - [[Kyubyong/nlp_tasks]](https://github.com/Kyubyong/nlp_tasks).
+- [[brightmart/text_classification]](https://github.com/brightmart/text_classification).
+- [[panyang/TextProcessing]](https://github.com/panyang/TextProcessing).
+- [[ppwwyyxx/tensorpack]](https://github.com/ppwwyyxx/tensorpack), _A Neural Net Training Interface on TensorFlow_.
+- [[ty4z2008/Qix]](https://github.com/ty4z2008/Qix), _Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang_.
+- [[jobbole/awesome-machine-learning-cn]](https://github.com/jobbole/awesome-machine-learning-cn), _机器学习资源大全中文版，包括机器学习领域的框架、库以及软件_.
+- [[ictar/python-doc]](https://github.com/ictar/python-doc), _translate python documents to Chinese for convenient reference_.
+- [[hankcs/HanLP]](https://github.com/hankcs/HanLP), _自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁_.
+- [[julycoding/BAT-ML-1000]](https://github.com/julycoding/BAT-ML-1000), _BAT机器学习面试1000题系列_.
+- [[julycoding/The-Art-Of-Programming-By-July]](https://github.com/julycoding/The-Art-Of-Programming-By-July), _编程之法：面试和算法心得_.
+- [[justdark/dml]](https://github.com/justdark/dml), _D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency_.

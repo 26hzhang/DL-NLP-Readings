@@ -4,7 +4,7 @@
 1. [Machine, Deep and Reinforcement Learning Courses, Books and etc.](/readme/ml_dl_rl.md)
 2. [Natural Language Processing](/readme/nlp/)
     1. [Machine Translation](/readme/nlp/machine_translation.md)
-    2. [Machine / Reading Comprehension, Question Answering and Natural Language Understanding](/readme/nlp/machine_comprehension.md)
+    2. [Machine Comprehension, QA, NLU, NLSM](/readme/nlp/machine_comprehension.md)
     3. [Dialogue / Conversation / Chatbot System](/readme/nlp/dialogue_system.md)
     4. [Commonsense Knowledge Base and Knowledge Base Completion / Representation](/readme/nlp/commonsense.md)
     5. [Sequence Labeling (POS, Chunking, NER, Punctuation Restoration, SRL and etc.)](/readme/nlp/sequence_labeling.md)
