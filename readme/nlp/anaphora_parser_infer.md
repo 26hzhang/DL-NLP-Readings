@@ -1,4 +1,4 @@
-# Anaphora Resolution, Dependency Parser and Grammatical Error Correction
+# Anaphora Resolution, Dependency Parser, Natural Language Inference and etc.
 
 ## Coreference and Anaphora Resolution
 - **Deep Reinforcement Learning for Mention-Ranking Coreference Models**, [[paper]](https://arxiv.org/abs/1609.08667), [[blog]](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [[demo]](https://huggingface.co/coref/), sources: [[huggingface/neuralcoref]](https://github.com/huggingface/neuralcoref), [[clarkkev/deep-coref]](https://github.com/clarkkev/deep-coref).
@@ -10,6 +10,9 @@
 - **A Fast and Accurate Dependency Parser using Neural Networks**, [[paper]](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf), sources: [[akjindal53244/dependency_parsing_tf]](https://github.com/akjindal53244/dependency_parsing_tf), [[ljj314zz/dependency_parsing_tf-master]](https://github.com/ljj314zz/dependency_parsing_tf-master).
 - **Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representation**, [[paper]](https://arxiv.org/pdf/1603.04351.pdf), sources: [[elikip/bist-parser]](https://github.com/elikip/bist-parser).
 - **Deep Bi-Affine Attention for Neural Dependency Parsing**, [[paper]](https://web.stanford.edu/~tdozat/files/TDozat-ICLR2017-Paper.pdf), sources: [[tdozat/Parser-v1]](https://github.com/tdozat/Parser-v1), [[tdozat/Parser-v2]](https://github.com/tdozat/Parser-v2).
+
+## Natural Language Inference (Textual Entailment)
+- **Learning Natural Language Inference with LSTM**, [[paper]](http://www.aclweb.org/anthology/N16-1170), source: [[shuohangwang/SeqMatchSeq]](https://github.com/shuohangwang/SeqMatchSeq).
 
 ## Grammatical Error Correction
 - **The CoNLL-2014 Shared Task on Grammatical Error Correction**, [[paper]](http://www.aclweb.org/anthology/W14-1701), [[homepage]](http://www.comp.nus.edu.sg/~nlp/conll14st.html).
