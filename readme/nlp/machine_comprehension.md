@@ -1,4 +1,4 @@
-# Machine Comprehension, QA, NLU, NLSM
+# Machine Comprehension, QA, NLU and NLSM
 
 ## Dataset
 - [2013 EMNLP] **MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text**, [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/MCTest_EMNLP2013.pdf), [[homepage]](https://mattr1.github.io/mctest/), source: [[mcobzarenco/mctest]](https://github.com/mcobzarenco/mctest).
@@ -19,22 +19,26 @@
 - [2016 ACL] **A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task**, [[paper]](https://arxiv.org/abs/1606.02858.pdf), sources: [[danqi/rc-cnn-dailymail]](https://github.com/danqi/rc-cnn-dailymail).
 - [2017 ICLR] **Query-Reduction Networks for Question Answering**, [[paper]](https://arxiv.org/abs/1606.04582.pdf), [[homepage]](http://uwnlp.github.io/qrn/), sources: [[uwnlp/qrn]](https://github.com/uwnlp/qrn).
 - [2017 ICLR] **Bi-Directional Attention Flow for Machine Comprehension**, [[paper]](https://arxiv.org/abs/1611.01603.pdf), [[homepage]](https://allenai.github.io/bi-att-flow/), [[demo]](http://allgood.cs.washington.edu:1995), sources: [[allenai/bi-att-flow]](https://github.com/allenai/bi-att-flow).
-- [2017 ACL] **Reading Wikipedia to Answer Open-Domain Questions**, [[paper]](https://arxiv.org/abs/1704.00051.pdf), sources: [[facebookresearch/DrQA]](https://github.com/facebookresearch/DrQA), [[hitvoice/DrQA]](https://github.com/hitvoice/DrQA).
 - [2017 ACL] **R-Net: Machine Reading Comprehension with Self-matching Networks**, [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [[blog]](http://yerevann.github.io/2017/08/25/challenges-of-reproducing-r-net-neural-network-using-keras/), sources: [[HKUST-KnowComp/R-Net]](https://github.com/HKUST-KnowComp/R-Net), [[YerevaNN/R-NET-in-Keras]](https://github.com/YerevaNN/R-NET-in-Keras), [[minsangkim142/R-net]](https://github.com/minsangkim142/R-net).
 - [2017 ArXiv] **Simple and Effective Multi-Paragraph Reading Comprehension**, [[paper]](https://arxiv.org/abs/1710.10723.pdf), sources: [[allenai/document-qa]](https://github.com/allenai/document-qa).
 - [2017 CoNLL] **Making Neural QA as Simple as Possible but not Simpler**, [[paper]](https://arxiv.org/abs/1703.04816.pdf), [[homepage]](https://dirkweissenborn.github.io/publications.html), [[github-page]](https://github.com/georgwiese), sources: [[georgwiese/biomedical-qa]](https://github.com/georgwiese/biomedical-qa).
-- [2017 ACL] **An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge**, [[paper]](https://arxiv.org/abs/1606.00979.pdf), [[homepage]](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html), [[blog]](http://blog.csdn.net/LAW_130625/article/details/78484866).
-- [2017 ArXiv] **Dynamic Integration of Background Knowledge in Neural NLU Systems**, [[paper]](https://arxiv.org/abs/1706.02596.pdf), [[homepage]](https://dirkweissenborn.github.io/publications.html).
 - [2017 EMNLP] **Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension**, [[paper]](https://arxiv.org/abs/1706.09789.pdf), sources: [[davidgolub/QuestionGeneration]](https://github.com/davidgolub/QuestionGeneration).
-- [2017 ACL] **Improved Neural Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1704.06194.pdf).
 - [2017 ACL] **Attention-over-Attention Neural Networks for Reading Comprehension**, [[paper]](https://arxiv.org/abs/1607.04423.pdf), sources: [[OlavHN/attention-over-attention]](https://github.com/OlavHN/attention-over-attention), [[marshmelloX/attention-over-attention]](https://github.com/marshmelloX/attention-over-attention).
 - [2018 ICLR] **MaskGAN: Better Text Generation via Filling in the `______`**, [[paper]](https://arxiv.org/abs/1801.07736.pdf).
 - [2018 AAAI] **Multi-attention Recurrent Network for Human Communication Comprehension**, [[paper]](https://arxiv.org/abs/1802.00923.pdf).
-- [2018 ArXiv] **An Attention-Based Word-Level Interaction Model: Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1801.09893.pdf).
-- [2018 SemEval] **Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension**, [[paper]](https://arxiv.org/pdf/1803.00191.pdf), sources: [[intfloat/commonsense-rc]](https://github.com/intfloat/commonsense-rc).
 - [2018 ICLR] **FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension**, [[paper]](https://arxiv.org/abs/1711.07341), sources: [[exe1023/FusionNet]](https://github.com/exe1023/FusionNet), [[momohuang/FusionNet-NLI]](https://github.com/momohuang/FusionNet-NLI).
 - [2018 NAACL] **Contextualized Word Representations for Reading Comprehension**, [[paper]](https://arxiv.org/pdf/1712.03609.pdf), sources: [[shimisalant/CWR]](https://github.com/shimisalant/CWR).
 - [2018 ICLR] **QANet: Combing Local Convolution with Global Self-Attention for Reading Comprehension**, [[paper]](https://arxiv.org/pdf/1804.09541.pdf), sources: [[hengruo/QANet-pytorch]](https://github.com/hengruo/QANet-pytorch), [[NLPLearn/QANet]](https://github.com/NLPLearn/QANet).
+
+## Question Answering on Knowledgebase
+- [2014 ACL] **Freebase QA: Information Extraction or Semantic Parsing?**, [[paper]](http://aclweb.org/anthology/W14-2416).
+- [2016 ACL] **Question Answering on Freebase via Relation Extraction and Textual Evidence**, [[paper]](http://www.aclweb.org/anthology/P16-1220), sources: [[syxu828/QuestionAnsweringOverFB]](https://github.com/syxu828/QuestionAnsweringOverFB).
+- [2017 ACL] **An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge**, [[paper]](https://arxiv.org/abs/1606.00979.pdf), [[homepage]](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html), [[blog]](http://blog.csdn.net/LAW_130625/article/details/78484866).
+- [2017 ACL] **Improved Neural Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1704.06194.pdf).
+- [2017 ACL] **Reading Wikipedia to Answer Open-Domain Questions**, [[paper]](https://arxiv.org/abs/1704.00051.pdf), sources: [[facebookresearch/DrQA]](https://github.com/facebookresearch/DrQA), [[hitvoice/DrQA]](https://github.com/hitvoice/DrQA).
+- [2017 ArXiv] **Dynamic Integration of Background Knowledge in Neural NLU Systems**, [[paper]](https://arxiv.org/abs/1706.02596.pdf), [[homepage]](https://dirkweissenborn.github.io/publications.html).
+- [2018 ArXiv] **An Attention-Based Word-Level Interaction Model: Relation Detection for Knowledge Base Question Answering**, [[paper]](https://arxiv.org/abs/1801.09893.pdf).
+- [2018 SemEval] **Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension**, [[paper]](https://arxiv.org/pdf/1803.00191.pdf), sources: [[intfloat/commonsense-rc]](https://github.com/intfloat/commonsense-rc).
 
 ## Memory Networks
 - [2015 ICLR] **Memory Networks**, [[paper]](https://arxiv.org/abs/1410.3916.pdf), sources: [[facebook/MemNN]](https://github.com/facebook/MemNN).

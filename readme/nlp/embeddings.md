@@ -1,11 +1,11 @@
-# Embeddings
+# Embeddings, Interpretability and Disambiguation
 
 ## Embedding
 - [2008 NIPS] **HLBL: A Scalable Hierarchical Distributed Language Model**, [[paper]](http://www.cs.toronto.edu/~fritz/absps/andriytree.pdf), [[wenjieguan/Log-bilinear-language-models]](https://github.com/wenjieguan/Log-bilinear-language-models).
 - [2010 INTERSPEECH] **RNNLM: Recurrent neural network based language model**, [[paper]](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), [[Ph.D. Thesis]](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf), [[slides]](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf), sources: [[mspandit/rnnlm]](https://github.com/mspandit/rnnlm).
 - [2013 NIPS] **Word2Vec: Distributed Representations of Words and Phrases and their Compositionality**, [[paper]](https://arxiv.org/abs/1310.4546), [[word2vec explained]](https://arxiv.org/abs/1402.3722), [[params explained]](https://arxiv.org/abs/1411.2738), [[blog]](https://isaacchanghau.github.io/post/word2vec/), sources: [[word2vec]](https://code.google.com/archive/p/word2vec/), [[dav/word2vec]](https://github.com/dav/word2vec), [[yandex/faster-rnnlm]](https://github.com/yandex/faster-rnnlm), [[tf-word2vec]](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/word2vec).
 - [2013 CoNLL] **Better Word Representations with Recursive Neural Networks for Morphology**, [[paper]](https://nlp.stanford.edu/~lmthang/data/papers/conll13_morpho.pdf).
-- [2014 ACL] **Word2Vecf: Dependency-Based Word Embeddings**, [[paper]](http://www.aclweb.org/anthology/P14-2050), [[blog]](https://isaacchanghau.github.io/post/word2vecf/), sources: [[Yoav Goldberg/word2vecf]](https://bitbucket.org/yoavgo/word2vecf), [[IsaacChanghau/Word2VecfJava]](https://github.com/IsaacChanghau/Word2VecfJava/tree/master/src/main/java/com/isaac/word2vecf)， [[orenmel/lexsub]](https://github.com/orenmel/lexsub).
+- [2014 ACL] **Word2Vecf: Dependency-Based Word Embeddings**, [[paper]](http://www.aclweb.org/anthology/P14-2050), [[blog]](https://isaacchanghau.github.io/post/word2vecf/), sources: [[Yoav Goldberg/word2vecf]](https://bitbucket.org/yoavgo/word2vecf), [[IsaacChanghau/Word2VecfJava]](https://github.com/IsaacChanghau/Word2VecfJava).
 - [2014 EMNLP] **GloVe: Global Vectors for Word Representation**, [[paper]](https://nlp.stanford.edu/pubs/glove.pdf), [[homepage]](https://nlp.stanford.edu/projects/glove/), sources: [[stanfordnlp/GloVe]](https://github.com/stanfordnlp/GloVe).
 - [2014 ICML] **Compositional Morphology for Word Representations and Language Modelling**, [[paper]](http://proceedings.mlr.press/v32/botha14.pdf), sources: [[thompsonb/comp-morph]](https://github.com/thompsonb/comp-morph), [[claravania/subword-lstm-lm]](https://github.com/claravania/subword-lstm-lm).
 - [2015 ACL] **Hyperword: Improving Distributional Similarity with Lessons Learned from Word Embeddings**, [[paper]](http://www.aclweb.org/anthology/Q15-1016), sources: [[Omer Levy/hyperwords]](https://bitbucket.org/omerlevy/hyperwords).
@@ -18,6 +18,7 @@
 - [2017 ICLR] **A Simple But Tough-to-beat Baseline for Sentence Embeddings**, [[paper]](https://openreview.net/pdf?id=SyK00v5xx), sources: [[PrincetonML/SIF]](https://github.com/PrincetonML/SIF).
 - [2017 NIPS] **Learned in Translation: Contextualized Word Vectors**, [[paper]](https://arxiv.org/pdf/1708.00107.pdf), sources: [[salesforce/cove]](https://github.com/salesforce/cove).
 - [2017 ArXiv] **Implicitly Incorporating Morphological Information into Word Embedding**, [[paper]](https://arxiv.org/pdf/1701.02481.pdf).
+- [2017 AAAI] **Improving Word Embeddings with Convolutional Feature Learning and Subword Information**, [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14724/14187), sources: [[ShelsonCao/IWE]](https://github.com/ShelsonCao/IWE).
 
 ## Interpretability
 - [2012 COLING] **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**, [[paper]](http://talukdar.net/papers/nnse_coling12.pdf), [[homepage]](http://www.cs.cmu.edu/~bmurphy/NNSE/).
@@ -28,3 +29,7 @@
 - [2017 ArXiv] **Semantic Structure and Interpretability of Word Embeddings**, [[paper]](https://arxiv.org/pdf/1711.00331.pdf).
 - [2017 EMNLP] **Rotated Word Vector Representations and their Interpretability**, [[paper]](http://www.aclweb.org/anthology/D17-1041), [[poster]](https://sungjoonpark.github.io./assets/emnlp2017_poster.pdf), sources: [[SungjoonPark/factor_rotation]](https://github.com/SungjoonPark/factor_rotation), [[mvds314/factor_rotation]](https://github.com/mvds314/factor_rotation).
 - [2018 AAAI] **SPINE: SParse Interpretable Neural Embeddings**, [[paper]](https://arxiv.org/pdf/1711.08792.pdf), sources: [[harsh19/SPINE]](https://github.com/harsh19/SPINE).
+
+## Disambiguation
+- [2015 VSM] **A Simple Word Embedding Model for Lexical Substitution**, [[paper]](http://u.cs.biu.ac.il/%7Emelamuo/publications/melamud_vsm15.pdf), sources: [[orenmel/lexsub]](https://github.com/orenmel/lexsub).
+- [2017 EMNLP] **Deep Joint Entity Disambiguation with Local Neural Attention**, [[paper]](http://aclweb.org/anthology/D17-1277), sources: [[dalab/deep-ed]](https://github.com/dalab/deep-ed).

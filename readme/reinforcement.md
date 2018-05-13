@@ -1,3 +1,4 @@
 # Reinforcement Learning
 
-- **Playing Atari with Deep Reinforcement Learning**, [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [[blog]](https://keon.io/deep-q-learning/), sources: [[kuz/DeepMind-Atari-Deep-Q-Learner]](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner).
+- [2013 NIPS] **Playing Atari with Deep Reinforcement Learning**, [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), [[blog]](https://keon.io/deep-q-learning/), sources: [[kuz/DeepMind-Atari-Deep-Q-Learner]](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner), [[ethanscho/dqn-atari-tensorflow]](https://github.com/ethanscho/dqn-atari-tensorflow), [[carpedm20/deep-rl-tensorflow]](https://github.com/carpedm20/deep-rl-tensorflow).
+- [2015 Nature]  **Human-level control through deep reinforcement learning**, [[paper]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), [[blog]](https://deepmind.com/research/publications/human-level-control-through-deep-reinforcement-learning/), sources: [[devsisters/DQN-tensorflow]](https://github.com/devsisters/DQN-tensorflow), [[floodsung/DQN-Atari-Tensorflow]](https://github.com/floodsung/DQN-Atari-Tensorflow).

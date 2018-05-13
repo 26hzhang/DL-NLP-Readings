@@ -1,4 +1,4 @@
-# Anaphora Resolution, Dependency Parser, Natural Language Inference and etc.
+# Anaphora Resolution, Dependency Parser, Natural Language Inference, Discourse Relation and etc.
 
 ## Coreference and Anaphora Resolution
 - [2012 EMNLP] **Joint Entity and Event Coreference Resolution across Documents**, [[paper]](https://aclweb.org/anthology/D/D12/D12-1045.pdf).
@@ -13,6 +13,9 @@
 
 ## Natural Language Inference (Textual Entailment)
 - [2016 NAACL] **Learning Natural Language Inference with LSTM**, [[paper]](http://www.aclweb.org/anthology/N16-1170), source: [[shuohangwang/SeqMatchSeq]](https://github.com/shuohangwang/SeqMatchSeq).
+
+## Discourse Relation Representation and Identification
+- [2017 EMNLP] **Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification**, [[paper]](http://aclweb.org/anthology/D17-1134).
 
 ## Grammatical Error Correction
 - [2014 CoNLL] **The CoNLL-2014 Shared Task on Grammatical Error Correction**, [[paper]](http://www.aclweb.org/anthology/W14-1701), [[homepage]](http://www.comp.nus.edu.sg/~nlp/conll14st.html).
