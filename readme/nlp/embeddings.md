@@ -17,7 +17,7 @@
 - [2017 ACL] **FastText: Enriching Word Vectors with Subword Information**, [[paper]](https://arxiv.org/abs/1607.04606.pdf), sources: [[facebookresearch/fastText]](https://github.com/facebookresearch/fastText), [[salestock/fastText.py]](https://github.com/salestock/fastText.py).
 - [2017 ICLR] **A Simple But Tough-to-beat Baseline for Sentence Embeddings**, [[paper]](https://openreview.net/pdf?id=SyK00v5xx), sources: [[PrincetonML/SIF]](https://github.com/PrincetonML/SIF).
 - [2017 NIPS] **Learned in Translation: Contextualized Word Vectors**, [[paper]](https://arxiv.org/pdf/1708.00107.pdf), sources: [[salesforce/cove]](https://github.com/salesforce/cove).
-- **Implicitly Incorporating Morphological Information into Word Embedding**, [[paper]](https://arxiv.org/pdf/1701.02481.pdf).
+- [2017 ArXiv] **Implicitly Incorporating Morphological Information into Word Embedding**, [[paper]](https://arxiv.org/pdf/1701.02481.pdf).
 
 ## Interpretability
 - [2012 COLING] **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**, [[paper]](http://talukdar.net/papers/nnse_coling12.pdf), [[homepage]](http://www.cs.cmu.edu/~bmurphy/NNSE/).
