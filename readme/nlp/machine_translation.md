@@ -9,3 +9,4 @@
 - [2017 EMNLP] **Massive Exploration of Neural Machine Translation Architectures**, [[paper]](http://aclweb.org/anthology/D17-1151), [[homepage]](https://google.github.io/seq2seq/), sources: [[google/seq2seq]](https://github.com/google/seq2seq).
 - [2017 EMNLP] **Efficient Attention using a Fixed-Size Memory Representation**, [[paper]](http://aclweb.org/anthology/D17-1040).
 - [2018 AMTA] **Context Models for OOV Word Translation in Low-Resource Language**, [[paper]](https://arxiv.org/abs/1801.08660).
+- [2018 NAACL] **Self-Attention with Relative Position Representations**, [[paper]](https://arxiv.org/pdf/1803.02155.pdf).
