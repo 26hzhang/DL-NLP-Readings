@@ -1,4 +1,4 @@
-# Machine Comprehension, QA, NLU and NLSM
+# Machine Comprehension, Question Answering and Natural Language Understanding
 
 ## Dataset
 - [2013 EMNLP] **MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text**, [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/MCTest_EMNLP2013.pdf), [[homepage]](https://mattr1.github.io/mctest/), source: [[mcobzarenco/mctest]](https://github.com/mcobzarenco/mctest).
@@ -53,6 +53,3 @@
 - [2017 ICLR] **Machine Comprehension Using Match-LSTM and Answer Pointer**, [[paper]](https://arxiv.org/pdf/1608.07905.pdf), sources: [[shuohangwang/SeqMatchSeq]](https://github.com/shuohangwang/SeqMatchSeq), [[MurtyShikhar/Question-Answering]](https://github.com/MurtyShikhar/Question-Answering), [[InnerPeace-Wu/reading_comprehension-cs224n]](https://github.com/InnerPeace-Wu/reading_comprehension-cs224n).
 - [2018 ICLR] **Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1708.06834.pdf), [[homepage]](https://imatge-upc.github.io/skiprnn-2017-telecombcn/), sources: [[imatge-upc/skiprnn-2017-telecombcn]](https://github.com/imatge-upc/skiprnn-2017-telecombcn).
 - [2018 ICLR] **Neural Speed Reading via Skim-RNN**, [[paper]](https://arxiv.org/pdf/1711.02085.pdf), sources: [[schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch]](https://github.com/schelotto/Neural_Speed_Reading_via_Skim-RNN_PyTorch).
-
-## Natural Language Sentence Matching
-- [2017 IJCAI] **BiMPM: Bilateral Multi-Perspective Matching for Natural Language Sentences**, [[paper]](https://arxiv.org/pdf/1702.03814.pdf), sources: [[zhiguowang/BiMPM]](https://github.com/zhiguowang/BiMPM).

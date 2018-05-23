@@ -6,9 +6,10 @@
 - [2016 ACM] **Stance and Sentiment in Tweets**, [[paper]](https://arxiv.org/abs/1605.01655.pdf).
 
 ## Sentiment Analysis
-- [2013 EMNLP] **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank**, [[paper]](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf), sources: [[rksltnl/RNTN]](https://github.com/rksltnl/RNTN).
+- [2013 EMNLP] **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank**, [[paper]](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf), sources: [[rksltnl/RNTN]](https://github.com/rksltnl/RNTN), [[awni/semantic-rntn]](https://github.com/awni/semantic-rntn), [[rgobbel/rntn]](https://github.com/rgobbel/rntn).
 - [2014 ACL] **A Convolutional Neural Network for Modelling Sentences**, [[paper]](https://arxiv.org/pdf/1404.2188.pdf), sources: [[hritik25/Dynamic-CNN-for-Modelling-Sentences]](https://github.com/hritik25/Dynamic-CNN-for-Modelling-Sentences), [[FredericGodin/DynamicCNN]](https://github.com/FredericGodin/DynamicCNN).
 - [2015 EMNLP] **Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance-Level Multimodal Sentiment Analysis**, [[paper]](https://www.aclweb.org/anthology/D/D15/D15-1303.pdf).
+- [2015 ACL] **Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**, cover _semantic relatedness and sentiment classification_ tasks. [[paper]](http://www.aclweb.org/anthology/P15-1150), sources: [[stanfordnlp/treelstm]](https://github.com/stanfordnlp/treelstm), [[nicolaspi/treelstm]](https://github.com/nicolaspi/treelstm), [[sapruash/RecursiveNN]](https://github.com/sapruash/RecursiveNN), [[dallascard/TreeLSTM]](https://github.com/dallascard/TreeLSTM).
 - [2016 EMNLP] **A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis**, [[paper]](https://arxiv.org/pdf/1609.02745.pdf).
 - [2016 EMNLP] **Attention-based LSTM for Aspect-level Sentiment Classification**, [[paper]](https://aclweb.org/anthology/D16-1058), sources: [[scaufengyang/TD-LSTM]](https://github.com/scaufengyang/TD-LSTM).
 - [2016 ICDM] **Convolutional MKL Based Multimodal Emotion Recognition and Sentiment Analysis**, [[paper]](http://sentic.net/convolutional-mkl-based-multimodal-sentiment-analysis.pdf), sources: [[SenticNet/multimodal-sentiment-detection]](https://github.com/SenticNet/multimodal-sentiment-detection).
