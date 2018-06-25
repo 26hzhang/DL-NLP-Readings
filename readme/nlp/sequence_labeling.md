@@ -17,6 +17,8 @@
 - [2017 ICLR] **Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks**, [[paper]](https://arxiv.org/abs/1703.06345), sources: [[kimiyoung/transfer]](https://github.com/kimiyoung/transfer).
 - [2017 EMNLP] **Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks**, [[paper]](https://arxiv.org/abs/1707.06799), sources: [[UKPLab/emnlp2017-bilstm-cnn-crf]](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf).
 - [2017 InterSpeech] **Label-dependency coding in Simple Recurrent Networks for Spoken Language Understanding**, [[paper]](https://hal.inria.fr/hal-01553830/document).
+- [2017 ACL] **Model Transfer for Tagging Low-resource Languages using a Bilingual Dictionary**, [[paper]](http://aclweb.org/anthology/P17-2093), sources: [[mengf1/trpos]](https://github.com/mengf1/trpos).
+- [2018 ICLR] **Deep Active Learning for Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1707.05928.pdf).
 
 ## Punctuation Restoration and Sentence Segmentation
 - [2016 Interspeech] **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://pdfs.semanticscholar.org/8785/efdad2abc384d38e76a84fb96d19bbe788c1.pdf?_ga=2.156364859.1813940814.1518068648-1853451355.1518068648), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).

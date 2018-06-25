@@ -11,6 +11,7 @@
 - [2016 ACL] **Commonsense Knowledge Base Completion**, [[paper]](http://ttic.uchicago.edu/~kgimpel/papers/li+etal.acl16.pdf), [[homepage]](http://ttic.uchicago.edu/~kgimpel/commonsense.html), sources: [[Lorraine333/ACL_CKBC]](https://github.com/Lorraine333/ACL_CKBC).
 - [2017 AKBC] **RelNet: End-to-End Modeling of Entities & Relations**, [[paper]](https://arxiv.org/abs/1706.07179), [[homepage]](http://thetb.github.io).
 - [2017 EMNLP] **Context-Aware Representations for Knowledge Base Relation Extraction**, [[paper]](http://aclweb.org/anthology/D17-1188), sources: [[UKPLab/emnlp2017-relation-extraction]](https://github.com/UKPLab/emnlp2017-relation-extraction).
+- [2018 AAAI] **SenticNet 5: Discovering Conceptual Primitives for Sentiment Analysis by Means of Context Embeddings**, [[paper]](http://sentic.net/senticnet-5.pdf).
 
 ## Commonsense Knowledge Base and Its Usages
 - [2017 AAAI] **ConceptNet 5.5: An Open Multilingual Graph of General Knowledge**, [[paper]](https://arxiv.org/abs/1612.03975), sources: [[GitHub page]](https://github.com/commonsense), [[commonsense/conceptnet5]](https://github.com/commonsense/conceptnet5), [[commonsense/conceptnet-numberbatch]](https://github.com/commonsense/conceptnet-numberbatch).
