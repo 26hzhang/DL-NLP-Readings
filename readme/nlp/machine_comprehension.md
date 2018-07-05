@@ -29,6 +29,7 @@
 - [2018 ICLR] **FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension**, [[paper]](https://arxiv.org/abs/1711.07341), sources: [[exe1023/FusionNet]](https://github.com/exe1023/FusionNet), [[momohuang/FusionNet-NLI]](https://github.com/momohuang/FusionNet-NLI).
 - [2018 NAACL] **Contextualized Word Representations for Reading Comprehension**, [[paper]](https://arxiv.org/pdf/1712.03609.pdf), sources: [[shimisalant/CWR]](https://github.com/shimisalant/CWR).
 - [2018 ICLR] **QANet: Combing Local Convolution with Global Self-Attention for Reading Comprehension**, [[paper]](https://arxiv.org/pdf/1804.09541.pdf), sources: [[hengruo/QANet-pytorch]](https://github.com/hengruo/QANet-pytorch), [[NLPLearn/QANet]](https://github.com/NLPLearn/QANet).
+- [2018 ACL] **Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge**, [[paper]](https://arxiv.org/pdf/1805.07858.pdf).
 
 ## Question Answering on Knowledgebase
 - [2014 ACL] **Freebase QA: Information Extraction or Semantic Parsing?**, [[paper]](http://aclweb.org/anthology/W14-2416).
