@@ -10,6 +10,7 @@
 - [2014 EMNLP] **A Fast and Accurate Dependency Parser using Neural Networks**, [[paper]](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf), sources: [[akjindal53244/dependency_parsing_tf]](https://github.com/akjindal53244/dependency_parsing_tf), [[ljj314zz/dependency_parsing_tf-master]](https://github.com/ljj314zz/dependency_parsing_tf-master).
 - [2016 TACL] **Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representation**, [[paper]](https://arxiv.org/pdf/1603.04351.pdf), sources: [[elikip/bist-parser]](https://github.com/elikip/bist-parser).
 - [2017 ICLR] **Deep Bi-Affine Attention for Neural Dependency Parsing**, [[paper]](https://web.stanford.edu/~tdozat/files/TDozat-ICLR2017-Paper.pdf), sources: [[tdozat/Parser-v1]](https://github.com/tdozat/Parser-v1), [[tdozat/Parser-v2]](https://github.com/tdozat/Parser-v2).
+- [2018 ACL] **Simpler but More Accurate Semantic Dependency Parsing**, [[paper]](https://arxiv.org/pdf/1807.01396.pdf). 
 
 ## Discourse Relation Representation and Identification
 - [2017 EMNLP] **Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification**, [[paper]](http://aclweb.org/anthology/D17-1134).

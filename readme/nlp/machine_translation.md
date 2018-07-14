@@ -10,3 +10,4 @@
 - [2017 EMNLP] **Efficient Attention using a Fixed-Size Memory Representation**, [[paper]](http://aclweb.org/anthology/D17-1040).
 - [2018 AMTA] **Context Models for OOV Word Translation in Low-Resource Language**, [[paper]](https://arxiv.org/abs/1801.08660).
 - [2018 NAACL] **Self-Attention with Relative Position Representations**, [[paper]](https://arxiv.org/pdf/1803.02155.pdf).
+- [2018 COLING] **Double Path Networks for Sequence to Sequence Learning**, [[paper]](https://arxiv.org/pdf/1806.04856.pdf).
