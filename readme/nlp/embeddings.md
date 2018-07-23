@@ -22,6 +22,7 @@
 - [2017 ArXiv] **Implicitly Incorporating Morphological Information into Word Embedding**, [[paper]](https://arxiv.org/pdf/1701.02481.pdf).
 - [2017 AAAI] **Improving Word Embeddings with Convolutional Feature Learning and Subword Information**, [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14724/14187), sources: [[ShelsonCao/IWE]](https://github.com/ShelsonCao/IWE).
 - [2018 NAACL] **Deep contextualized word representations**, [[paper]](https://arxiv.org/pdf/1802.05365.pdf), [[homepage]](https://allennlp.org/elmo), sources: [[allenai/bilm-tf]](https://github.com/allenai/bilm-tf).
+- [2018 ICML] **Learning K-way D-dimensional Discrete Codes for Compact Embedding Representations**, [[paper]](https://arxiv.org/pdf/1806.09464.pdf), [supplementary](http://web.cs.ucla.edu/~yzsun/papers/2018_icml_KDCoding_supp.pdf), sources: [[chentingpc/kdcode-lm]](https://github.com/chentingpc/kdcode-lm).
 
 ## Sentence Embedding and Representation
 - [2017 ICLR] **A Structured Self-attentive Sentence Embedding**, [[paper]](https://arxiv.org/pdf/1703.03130.pdf), sources: [[ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding]](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding), [[flrngel/Self-Attentive-tensorflow]](https://github.com/flrngel/Self-Attentive-tensorflow), [[kaushalshetty/Structured-Self-Attention]](https://github.com/kaushalshetty/Structured-Self-Attention).
