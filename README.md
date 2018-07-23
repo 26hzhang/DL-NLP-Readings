@@ -16,7 +16,7 @@
     11. [Others](/readme/nlp/others.md)
 4. [General](/readme/general/)
     1. [Recurrent Neural Network](/readme/general/rnn.md)
-    2. [Convolutional Neural Network and Computer Vision](/readme/general/cnn.md)
+    2. [Convolutional Neural Network and Computer Vision](/readme/general/cnn_vision.md)
     3. [Neural Network Optimization](/readme/general/optimization.md)
     4. [NTM, Capsule, Autoencoder, Highway, Residual and GAN](/readme/general/other_networks.md)
     5. [Siamese Networks and One-shot Learning](/readme/general/siamese_one_shot.md)
