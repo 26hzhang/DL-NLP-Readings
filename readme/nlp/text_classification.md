@@ -7,4 +7,5 @@
 - [2017 EACL] **Bag of Tricks for Efficient Text Classification**, [[paper]](https://arxiv.org/abs/1607.01759), sources: [[facebookresearch/fastText]](https://github.com/facebookresearch/fastText).
 - [2017 ArXiv] **Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean?**, [[paper]](https://arxiv.org/abs/1708.02657), sources: [[zhangxiangxiao/glyph]](https://github.com/zhangxiangxiao/glyph).
 - [2017 ArXiv] **Multi-Task Label Embedding for Text Classification**, [[paper]](https://arxiv.org/pdf/1710.07210.pdf), [[blog]](https://www.jianshu.com/p/4bbe061f0acd).
+- [2017 ICLR] **Adversarial Training Methods For Semi-Supervised Text Classification**, [[paper]](https://arxiv.org/pdf/1605.07725.pdf), sources: [[TobiasLee/Text-Classification]](https://github.com/TobiasLee/Text-Classification).
 - [2018 ArXiv] **Densely Connected Bidirectional LSTM with Applications to Sentence Classification**, [[paper]](https://arxiv.org/abs/1802.00889), source: [[IsaacChanghau/Dense_BiLSTM]](https://github.com/IsaacChanghau/Dense_BiLSTM).
