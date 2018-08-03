@@ -12,3 +12,4 @@
 - [2017 ICCV] **Focal Loss for Dense Object Detection**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf), sources: [[unsky/focal-loss]](https://github.com/unsky/focal-loss), [[ailias/Focal-Loss-implement-on-Tensorflow]](https://github.com/ailias/Focal-Loss-implement-on-Tensorflow).
 - [2018 AAAI] **Towards Perceptual Image Dehazing by Physics-based Disentanglement and Adversarial Training**, [[paper]](https://pdfs.semanticscholar.org/7a73/6b46b37a67a440a29593e261f7c0b63f0ad5.pdf).
 - [2018 IJCAI] **DehazeGAN: When Image Dehazing Meets Differential Programming**, [[paper]](http://www.ijcai.org/proceedings/2018/0172.pdf).
+- [2018 CVPR] **Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs**, [[paper]](https://arxiv.org/pdf/1803.08035.pdf), [[blog]](https://www.cnblogs.com/wangxiaocvpr/p/8682608.html), sources: [[JudyYe/zero-shot-gcn]](https://github.com/JudyYe/zero-shot-gcn).
