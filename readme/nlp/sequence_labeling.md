@@ -28,6 +28,7 @@
 - [2018 NAACL] **Robust Multilingual Part-of-Speech Tagging via Adversarial Training**, [[paper]](https://arxiv.org/pdf/1711.04903.pdf), sources: [[michiyasunaga/pos_adv]](https://github.com/michiyasunaga/pos_adv).
 - [2018 ArXiv] **Improving Part-of-speech Tagging Via Multi-task Learning and Character-level Word Representations**, [[paper]](https://arxiv.org/pdf/1807.00818.pdf).
 - [2018 NAACL] **Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition**, [[paper]](http://aclweb.org/anthology/N18-1001), sources: [[felixwzh/La-DTL]](https://github.com/felixwzh/La-DTL).
+- [2018 NAACL] **Zero-shot Sequence Labeling: Transferring Knowledge from Sentences to Tokens**, [[paper]](http://aclweb.org/anthology/N18-1027).
 - [2018 ACL] **Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings**, [[paper]](http://aclweb.org/anthology/P18-1246).
 - [2018 ACL] **Named Entity Recognition With Parallel Recurrent Neural Networks**, [[paper]](http://aclweb.org/anthology/P18-2012).
 - [2018 ACL] **Chinese NER Using Lattice LSTM**, [[paper]](http://aclweb.org/anthology/P18-1144), sources: [[jiesutd/LatticeLSTM]](https://github.com/jiesutd/LatticeLSTM).
