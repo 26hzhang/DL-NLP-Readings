@@ -17,6 +17,7 @@
 - [2017 EMNLP] **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions**, [[paper]](https://arxiv.org/pdf/1702.02098.pdf), sources: [[iesl/dilated-cnn-ner]](https://github.com/iesl/dilated-cnn-ner).
 - [2017 ICLR] **Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks**, [[paper]](https://arxiv.org/pdf/1703.06345.pdf), sources: [[kimiyoung/transfer]](https://github.com/kimiyoung/transfer).
 - [2017 EMNLP] **Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks**, [[paper]](https://arxiv.org/pdf/1707.06799.pdf), sources: [[UKPLab/emnlp2017-bilstm-cnn-crf]](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf).
+- [2017 EMNLP] **Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging**, [[paper]](http://aclweb.org/anthology/D17-1035), sources: [[UKPLab/emnlp2017-bilstm-cnn-crf]](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf).
 - [2017 InterSpeech] **Label-dependency coding in Simple Recurrent Networks for Spoken Language Understanding**, [[paper]](https://hal.inria.fr/hal-01553830/document).
 - [2017 ACL] **Model Transfer for Tagging Low-resource Languages using a Bilingual Dictionary**, [[paper]](http://aclweb.org/anthology/P17-2093), sources: [[mengf1/trpos]](https://github.com/mengf1/trpos).
 - [2017 EMNLP] **Semi-Supervised Structured Prediction with Neural CRF Autoencoder**, [[paper]](http://aclweb.org/anthology/D17-1179), sources: [[cosmozhang/NCRF-AE]](https://github.com/cosmozhang/NCRF-AE).
