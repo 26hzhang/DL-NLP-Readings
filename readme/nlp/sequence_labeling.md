@@ -36,6 +36,7 @@
 - [2018 ACL] **Hybrid semi-Markov CRF for Neural Sequence Labeling**, [[paper]](http://aclweb.org/anthology/P18-2038), sources: [[ZhixiuYe/HSCRF-pytorch]](https://github.com/ZhixiuYe/HSCRF-pytorch).
 - [2018 ACL] **A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling**, [[paper]](http://aclweb.org/anthology/P18-1074), sources: [[limteng-rpi/mlmt]](https://github.com/limteng-rpi/mlmt).
 - [2018 AAAI] **Adversarial Learning for Chinese NER from Crowd Annotations**, [[paper]](https://arxiv.org/pdf/1801.05147.pdf), sources: [[SUDA-HLT/ALCrowd]](https://github.com/SUDA-HLT/ALCrowd).
+- [2018 IJCAI] **Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer**, [[paper]](https://www.ijcai.org/proceedings/2018/0566.pdf), sources: [[scir-code/lrner]](https://github.com/scir-code/lrner).
 
 ## Punctuation Restoration and Sentence Segmentation
 - [2016 Interspeech] **Bidirectional Recurrent Neural Network with Attention Mechanism for Punctuation Restoration**, [[paper]](https://pdfs.semanticscholar.org/8785/efdad2abc384d38e76a84fb96d19bbe788c1.pdf?_ga=2.156364859.1813940814.1518068648-1853451355.1518068648), sources: [[ottokart/punctuator2]](https://github.com/ottokart/punctuator2).
