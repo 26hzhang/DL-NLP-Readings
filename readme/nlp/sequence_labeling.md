@@ -1,10 +1,10 @@
 # Sequence Labeling (POS Tagging, Chunking, NER, Punctuation Restoration, Semantic Role Labeling and etc.)
 
 ## General
-- [2011 JMLR] **Natural Language Processing (Almost) from Scratch**, cover _Tagging, Chunking, Parsing, NER, SRL and etc._ tasks, [[paper]](https://arxiv.org/pdf/1103.0398.pdf), sources: [[attardi/deepnl]](https://github.com/attardi/deepnl).
+- [2011 JMLR] **Natural Language Processing (Almost) from Scratch**, cover _Tagging, Chunking, Parsing, NER, SRL and etc._ tasks, [[paper]](http://delivery.acm.org/10.1145/2080000/2078186/p2493-collobert.pdf?ip=192.122.131.130&id=2078186&acc=OPEN&key=FF6731C4D3E3CFFF%2E93CCAFF1814A016F%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536633730_52c7f53acec64295b3df3dbffb7883b8), sources: [[attardi/deepnl]](https://github.com/attardi/deepnl).
 - [2012 Springer] **Supervised Sequence Labelling with Recurrent Neural Networks**, [[Alex Graves's Ph.D. Thesis]](https://www.cs.toronto.edu/~graves/phd.pdf).
 - [2016 ArXiv] **Multi-Task Cross-Lingual Sequence Tagging from Scratch**, [[paper]](https://arxiv.org/pdf/1603.06270.pdf).
-- [2017 EMNLP] **A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks**, cover _Tagging, Chunking, Parsing, Relatedness, Entailment_ tasks, [[paper]](https://arxiv.org/pdf/1611.01587.pdf), [[blog]](https://theneuralperspective.com/2017/03/08/a-joint-many-task-model-growing-a-neural-network-for-multiple-nlp-tasks/), sources: [[rubythonode/joint-many-task-model]](https://github.com/rubythonode/joint-many-task-model).
+- [2017 EMNLP] **A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks**, cover _Tagging, Chunking, Parsing, Relatedness, Entailment_ tasks, [[paper]](http://aclweb.org/anthology/D17-1206), [[blog]](https://theneuralperspective.com/2017/03/08/a-joint-many-task-model-growing-a-neural-network-for-multiple-nlp-tasks/), sources: [[rubythonode/joint-many-task-model]](https://github.com/rubythonode/joint-many-task-model).
 - [2018 NAACL] **Zero-shot Sequence Labeling: Transferring Knowledge from Sentences to Tokens**, [[paper]](http://aclweb.org/anthology/N18-1027).
 
 ## POS Tagging and Named Entity Recognition
@@ -24,7 +24,7 @@
 - [2017 EMNLP] **Cross-Lingual Transfer Learning for POS Tagging without Cross-Lingual Resources**, [[paper]](https://www.aclweb.org/anthology/D17-1302).
 - [2017 ACL] **Semi-supervised Sequence Tagging with Bidirectional Language Models**, [[paper]](http://aclweb.org/anthology/P17-1161).
 - [2018 LREC] **Transfer Learning for Named-Entity Recognition with Neural Networks**, [[paper]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/878.pdf), sources: [[Franck-Dernoncourt/NeuroNER]](https://github.com/Franck-Dernoncourt/NeuroNER).
-- [2018 ICLR] **Deep Active Learning for Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1707.05928.pdf).
+- [2018 ICLR] **Deep Active Learning for Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1707.05928.pdf), [[bibtex]](/Bibtex/Deep Active Learning for Named Entity Recognition.bib).
 - [2018 AAAI] **Empower Sequence Labeling with Task-Aware Neural Language Model**, [[paper]](https://arxiv.org/pdf/1709.04109.pdf), sources: [[LiyuanLucasLiu/LM-LSTM-CRF]](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF).
 - [2018 NAACL] **Robust Multilingual Part-of-Speech Tagging via Adversarial Training**, [[paper]](https://arxiv.org/pdf/1711.04903.pdf), sources: [[michiyasunaga/pos_adv]](https://github.com/michiyasunaga/pos_adv).
 - [2018 ArXiv] **Improving Part-of-speech Tagging Via Multi-task Learning and Character-level Word Representations**, [[paper]](https://arxiv.org/pdf/1807.00818.pdf).
