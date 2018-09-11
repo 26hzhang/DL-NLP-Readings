@@ -24,7 +24,7 @@
 - [2017 EMNLP] **Cross-Lingual Transfer Learning for POS Tagging without Cross-Lingual Resources**, [[paper]](https://www.aclweb.org/anthology/D17-1302).
 - [2017 ACL] **Semi-supervised Sequence Tagging with Bidirectional Language Models**, [[paper]](http://aclweb.org/anthology/P17-1161).
 - [2018 LREC] **Transfer Learning for Named-Entity Recognition with Neural Networks**, [[paper]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/878.pdf), sources: [[Franck-Dernoncourt/NeuroNER]](https://github.com/Franck-Dernoncourt/NeuroNER).
-- [2018 ICLR] **Deep Active Learning for Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1707.05928.pdf), [[bibtex]](/Bibtex/Deep Active Learning for Named Entity Recognition.bib).
+- [2018 ICLR] **Deep Active Learning for Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1707.05928.pdf), [[bibtex]](/Bibtex/Deep%20Active%20Learning%20for%20Named%20Entity%20Recognition.bib).
 - [2018 AAAI] **Empower Sequence Labeling with Task-Aware Neural Language Model**, [[paper]](https://arxiv.org/pdf/1709.04109.pdf), sources: [[LiyuanLucasLiu/LM-LSTM-CRF]](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF).
 - [2018 NAACL] **Robust Multilingual Part-of-Speech Tagging via Adversarial Training**, [[paper]](https://arxiv.org/pdf/1711.04903.pdf), sources: [[michiyasunaga/pos_adv]](https://github.com/michiyasunaga/pos_adv).
 - [2018 ArXiv] **Improving Part-of-speech Tagging Via Multi-task Learning and Character-level Word Representations**, [[paper]](https://arxiv.org/pdf/1807.00818.pdf).
