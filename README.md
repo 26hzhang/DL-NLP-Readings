@@ -1,5 +1,7 @@
 # My Reading Lists of Machine Learning, Natural Language Processing and etc.
 
+> Keeping update and appending new things...
+
 ## Table of Contents
 1. [Machine, Deep and Reinforcement Learning Courses, Books and etc.](/readme/ml_dl_rl.md)
 2. [Natural Language Processing](/readme/nlp/)
