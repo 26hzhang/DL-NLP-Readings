@@ -1,10 +1,10 @@
 # Natural Language Inference and Text Summarization
 
 ## Natural Language Inference (Textual Entailment, Sentence Matching)
-- [2016 NAACL] **Learning Natural Language Inference with LSTM**, [[paper]](http://www.aclweb.org/anthology/N16-1170), source: [[shuohangwang/SeqMatchSeq]](https://github.com/shuohangwang/SeqMatchSeq).
-- [2017 IJCAI] **BiMPM: Bilateral Multi-Perspective Matching for Natural Language Sentences**, [[paper]](https://arxiv.org/pdf/1702.03814.pdf), sources: [[zhiguowang/BiMPM]](https://github.com/zhiguowang/BiMPM).
-- [2017 ArXiv] **Distance-based Self-Attention Network for Natural Language Inference**, [[paper]](https://arxiv.org/pdf/1712.02047.pdf).
-- [2018 AAAI] **DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding**, [[paper]](https://arxiv.org/pdf/1709.04696.pdf), sources: [[taoshen58/DiSAN]](https://github.com/taoshen58/DiSAN).
+- [2016 NAACL] **Learning Natural Language Inference with LSTM**, [[paper]](http://www.aclweb.org/anthology/N16-1170), [[bibtex]](/Bibtex/Learning%20Natural%20Language%20Inference%20with%20LSTM.bib), source: [[shuohangwang/SeqMatchSeq]](https://github.com/shuohangwang/SeqMatchSeq).
+- [2017 IJCAI] **BiMPM: Bilateral Multi-Perspective Matching for Natural Language Sentences**, [[paper]](https://arxiv.org/pdf/1702.03814.pdf), [[bibtex]](/Bibtex/Bilateral%20Multi-Perspective%20Matching%20for%20Natural%20Language%20Sentences.bib), sources: [[zhiguowang/BiMPM]](https://github.com/zhiguowang/BiMPM).
+- [2017 ArXiv] **Distance-based Self-Attention Network for Natural Language Inference**, [[paper]](https://arxiv.org/pdf/1712.02047.pdf), [[bibtex]](/Bibtex/Distance-based%20Self-Attention%20Network%20for%20Natural%20Language%20Inference.bib).
+- [2018 AAAI] **DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding**, [[paper]](https://arxiv.org/pdf/1709.04696.pdf), [[bibtex]](/Bibtex/DiSAN%20-%20Directional%20Self-Attention%20Network%20for%20RNN%20-%20CNN-free%20Language%20Understanding.bib), sources: [[taoshen58/DiSAN]](https://github.com/taoshen58/DiSAN).
 
 ## Text Summarization
-- [2017 ArXiv] **Get To The Point: Summarization with Pointer-Generator Networks**, [[paper]](https://arxiv.org/pdf/1704.04368.pdf), sources: [[abisee/pointer-generator]](https://github.com/abisee/pointer-generator), [[abisee/cnn-dailymail]](https://github.com/abisee/cnn-dailymail), [[JafferWilson/Process-Data-of-CNN-DailyMail]](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail).
+- [2017 ACL] **Get To The Point: Summarization with Pointer-Generator Networks**, [[paper]](https://arxiv.org/pdf/1704.04368.pdf), [[bibtex]](/Bibtex/Get%20To%20The%20Point%20-%20Summarization%20with%20Pointer-Generator%20Networks.bib), sources: [[abisee/pointer-generator]](https://github.com/abisee/pointer-generator), [[abisee/cnn-dailymail]](https://github.com/abisee/cnn-dailymail), [[JafferWilson/Process-Data-of-CNN-DailyMail]](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail).
