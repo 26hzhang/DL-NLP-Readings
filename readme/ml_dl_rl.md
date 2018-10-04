@@ -15,7 +15,7 @@
 - **fast.ai: Making neural nets uncool again**, [[url]](http://www.fast.ai/), [[Ultimate guide to setting up a Google Cloud machine for fast.ai]](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43).
 
 ## Machine, Deep and Reinforcement Learning Books
-- **Pattern Recognition and Machine Learning**, [[book]](/Papers/Books/ML%20DL/Pattern%Recognition%and%Machine%Learning.pdf), [[Chinese version book]](/Papers/Books/ML%20DL/Pattern%Recognition%and%Machine%Learning%20Chinese.pdf), [[solutions]](/Papers/Books/ML%20DL/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf).
+- **Pattern Recognition and Machine Learning**, [[book]](/Papers/Books/ML%20DL/Pattern%20Recognition%20and%20Machine%20Learning.pdf), [[Chinese version book]](/Papers/Books/ML%20DL/Pattern%20Recognition%20and%20Machine%20Learning%20Chinese.pdf), [[solutions]](/Papers/Books/ML%20DL/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf).
 - **Machine Learning: A Probabilistic Perspective**, [[book]](/Papers/Books/ML%20DL/Machine%20Learning%20A%20Probabilistic%20Perspective.pdf).
 - **机器学习 (周志华)**, [[Chinese version book]](/Papers/Books/ML%20DL/机器学习.pdf)
 - **统计学习方法 (李航)**, [[Chinese version book]](/Papers/Books/ML%20DL/统计学习方法.pdf).
