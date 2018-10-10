@@ -56,3 +56,7 @@
 - [[julycoding/BAT-ML-1000]](https://github.com/julycoding/BAT-ML-1000), _BAT机器学习面试1000题系列_.
 - [[julycoding/The-Art-Of-Programming-By-July]](https://github.com/julycoding/The-Art-Of-Programming-By-July), _编程之法：面试和算法心得_.
 - [[justdark/dml]](https://github.com/justdark/dml), _D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency_.
+
+## Others
+- **LaTex Introduction**, [[doc]](/Papers⁩/Books⁩/Others⁩/LaTex%20Intro.pdf).
+- **Font Awesome**, [[doc]](/Papers⁩/Books⁩/Others⁩/FontAwesome.pdf).
