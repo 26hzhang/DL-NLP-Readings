@@ -36,6 +36,7 @@
 - [2017 ArXiv] **Semantic Structure and Interpretability of Word Embeddings**, [[paper]](https://arxiv.org/pdf/1711.00331.pdf).
 - [2017 EMNLP] **Rotated Word Vector Representations and their Interpretability**, [[paper]](http://www.aclweb.org/anthology/D17-1041), [[poster]](https://sungjoonpark.github.io./assets/emnlp2017_poster.pdf), sources: [[SungjoonPark/factor_rotation]](https://github.com/SungjoonPark/factor_rotation), [[mvds314/factor_rotation]](https://github.com/mvds314/factor_rotation).
 - [2018 AAAI] **SPINE: SParse Interpretable Neural Embeddings**, [[paper]](https://arxiv.org/pdf/1711.08792.pdf), sources: [[harsh19/SPINE]](https://github.com/harsh19/SPINE).
+- [2018 ACL] **Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder**, [[paper]](), [[bibtex]](/Bibtex/Interpretable%20and%20Compositional%20Relation%20Learning%20by%20Joint%20Training%20with%20an%20Autoencoder.bib), sources: [[tianran/glimvec]](https://github.com/tianran/glimvec).
 
 ## Disambiguation
 - [2015 VSM] **A Simple Word Embedding Model for Lexical Substitution**, [[paper]](http://u.cs.biu.ac.il/%7Emelamuo/publications/melamud_vsm15.pdf), sources: [[orenmel/lexsub]](https://github.com/orenmel/lexsub).
