@@ -12,7 +12,7 @@
     5. [Sequence Labeling (POS, Chunking, NER, Punctuation Restoration, SRL and etc.)](/readme/nlp/sequence_labeling.md)
     6. [Sentiment Analysis and Stance Detection](/readme/nlp/sentiment_analysis.md)
     7. [Natural Language Inference and Text Summarization](/readme/nlp/nli_summarization.md)
-    8. [Anaphora Resolution, Dependency Parser, Discourse Relation and etc.](/readme/nlp/anaphora_parser.md)
+    8. [Anaphora Resolution, Dependency Parser, Discourse Relation and Relation Extraction and etc.](/readme/nlp/anaphora_parser.md)
     9. [Text, Sentence and Document Classification](/readme/nlp/text_classification.md)
     10. [Embeddings, Interpretability and Disambiguation](/readme/nlp/embeddings.md)
     11. [Multi-tasks and Others](/readme/nlp/multi-others.md)

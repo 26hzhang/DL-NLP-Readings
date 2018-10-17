@@ -1,4 +1,7 @@
-# Anaphora Resolution, Dependency Parser, Discourse Relation and etc.
+# Anaphora Resolution, Dependency Parser, Discourse Relation and Relation Extraction and etc.
+
+## Relation Extraction and Entity Linking
+- [2018 ACL] **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction**, [[paper]](http://aclweb.org/anthology/P18-1046), [[bibtex]](/Bibtex/DSGAN%20-%20Generative%20Adversarial%20Training%20for%20Distant%20Supervision%20Relation%20Extraction.bib).
 
 ## Coreference and Anaphora Resolution
 - [2012 EMNLP] **Joint Entity and Event Coreference Resolution across Documents**, [[paper]](https://aclweb.org/anthology/D/D12/D12-1045.pdf), [[bibtex]](/Bibtex/Joint%20Entity%20and%20Event%20Coreference%20Resolution%20across%20Documents.bib).
