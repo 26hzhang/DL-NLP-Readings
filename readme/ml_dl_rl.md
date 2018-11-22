@@ -15,28 +15,27 @@
 - **fast.ai: Making neural nets uncool again**, [[url]](http://www.fast.ai/), [[Ultimate guide to setting up a Google Cloud machine for fast.ai]](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43).
 
 ## Machine, Deep and Reinforcement Learning Books
-- **Pattern Recognition and Machine Learning**, [[book]](/Papers/Books/ML%20DL/Pattern%20Recognition%20and%20Machine%20Learning.pdf), [[Chinese version book]](/Papers/Books/ML%20DL/Pattern%20Recognition%20and%20Machine%20Learning%20Chinese.pdf), [[solutions]](/Papers/Books/ML%20DL/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf).
-- **Machine Learning: A Probabilistic Perspective**, [[book]](/Papers/Books/ML%20DL/Machine%20Learning%20A%20Probabilistic%20Perspective.pdf).
-- **机器学习 (周志华)**, [[Chinese version book]](/Papers/Books/ML%20DL/机器学习.pdf)
-- **统计学习方法 (李航)**, [[Chinese version book]](/Papers/Books/ML%20DL/统计学习方法.pdf).
-- **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](/Papers/Books/ML%20DL/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques.pdf).
-- **Deep Learning**, [[book]](/Papers/Books/ML%20DL/Deep%20Learning.pdf), [[Chinese version book]](/Papers/Books/ML%20DL/Deep%20Learning%20Chinese.pdf), [[homepage]](http://www.deeplearningbook.org).
-- **Reinforcement Learning: An Introduction**, [[book]](/Papers/Reinforcement%20Learning/Reinforcement%20Learning%20An%20Introduction.pdf).
+- **Pattern Recognition and Machine Learning**, [[book]](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), [[Chinese version book]](https://github.com/wwkenwong/book/blob/master/PRML中文版_模式识别与机器学习.pdf), [[solutions]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf).
+- **Machine Learning: A Probabilistic Perspective**, [[book]](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf).
+- **机器学习 (周志华)**, [[Chinese version book]](/Others⁩/机器学习.pdf)
+- **统计学习方法 (李航)**, [[Chinese version book]](http://ddl.escience.cn/f/Iwn0).
+- **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](https://www.wi.hs-wismar.de/~cleve/vorl/projects/dm/ss13/HierarClustern/Literatur/WittenFrank-DM-3rd.pdf).
+- **Deep Learning**, [[book]](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf), [[Chinese version book]](https://github.com/exacity/deeplearningbook-chinese), [[homepage]](http://www.deeplearningbook.org).
+- **Reinforcement Learning: An Introduction**, [[book]](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf).
 
 ## Natural Language Processing Books
-- **Speech and Language Processing**, [[webside]](https://web.stanford.edu/~jurafsky/slp3/), [[book: 3rd edition draft]](/Papers/Books/NLP/Speech%20and%20Language%20Processing.pdf).
+- **Speech and Language Processing**, [[webside]](https://web.stanford.edu/~jurafsky/slp3/).
 - **Sentic Computing**, [[book]](http://sentic.net/sentic-computing.pdf).
 - **Handbook of Knowledge Representation**, [[book]](https://dai.fmph.uniba.sk/~sefranek/kri/handbook/handbook_of_kr.pdf).
-- **Deep Learning for NLP without Magic**, [[slides]](/Papers/Books/NLP/Deep%20Learning%20for%20NLP%20without%20Magic.pdf).
-- **A Primer on Neural Network Models for Natural Language Processing**, [[book]](/Papers/Books/NLP/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf).
-- **Conceptual Structures: From Information to Intelligence**, [[book]](/Papers/Books/NLP/Conceptual%20Structures%20from%20Information%20to%20Intelligence.pdf).
+- **Deep Learning for NLP without Magic**, [[slides]](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf).
+- **A Primer on Neural Network Models for Natural Language Processing**, [[book]](https://u.cs.biu.ac.il/~yogo/nnlp.pdf).
 
 ## Tutorials
-- **Deep Learning Tutorial**, _李宏毅 (Hung-yi Lee)_, [[slides]](/Papers/Books/Tutorial/Deep%20Learning%20Tutorial.pdf), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
+- **Deep Learning Tutorial**, _李宏毅 (Hung-yi Lee)_, [[slides]](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
 - **Deep Learning Tutorial**, _LISA lab, University of Montreal_, [[docs]](http://deeplearning.net/tutorial/deeplearning.pdf).
 - **On the Origin of Deep Learning**, [[paper]](https://arxiv.org/pdf/1702.07800.pdf).
 - **Multiple Kernel Learning Algorithms**, [[paper]](http://jmlr.csail.mit.edu/papers/volume12/gonen11a/gonen11a.pdf).
-- **Derivatives Backpropagation and Vectorization**, [[lecture notes]](/Papers/Books/Tutorial/Derivatives%20Backpropagation%20and%20Vectorization.pdf).
+- **Derivatives Backpropagation and Vectorization**, [[lecture notes]](http://cs231n.stanford.edu/handouts/derivatives.pdf).
 
 ## Reading Lists
 - [[andrewt3000/DL4NLP]](https://github.com/andrewt3000/DL4NLP), _reading lists_.
@@ -58,5 +57,5 @@
 - [[justdark/dml]](https://github.com/justdark/dml), _D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency_.
 
 ## Others
-- **LaTex Introduction**, [[doc]](/Papers⁩/Books⁩/Others⁩/LaTex%20Intro.pdf).
-- **Font Awesome**, [[doc]](/Papers⁩/Books⁩/Others⁩/FontAwesome.pdf).
+- **LaTex Introduction**, [[doc]](/Others⁩/LaTex%20Intro.pdf).
+- **Font Awesome**, [[doc]](/Others⁩/FontAwesome.pdf).
