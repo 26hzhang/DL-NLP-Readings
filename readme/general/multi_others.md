@@ -5,6 +5,9 @@
 
 ## Robotics 
 - [2017 AAAI] **Natural Language Acquisition and Grounding for Embodied Robotic Systems**, [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14913/14038), [[bibtex]](/Bibtex/Natural%20Language%20Acquisition%20and%20Grounding%20for%20Embodied%20Robotic%20Systems.bib).
+- [2017 PMLR] **Opportunistic Active Learning for Grounding Natural Language Descriptions**, [[paper]](http://proceedings.mlr.press/v78/thomason17a/thomason17a.pdf), [[bibtex]](/Bibtex/Opportunistic%20Active%20Learning%20for%20Grounding%20Natural%20Language%20Descriptions.bib)
+- [2018 AAAI] **Guiding Exploratory Behaviors for Multi-Modal Grounding of Linguistic Descriptions**, [[paper]](https://www.eecs.tufts.edu/~jsinapov/papers/Thomason_AAAI_2018.pdf), [[bibtex]](/Bibtex/Guiding%20Exploratory%20Behaviors%20for%20Multi-Modal%20Grounding%20of%20Linguistic%20Descriptions.bib), sources: [[thomason-jesse/object_exploration]](https://github.com/thomason-jesse/object_exploration).
+- [2018 Robotics] **Learning Task-Oriented Grasping for Tool Manipulation from Simulated Self-Supervision**, [[paper]](http://www.roboticsproceedings.org/rss14/p12.pdf), [[bibtex]](/Bibtex/Learning%20Task-Oriented%20Grasping%20for%20Tool%20Manipulation%20from%20Simulated%20Self-Supervision.bib).
 
 ## Others
 - [2014 EACL] **CCA: Improving Vector Space Word Representations Using Multilingual Correlation**, [[paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-mLO_-o7bAhVKrY8KHQIDBREQFggmMAA&url=http%3A%2F%2Fanthology.aclweb.org%2FE%2FE14%2FE14-1049.pdf&usg=AOvVaw0C2reHtfMC13b2L5FP6z1F).

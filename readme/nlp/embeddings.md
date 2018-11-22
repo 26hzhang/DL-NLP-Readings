@@ -27,6 +27,7 @@
 
 ## Sentence Embedding and Representation
 - [2017 ICLR] **A Structured Self-attentive Sentence Embedding**, [[paper]](https://arxiv.org/pdf/1703.03130.pdf), sources: [[ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding]](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding), [[flrngel/Self-Attentive-tensorflow]](https://github.com/flrngel/Self-Attentive-tensorflow), [[kaushalshetty/Structured-Self-Attention]](https://github.com/kaushalshetty/Structured-Self-Attention).
+- [2018 ArXiv] **Universal Sentence Encoder**, [[paper]](https://arxiv.org/pdf/1803.11175.pdf), [[bibtex]](/Bibtex/Universal%20Sentence%20Encoder.bib), sources: [[TensorFlow Hub/universal-sentence-encoder]](https://tfhub.dev/google/universal-sentence-encoder/1), [[helloeve/universal-sentence-encoder-fine-tune]](https://github.com/helloeve/universal-sentence-encoder-fine-tune).
 
 ## Interpretability
 - [2012 COLING] **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**, [[paper]](http://talukdar.net/papers/nnse_coling12.pdf), [[homepage]](http://www.cs.cmu.edu/~bmurphy/NNSE/).
