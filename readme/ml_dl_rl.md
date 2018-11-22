@@ -17,7 +17,7 @@
 ## Machine, Deep and Reinforcement Learning Books
 - **Pattern Recognition and Machine Learning**, [[book]](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), [[Chinese version book]](https://github.com/wwkenwong/book/blob/master/PRML中文版_模式识别与机器学习.pdf), [[solutions]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf).
 - **Machine Learning: A Probabilistic Perspective**, [[book]](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf).
-- **机器学习 (周志华)**, [[Chinese version book]](/Others⁩/机器学习.pdf)
+- **机器学习 (周志华)**, [[Chinese version book]](/Others/机器学习.pdf).
 - **统计学习方法 (李航)**, [[Chinese version book]](http://ddl.escience.cn/f/Iwn0).
 - **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](https://www.wi.hs-wismar.de/~cleve/vorl/projects/dm/ss13/HierarClustern/Literatur/WittenFrank-DM-3rd.pdf).
 - **Deep Learning**, [[book]](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf), [[Chinese version book]](https://github.com/exacity/deeplearningbook-chinese), [[homepage]](http://www.deeplearningbook.org).
@@ -57,5 +57,5 @@
 - [[justdark/dml]](https://github.com/justdark/dml), _D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency_.
 
 ## Others
-- **LaTex Introduction**, [[doc]](/Others⁩/LaTex%20Intro.pdf).
-- **Font Awesome**, [[doc]](/Others⁩/FontAwesome.pdf).
+- **LaTex Introduction**, [[book]](/Others/LaTex%20Intro.pdf).
+- **Font Awesome**, [[book]](/Others/FontAwesome.pdf).
