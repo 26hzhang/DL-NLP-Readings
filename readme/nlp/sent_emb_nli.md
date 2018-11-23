@@ -1,0 +1,19 @@
+# Sentence Representation, Natural Language Inference and Summarization
+
+> Including **Sentence Embeddings/Representations**, **Natural Language Inference**, **Sentence Matching**, **Textual Entailment**, **Text Summarization** and etc.
+
+## Sentence Embedding / Representation
+- [2017 ICLR] **A Simple But Tough-to-beat Baseline for Sentence Embeddings**, [[paper]](https://openreview.net/pdf?id=SyK00v5xx), sources: [[PrincetonML/SIF]](https://github.com/PrincetonML/SIF).
+- [2017 ICLR] **A Structured Self-attentive Sentence Embedding**, [[paper]](https://arxiv.org/pdf/1703.03130.pdf), sources: [[ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding]](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding), [[flrngel/Self-Attentive-tensorflow]](https://github.com/flrngel/Self-Attentive-tensorflow), [[kaushalshetty/Structured-Self-Attention]](https://github.com/kaushalshetty/Structured-Self-Attention).
+- [2017 EMNLP] **Supervised Learning of Universal Sentence Representations from Natural Language Inference Data**, [[paper]](http://aclweb.org/anthology/D17-1070), [[bibtex]](/Bibtex/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.bib), sources: [[facebookresearch/InferSent]](https://github.com/facebookresearch/InferSent).
+- [2018 ArXiv] **Universal Sentence Encoder**, [[paper]](https://arxiv.org/pdf/1803.11175.pdf), [[bibtex]](/Bibtex/Universal%20Sentence%20Encoder.bib), sources: [[TensorFlow Hub/universal-sentence-encoder]](https://tfhub.dev/google/universal-sentence-encoder/1), [[helloeve/universal-sentence-encoder-fine-tune]](https://github.com/helloeve/universal-sentence-encoder-fine-tune).
+
+## Natural Language Inference (Textual Entailment, Sentence Matching)
+- [2016 NAACL] **Learning Natural Language Inference with LSTM**, [[paper]](http://www.aclweb.org/anthology/N16-1170), [[bibtex]](/Bibtex/Learning%20Natural%20Language%20Inference%20with%20LSTM.bib), source: [[shuohangwang/SeqMatchSeq]](https://github.com/shuohangwang/SeqMatchSeq).
+- [2017 IJCAI] **BiMPM: Bilateral Multi-Perspective Matching for Natural Language Sentences**, [[paper]](https://arxiv.org/pdf/1702.03814.pdf), [[bibtex]](/Bibtex/Bilateral%20Multi-Perspective%20Matching%20for%20Natural%20Language%20Sentences.bib), sources: [[zhiguowang/BiMPM]](https://github.com/zhiguowang/BiMPM).
+- [2017 ArXiv] **Distance-based Self-Attention Network for Natural Language Inference**, [[paper]](https://arxiv.org/pdf/1712.02047.pdf), [[bibtex]](/Bibtex/Distance-based%20Self-Attention%20Network%20for%20Natural%20Language%20Inference.bib).
+- [2018 AAAI] **DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding**, [[paper]](https://arxiv.org/pdf/1709.04696.pdf), [[bibtex]](/Bibtex/DiSAN%20-%20Directional%20Self-Attention%20Network%20for%20RNN%20-%20CNN-free%20Language%20Understanding.bib), sources: [[taoshen58/DiSAN]](https://github.com/taoshen58/DiSAN).
+- [2018 IJCAI] **Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling**, [[paper]](https://www.ijcai.org/proceedings/2018/0604.pdf), [[bibtex]](/Bibtex/Reinforced%20Self-Attention%20Network%20-%20a%20Hybrid%20of%20Hard%20and%20Soft%20Attention%20for%20Sequence%20Modeling.bib).
+
+## Text Summarization
+- [2017 ACL] **Get To The Point: Summarization with Pointer-Generator Networks**, [[paper]](https://arxiv.org/pdf/1704.04368.pdf), [[bibtex]](/Bibtex/Get%20To%20The%20Point%20-%20Summarization%20with%20Pointer-Generator%20Networks.bib), sources: [[abisee/pointer-generator]](https://github.com/abisee/pointer-generator), [[abisee/cnn-dailymail]](https://github.com/abisee/cnn-dailymail), [[JafferWilson/Process-Data-of-CNN-DailyMail]](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail).

@@ -1,0 +1,21 @@
+# Knowledge Graph and Social Network Representation
+
+> Including **Knowledge Base Completion/Representation**, **Social Network Representation** and etc.
+
+## Knowledge Base Completion / Representation
+- [2013 NIPS] **Reasoning With Neural Tensor Networks for Knowledge Base Completion**, [[paper]](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf), sources: [[siddharth-agrawal/Neural-Tensor-Network]](https://github.com/siddharth-agrawal/Neural-Tensor-Network), [[dddoss/tensorflow-socher-ntn]](https://github.com/dddoss/tensorflow-socher-ntn).
+- [2013 NIPS] **TransE: Translating Embeddings for Modeling Multi-relational Data**, [[paper]](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
+- [2014 AAAI] **TransH: Knowledge Graph Embedding by Translating on Hyperplanes**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8531/8546), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
+- [2015 EMNLP] **PTransE: Modeling Relation Paths for Representation Learning of Knowledge Bases**, [[paper]](https://arxiv.org/pdf/1506.00379.pdf), [[homepage]](https://github.com/thunlp), sources: [[thunlp/Fast-TransX]](https://github.com/thunlp/Fast-TransX).
+- [2015 AAAI] **TransR: Learning Entity and Relation Embeddings for Knowledge Graph Completion**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9571/9523), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
+- [2015 ACL] **TransD: Knowledge Graph Embedding via Dynamic Mapping Matrix**, [[paper]](http://www.aclweb.org/anthology/P15-1067), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
+- [2016 AAAI] **Knowledge Graph Completion with Adaptive Sparse Transfer Matrix**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11982/11693), sources: [[FrankWork/transparse]](https://github.com/FrankWork/transparse), [[thunlp/Fast-TransX]](https://github.com/thunlp/Fast-TransX).
+- [2016 ACL] **Commonsense Knowledge Base Completion**, [[paper]](http://ttic.uchicago.edu/~kgimpel/papers/li+etal.acl16.pdf), [[homepage]](http://ttic.uchicago.edu/~kgimpel/commonsense.html), sources: [[Lorraine333/ACL_CKBC]](https://github.com/Lorraine333/ACL_CKBC).
+- [2017 AKBC] **RelNet: End-to-End Modeling of Entities & Relations**, [[paper]](https://arxiv.org/pdf/1706.07179.pdf), [[homepage]](http://thetb.github.io).
+- [2017 EMNLP] **Context-Aware Representations for Knowledge Base Relation Extraction**, [[paper]](http://aclweb.org/anthology/D17-1188), sources: [[UKPLab/emnlp2017-relation-extraction]](https://github.com/UKPLab/emnlp2017-relation-extraction).
+- [2018 AAAI] **SenticNet 5: Discovering Conceptual Primitives for Sentiment Analysis by Means of Context Embeddings**, [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16839/15882).
+
+## Graph and Social Network Representation
+- [2014 KDD] **DeepWalk: Online Learning of Social Representations**, [[paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf), sources: [[phanein/deepwalk]](https://github.com/phanein/deepwalk).
+- [2016 NIPS] **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering**, [[paper]](https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf), [[bibtex]](/Bibtex/Convolutional%20Neural%20Networks%20on%20Graphs%20with%20Fast%20Localized%20Spectral%20Filtering.bib), sources: [[mdeff/cnn_graph]](https://github.com/mdeff/cnn_graph), [[xbresson/spectral_graph_convnets]](https://github.com/xbresson/spectral_graph_convnets).
+- [2018 ICLR] **Graph Attention Networks**, [[paper]](https://openreview.net/pdf?id=rJXMpikCZ), [[bibtex]](/Bibtex/Graph%20Attention%20Networks.bib), sources: [[PetarV-/GAT]](https://github.com/PetarV-/GAT), [[Diego999/pyGAT]](https://github.com/Diego999/pyGAT), [[danielegrattarola/keras-gat]](https://github.com/danielegrattarola/keras-gat).

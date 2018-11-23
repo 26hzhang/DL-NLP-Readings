@@ -1,0 +1,25 @@
+# Multi-tasks and Unassorted Research Works
+
+> Including **Multi-tasks Works**, **NLP Survey**, **Optimizing Methods in NLP**, **Grammatical Error Correction** and etc.
+
+## Multi-task
+- [2011 JMLR] **Natural Language Processing (Almost) from Scratch**, cover _Tagging, Chunking, Parsing, NER, SRL and etc._ tasks, [[paper]](http://delivery.acm.org/10.1145/2080000/2078186/p2493-collobert.pdf?ip=192.122.131.130&id=2078186&acc=OPEN&key=FF6731C4D3E3CFFF%2E93CCAFF1814A016F%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536633730_52c7f53acec64295b3df3dbffb7883b8), [[bibtex]](/Bibtex/Natural%20Language%20Processing%20%28Almost%29%20from%20Scratch.bib), sources: [[attardi/deepnl]](https://github.com/attardi/deepnl).
+- [2017 EMNLP] **A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks**, cover _Tagging, Chunking, Parsing, Relatedness, Entailment_ tasks, [[paper]](http://aclweb.org/anthology/D17-1206), [[bibtex]](/Bibtex/A%20Joint%20Many-Task%20Model%20-%20Growing%20a%20Neural%20Network%20for%20Multiple%20NLP%20Tasks.bib), [[blog]](https://theneuralperspective.com/2017/03/08/a-joint-many-task-model-growing-a-neural-network-for-multiple-nlp-tasks/), sources: [[rubythonode/joint-many-task-model]](https://github.com/rubythonode/joint-many-task-model).
+- [2018 ICLR] **Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling**, [[paper]](https://openreview.net/pdf?id=H1cWzoxA-), [[bibtex]](/Bibtex/Bi-Directional%20Block%20Self-Attention%20for%20Fast%20and%20Memory-Efficient%20Sequence%20Modeling.bib), sources: [[taoshen58/BiBloSA]](https://github.com/taoshen58/BiBloSA).
+
+## Natural Language Survey
+- [2018 JAIR] **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**, [[paper]](https://arxiv.org/pdf/1703.09902.pdf).
+- [2018 CIM] **Recent Trends in Deep Learning Based Natural Language Processing**, [[paper]](https://arxiv.org/pdf/1708.02709.pdf).
+
+## Grammatical Error Correction
+- [2014 CoNLL] **The CoNLL-2014 Shared Task on Grammatical Error Correction**, [[paper]](http://www.aclweb.org/anthology/W14-1701), [[bibtex]](/Bibtex/The%20CoNLL-2014%20Shared%20Task%20on%20Grammatical%20Error%20Correction.bib) [[homepage]](http://www.comp.nus.edu.sg/~nlp/conll14st.html).
+- [2018 AAAI] **A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17308/16137), [[bibtex]](/Bibtex/A%20Multilayer%20Convolutional%20Encoder-Decoder%20Neural%20Network%20for%20Grammatical%20Error%20Correction.bib), [[nusnlp/mlconvgec2018]](https://github.com/nusnlp/mlconvgec2018).
+
+## Others
+- [2016 EMNLP] **How Transferable are Neural Networks in NLP Applications?**, [[paper]](http://www.aclweb.org/anthology/D16-1046).
+- [2017 ICML] **Language Modeling with Gated Convolutional Networks**, [[paper]](https://arxiv.org/pdf/1612.08083.pdf), sources: [[anantzoid/Language-Modeling-GatedCNN]](https://github.com/anantzoid/Language-Modeling-GatedCNN), [[jojonki/Gated-Convolutional-Networks]](https://github.com/jojonki/Gated-Convolutional-Networks).
+- [2017 CIKM] **Commonsense for Machine Intelligence: Text to Knowledge and Knowledge to Text**, [[slides]](http://people.mpi-inf.mpg.de/~ntandon/presentations/cikm-2017-tutorial-commonsense/commonsense.pdf), [[CIKM 2017 Singapore Tutorials]](http://cikm2017.org/tutorialmain.html), [[Commonsense for Machine Intelligence, Allen Institute, CIKM 2017 TUTORIAL]](http://allenai.org/tutorials/csk/), [[Allen Institute]](http://allenai.org/index.html).
+- [2017 ICLR] **An Actor Critic Algorithm for Structured Prediction**, [[paper]](https://openreview.net/pdf?id=SJDaqqveg), [[bibtex]](/Bibtex/An%20Actor%20Critic%20Algorithm%20for%20Structured%20Prediction.bib), sources: [[rizar/actor-critic-public]](https://github.com/rizar/actor-critic-public).
+- [2017 ACL] **Learning When to Skim and When to Read**, [[paper]](http://www.aclweb.org/anthology/W17-2631), [[blog]](https://einstein.ai/research/learning-when-to-skim-and-when-to-read).
+- [2018 ArXiv] **Fast Directional Self-Attention Mechanism**, [[paper]](https://arxiv.org/pdf/1805.00912.pdf), [[bibtex]](/Bibtex/Fast%20Directional%20Self-Attention%20Mechanism.bib), sources: [[taoshen58/Fast-DiSA]](https://github.com/taoshen58/DiSAN/tree/master/Fast-DiSA).
+- [2018 ICLR] **Regularizing and Optimizing LSTM Language Models**, [[paper]](https://openreview.net/pdf?id=SyyGPP0TZ), [[bibtex]](/Bibtex/Regularizing%20and%20Optimizing%20LSTM%20Language%20Models.bib), sources: [[salesforce/awd-lstm-lm]](https://github.com/salesforce/awd-lstm-lm), author page: [[Nitish Shirish Keskar]](https://keskarnitish.github.io).

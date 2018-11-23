@@ -1,4 +1,4 @@
-# Machine, Deep and Reinforcement Learning Courses, Books and etc.
+# Machine, Deep and Reinforcement Learning Courses, Books and Reading Lists.
 
 ## Machine, Deep and Reinforcement Learning Courses in CV and NLP
 - **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://www.phontron.com/class/nn4nlp2018/index.html).
@@ -17,7 +17,7 @@
 ## Machine, Deep and Reinforcement Learning Books
 - **Pattern Recognition and Machine Learning**, [[book]](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), [[Chinese version book]](https://github.com/wwkenwong/book/blob/master/PRML中文版_模式识别与机器学习.pdf), [[solutions]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf).
 - **Machine Learning: A Probabilistic Perspective**, [[book]](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf).
-- **机器学习 (周志华)**, [[Chinese version book]](/Others/机器学习.pdf).
+- **机器学习 (周志华)**, [[Chinese version book]](/Documents/机器学习.pdf).
 - **统计学习方法 (李航)**, [[Chinese version book]](http://ddl.escience.cn/f/Iwn0).
 - **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](https://www.wi.hs-wismar.de/~cleve/vorl/projects/dm/ss13/HierarClustern/Literatur/WittenFrank-DM-3rd.pdf).
 - **Deep Learning**, [[book]](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf), [[Chinese version book]](https://github.com/exacity/deeplearningbook-chinese), [[homepage]](http://www.deeplearningbook.org).
@@ -29,6 +29,20 @@
 - **Handbook of Knowledge Representation**, [[book]](https://dai.fmph.uniba.sk/~sefranek/kri/handbook/handbook_of_kr.pdf).
 - **Deep Learning for NLP without Magic**, [[slides]](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf).
 - **A Primer on Neural Network Models for Natural Language Processing**, [[book]](https://u.cs.biu.ac.il/~yogo/nnlp.pdf).
+
+## Coding Books for Machine Learning and Data Analysis
+- **TensorFlow Machine Learning Cookbook**, [[book]](https://github.com/arpitjindal97/technology_books/blob/master/Machine-Learning/TensorFlow-Machine-Learning-Cookbook.pdf), sources: [[nfmcclure/tensorflow_cookbook]](https://github.com/nfmcclure/tensorflow_cookbook).
+- **TensorFlow技术解析与实战**, [[Chineve version book]](https://github.com/Azure-Sky-L/TensorFlow-MNIST-/blob/master/TensorFlow技术解析与实战.李嘉璇.2017.pdf), sources: [[greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow]](https://github.com/greatgeekgrace/Technical-Analysis-And-Practice-in-TensorFlow).
+- **Python机器学习及实践**, [[Chinese version book]](https://github.com/LSayhi/book-paper-note/blob/master/Python机器学习及实践_从零开始通往KAGGLE竞赛之路.pdf), sources: [[NobiGo/-MachineLearningStudy]](https://github.com/NobiGo/-MachineLearningStudy).
+- **Hands on Machine Learning with Scikit Learn and TensorFlow**, [[book]](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf), sources: [[ageron/handson-ml]](https://github.com/ageron/handson-ml).
+- **Python Machine Learning**, [[book]](http://liuchengxu.org/books/src/Machine%20Learning/Python-Machine-Learning.pdf), sources: [[rasbt/python-machine-learning-book]](https://github.com/rasbt/python-machine-learning-book).
+- **Python for Data Analysis**, [[book]](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf), [[Chinese version book]](http://zhidao.lehef.com/0-Libs/pdf.js/web/viewer.html?file=http://zhidao.lehef.com%2F7-JiSuanJi%2Fpython%2F%25E5%2588%25A9%25E7%2594%25A8Python%25E8%25BF%259B%25E8%25A1%258C%25E6%2595%25B0%25E6%258D%25AE%25E5%2588%2586%25E6%259E%2590%28Python%2520For%2520Data%2520Analysis%25E4%25B8%25AD%25E6%2596%2587%25E7%2589%2588%29.pdf), sources: [[wesm/pydata-book]](https://github.com/wesm/pydata-book).
+- **Fundamentals of Deep Learning**, sources: [[darksigma/Fundamentals-of-Deep-Learning-Book]](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book).
+- **Natural Language Processing with Python**, [[book]](https://github.com/shivamms/books/blob/master/nlp/Natural%20Language%20Processing%20with%20Python.pdf).
+- **Java Deep Learning Essentials**, sources: [[PacktPublishing/Java-Deep-Learning-Essentials]](https://github.com/PacktPublishing/Java-Deep-Learning-Essentials).
+- **Learning Spark: Lightning-Fast Data Analysis**, sources: [[databricks/learning-spark]](https://github.com/databricks/learning-spark).
+- **Machine Learning with Spark**, sources: [[PacktPublishing/Machine-Learning-with-Spark]](https://github.com/PacktPublishing/Machine-Learning-with-Spark), [[PacktPublishing/Machine-Learning-with-Spark-Second-Edition]](https://github.com/PacktPublishing/Machine-Learning-with-Spark-Second-Edition).
+- **Advanced Analytics with Spark**, sources: [[sryza/aas]](https://github.com/sryza/aas).
 
 ## Tutorials
 - **Deep Learning Tutorial**, _李宏毅 (Hung-yi Lee)_, [[slides]](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
@@ -53,9 +67,4 @@
 - [[ictar/python-doc]](https://github.com/ictar/python-doc), _translate python documents to Chinese for convenient reference_.
 - [[hankcs/HanLP]](https://github.com/hankcs/HanLP), _自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁_.
 - [[julycoding/BAT-ML-1000]](https://github.com/julycoding/BAT-ML-1000), _BAT机器学习面试1000题系列_.
-- [[julycoding/The-Art-Of-Programming-By-July]](https://github.com/julycoding/The-Art-Of-Programming-By-July), _编程之法：面试和算法心得_.
 - [[justdark/dml]](https://github.com/justdark/dml), _D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency_.
-
-## Others
-- **LaTex Introduction**, [[book]](/Others/LaTex%20Intro.pdf).
-- **Font Awesome**, [[book]](/Others/FontAwesome.pdf).
