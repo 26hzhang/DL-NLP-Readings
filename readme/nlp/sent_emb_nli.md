@@ -3,6 +3,7 @@
 > Including **Sentence Embeddings/Representations**, **Natural Language Inference**, **Sentence Matching**, **Textual Entailment**, **Text Summarization** and etc.
 
 ## Sentence Embedding / Representation
+- [2015 NIPS] **Skip Thought Vectors**, [[paper]](https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf), [[bibtex]](/Bibtex/Skip%20Thought%20Vectors.bib), sources: [[ryankiros/skip-thoughts]](https://github.com/ryankiros/skip-thoughts).
 - [2017 ICLR] **A Simple But Tough-to-beat Baseline for Sentence Embeddings**, [[paper]](https://openreview.net/pdf?id=SyK00v5xx), sources: [[PrincetonML/SIF]](https://github.com/PrincetonML/SIF).
 - [2017 ICLR] **A Structured Self-attentive Sentence Embedding**, [[paper]](https://arxiv.org/pdf/1703.03130.pdf), sources: [[ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding]](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding), [[flrngel/Self-Attentive-tensorflow]](https://github.com/flrngel/Self-Attentive-tensorflow), [[kaushalshetty/Structured-Self-Attention]](https://github.com/kaushalshetty/Structured-Self-Attention).
 - [2017 EMNLP] **Supervised Learning of Universal Sentence Representations from Natural Language Inference Data**, [[paper]](http://aclweb.org/anthology/D17-1070), [[bibtex]](/Bibtex/Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.bib), sources: [[facebookresearch/InferSent]](https://github.com/facebookresearch/InferSent).
@@ -19,3 +20,4 @@
 
 ## Text Summarization
 - [2017 ACL] **Get To The Point: Summarization with Pointer-Generator Networks**, [[paper]](https://arxiv.org/pdf/1704.04368.pdf), [[bibtex]](/Bibtex/Get%20To%20The%20Point%20-%20Summarization%20with%20Pointer-Generator%20Networks.bib), sources: [[abisee/pointer-generator]](https://github.com/abisee/pointer-generator), [[abisee/cnn-dailymail]](https://github.com/abisee/cnn-dailymail), [[JafferWilson/Process-Data-of-CNN-DailyMail]](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail).
+- [2018 ICLR] **Generating Wikipedia by Summarizing Long Sequences**, [[paper]](https://openreview.net/pdf?id=Hyg0vbWC-), [[bibtex]](/Bibtex/Generating%20Wikipedia%20by%20Summarizing%20Long%20Sequences.bib), sources: [[tensorflow/tensor2tensor · wikisum]](https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/data_generators/wikisum).
