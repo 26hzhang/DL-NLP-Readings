@@ -8,4 +8,5 @@
 - **Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences**, [[paper]](https://arxiv.org/pdf/1610.09513v1.pdf), sources: [[Tensorflow-PhasedLSTMCell]](https://www.tensorflow.org/api_docs/python/tf/contrib/rnn/PhasedLSTMCell).
 - [2017 ACML] **Nested LSTMs**, [[paper]](https://arxiv.org/abs/1801.10308), sources: [[hannw/nlstm]](https://github.com/hannw/nlstm), [[titu1994/Nested-LSTM]](https://github.com/titu1994/Nested-LSTM).
 - [2017 ICLR] **Variable Computation in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1611.06188.pdf).
+- [2018 EMNLP] **Simple Recurrent Units for Highly Parallelizable Recurrence**, [[paper]](http://aclweb.org/anthology/D18-1477), [[bibtex]](/Bibtex/Simple%20Recurrent%20Units%20for%20Highly%20Parallelizable%20Recurrence.bib), sources: [[taolei87/sru]](https://github.com/taolei87/sru).
 - [2018 ICLR] **Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1708.06834.pdf), [[homepage]](https://imatge-upc.github.io/skiprnn-2017-telecombcn/), sources: [[imatge-upc/skiprnn-2017-telecombcn]](https://github.com/imatge-upc/skiprnn-2017-telecombcn).
