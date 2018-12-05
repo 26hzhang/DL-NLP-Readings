@@ -18,7 +18,7 @@
 
 ## Error Correcting Output Code (ECOC)
 - [2016 ArXiv] **N-ary Error Correcting Coding Scheme**, [[paper]](https://arxiv.org/pdf/1603.05850.pdf), [[bibtex]](/Bibtex/N-ary%20Error%20Correcting%20Coding%20Scheme.bib).
-- [2018 JIIS] **Experimental Validation for N-ary Error Correcting Output Codes for Ensemble Learning of Deep Neural Networks**, [[paper]](https://link.springer.com/article/10.1007%2Fs10844-018-0516-5), [[bibtex]](/Bibtex/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.bib).
+- [2018 JIIS] **Experimental Validation for N-ary Error Correcting Output Codes for Ensemble Learning of Deep Neural Networks**, [[paper]](/Documents/Papers/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.pdf), [[bibtex]](/Bibtex/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.bib).
 
 ## Unassorted Research Works
 - [2014 EACL] **CCA: Improving Vector Space Word Representations Using Multilingual Correlation**, [[paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-mLO_-o7bAhVKrY8KHQIDBREQFggmMAA&url=http%3A%2F%2Fanthology.aclweb.org%2FE%2FE14%2FE14-1049.pdf&usg=AOvVaw0C2reHtfMC13b2L5FP6z1F).

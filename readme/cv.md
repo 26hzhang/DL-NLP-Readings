@@ -15,9 +15,12 @@
 - [2017 ICCV] **Focal Loss for Dense Object Detection**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf), [[bibtex]](/Bibtex/Focal%20Loss%20for%20Dense%20Object%20Detection.bib), sources: [[unsky/focal-loss]](https://github.com/unsky/focal-loss), [[ailias/Focal-Loss-implement-on-Tensorflow]](https://github.com/ailias/Focal-Loss-implement-on-Tensorflow).
 - [2017 CVPR] **Densely Connected Convolutional Networks**, [[paper]](https://arxiv.org/abs/1608.06993.pdf), sources: [[liuzhuang13/DenseNet]](https://github.com/liuzhuang13/DenseNet).
 - [2018 CVPR] **Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs**, [[paper]](https://arxiv.org/pdf/1803.08035.pdf), [[blog]](https://www.cnblogs.com/wangxiaocvpr/p/8682608.html), sources: [[JudyYe/zero-shot-gcn]](https://github.com/JudyYe/zero-shot-gcn).
+- [2018 ECCV] **DOCK: Detecting Objects by Transferring Common-sense Knowledge**, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Krishna_Kumar_Singh_Transferring_Common-Sense_Knowledge_ECCV_2018_paper.pdf), [[bibtex]](/Bibtex/DOCK%20-%20Detecting%20Objects%20by%20transferring%20Common-sense%20Knowledge.bib), sources: [[kkanshul/dock]](https://github.com/kkanshul/dock).
 
-## Instance/Semantic Segmentation
+## Instance/Semantic Description/Segmentation
+- [2015 IPMI] **Predicting Semantic Descriptions from Medical Images with Convolutional Neural Networks**, [[paper]](/Documents/Papers/Predicting%20Semantic%20Descriptions%20from%20Medical%20Images%20with%20Convolutional%20Neural%20Networks.pdf), [[bibtex]](/Bibtex/Predicting%20Semantic%20Descriptions%20from%20Medical%20Images%20with%20Convolutional%20Neural%20Networks.bib).
 - [2017 CVPR] **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**, [[paper]](https://arxiv.org/pdf/1612.00593.pdf), sources: [[charlesq34/pointnet]](https://github.com/charlesq34/pointnet).
+- [2018 ICML] **Attention-based Deep Multiple Instance Learning**, [[paper]](https://arxiv.org/pdf/1802.04712.pdf), [[bibtex]](/Bibtex/Attention-based%20Deep%20Multiple%20Instance%20Learning.bib), sources: [[AMLab-Amsterdam/AttentionDeepMIL]](https://github.com/AMLab-Amsterdam/AttentionDeepMIL).
 
 ## Image/Video Captioning
 - [2017 PAMI] **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**, [[paper]](https://arxiv.org/abs/1609.06647.pdf), sources: [[tensorflow/models/im2txt]](https://github.com/tensorflow/models/tree/master/research/im2txt).
