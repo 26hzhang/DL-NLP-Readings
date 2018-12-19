@@ -20,6 +20,10 @@
 - [2016 ArXiv] **N-ary Error Correcting Coding Scheme**, [[paper]](https://arxiv.org/pdf/1603.05850.pdf), [[bibtex]](/Bibtex/N-ary%20Error%20Correcting%20Coding%20Scheme.bib).
 - [2018 JIIS] **Experimental Validation for N-ary Error Correcting Output Codes for Ensemble Learning of Deep Neural Networks**, [[paper]](/Documents/Papers/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.pdf), [[bibtex]](/Bibtex/Experimental%20Validation%20for%20N-ary%20Error%20Correcting%20Output%20Codes%20for%20Ensemble%20Learning%20of%20Deep%20Neural%20Networks.bib).
 
+## Recommendation System
+- [2018 ArXiv] **Next Item Recommendation with Self-Attention**, [[paper]](https://arxiv.org/pdf/1808.06414.pdf), [[bibtex]](/Bibtex/Next%20Item%20Recommendation%20with%20Self-Attention.bib).
+- [2018 ICDM] **Self-Attentive Sequential Recommendation**, [[paper]](https://arxiv.org/pdf/1808.09781.pdf), [[bibtex]](/Bibtex/Self-Attentive%20Sequential%20Recommendation.bib), sources: [[kang205/SASRec]](https://github.com/kang205/SASRec).
+
 ## Unassorted Research Works
 - [2014 EACL] **CCA: Improving Vector Space Word Representations Using Multilingual Correlation**, [[paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-mLO_-o7bAhVKrY8KHQIDBREQFggmMAA&url=http%3A%2F%2Fanthology.aclweb.org%2FE%2FE14%2FE14-1049.pdf&usg=AOvVaw0C2reHtfMC13b2L5FP6z1F).
 - [2017 TIML] **Efficient Methods and Hardware for Deep Learning**, [[Ph.D Thesis]](https://stacks.stanford.edu/file/druid:qf934gh3708/EFFICIENT%20METHODS%20AND%20HARDWARE%20FOR%20DEEP%20LEARNING-augmented.pdf), [[Song Han's homepage]](https://mtlsites.mit.edu/songhan/), [[slides]](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf).
