@@ -51,6 +51,7 @@
 - [2021 ArXiv] **All NLP Tasks Are Generation Tasks: A General Pretraining Framework**, [[paper]](https://arxiv.org/pdf/2103.10360.pdf), [[bibtex]](/Bibtex/All%20NLP%20Tasks%20Are%20Generation%20Tasks%20-%20A%20General%20Pretraining%20Framework.bib), sources: [[THUDM/GLM]](https://github.com/THUDM/GLM).
 - [2021 ArXiv] **An Attention Free Transformer**, [[paper]](https://arxiv.org/pdf/2105.14103.pdf), [[bibtex]](/Bibtex/An%20Attention%20Free%20Transformer.bib), sources: [[rish-16/aft-pytorch]](https://github.com/rish-16/aft-pytorch).
 - [2021 NAACL] **INFOXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training**, [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.280.pdf), [[bibtex]](https://www.aclweb.org/anthology/2021.naacl-main.280.bib), sources: [[microsoft/infoxlm]](https://github.com/microsoft/unilm/tree/master/infoxlm).
+- [2021 EMNLP] **UNKs Everywhere: Adapting Multilingual Language Models to New Scripts**, [[paper]](https://arxiv.org/pdf/2012.15562.pdf), [[bibtex]](/Bibtex/UNKs%20Everywhere%20-%20Adapting%20Multilingual%20Language%20Models%20to%20New%20Scripts.bib), sources: [[Adapter-Hub/UNKs_everywhere]](https://github.com/Adapter-Hub/UNKs_everywhere).
 
 ## Language Model Analysis
 - [2019 ACL] **How multilingual is Multilingual BERT?**, [[paper]](https://www.aclweb.org/anthology/P19-1493.pdf), [[bibtex]](https://www.aclweb.org/anthology/P19-1493.bib).

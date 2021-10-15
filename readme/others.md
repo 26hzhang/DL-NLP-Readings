@@ -1,7 +1,6 @@
 # Other Research Works
 
 - Self-supervised Learning resources: [[jason718/awesome-self-supervised-learning]](https://github.com/jason718/awesome-self-supervised-learning).
-- Incremental Learning resources: [[xialeiliu/Awesome-Incremental-Learning]](https://github.com/xialeiliu/Awesome-Incremental-Learning).
 
 ## Neural Tuning Machine
 - [2014 ArXiv] **Neural Turing Machines**, [[paper]](https://arxiv.org/abs/1410.5401.pdf), [[bibtex]](/Bibtex/ntm.bib) sources: [[carpedm20/NTM-tensorflow]](https://github.com/carpedm20/NTM-tensorflow).
@@ -33,16 +32,6 @@
 - [2019 RecSys] **Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches**, [[paper]](https://arxiv.org/pdf/1907.06902.pdf), [[bibtex]](/Bibtex/Are%20We%20Really%20Making%20Much%20Progress%20A%20Worrying%20Analysis%20of%20Recent%20Neural%20Recommendation%20Approaches.bib), sources: [[MaurizioFD/RecSys2019_DeepLearning_Evaluation]](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation).
 - [2021 SIGIR] **Causal Intervention for Leveraging Popularity Bias in Recommendation**, [[paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462875), [[bibtex]](/Bibtex/Causal%20Intervention%20for%20Leveraging%20Popularity%20Bias%20in%20Recommendation.bib), sources: [[zyang1580/PDA]](https://github.com/zyang1580/PDA).
 - [2021 ArXiv] **SELFCF: A Simple Framework for Self-supervised Collaborative Filtering**, [[paper]](https://arxiv.org/pdf/2107.03019.pdf), [[bibtex]](/Bibtex/SELFCF%20-%20A%20Simple%20Framework%20for%20Self-supervised%20Collaborative%20Filtering.bib), sources: [[enoche/SelfCF]](https://github.com/enoche/SelfCF).
-
-## Incremental Learning / Lifelong learning
-- GitHub page: [[xialeiliu/Awesome-Incremental-Learning]](https://github.com/xialeiliu/Awesome-Incremental-Learning).
-- [2016 PNAS] **Overcoming Catastrophic Forgetting in Neural Networks**, [[paper]](https://www.pnas.org/content/pnas/114/13/3521.full.pdf), [[bibtex]](/Bibtex/Overcoming%20Catastrophic%20Forgetting%20in%20Neural%20Networks.bib), [[supplementary]](https://www.pnas.org/content/pnas/suppl/2017/03/14/1611835114.DCSupplemental/pnas.201611835SI.pdf), sources: [[ariseff/overcoming-catastrophic]](https://github.com/ariseff/overcoming-catastrophic), [[AntiAegis/Overcoming-Catastrophic-Forgetting]](https://github.com/AntiAegis/Overcoming-Catastrophic-Forgetting).
-- [2017 NIPS] **Overcoming Catastrophic Forgetting by Incremental Moment Matching**, [[paper]](https://papers.nips.cc/paper/7051-overcoming-catastrophic-forgetting-by-incremental-moment-matching.pdf), [[bibtex]](/Bibtex/Overcoming%20Catastrophic%20Forgetting%20by%20Incremental%20Moment%20Matching.bib), sources: [[btjhjeon/IMM_tensorflow]](https://github.com/btjhjeon/IMM_tensorflow).
-- [2018 ArXiv] **Overcoming Catastrophic Forgetting by Soft Parameter Pruning**, [[paper]](https://arxiv.org/pdf/1812.01640.pdf), [[bibtex]](/Bibtex/Overcoming%20Catastrophic%20Forgetting%20by%20Soft%20Parameter%20Pruning.bib), sources: [[lehaifeng/Learning_by_memory]](https://github.com/lehaifeng/Learning_by_memory).
-- [2018 ICML] **Overcoming Catastrophic Forgetting with Hard Attention to the Task**, [[paper]](http://proceedings.mlr.press/v80/serra18a/serra18a.pdf), [[bibtex]](/Bibtex/Overcoming%20Catastrophic%20Forgetting%20with%20Hard%20Attention%20to%20the%20Task.bib), [[supplementary]](http://proceedings.mlr.press/v80/serra18a/serra18a-supp.pdf), sources: [[joansj/hat]](https://github.com/joansj/hat), 
-- [2019 ICLR] **Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation**, [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX), [[bibtex]](/Bibtex/Overcoming%20Catastrophic%20Forgetting%20for%20Continual%20Learning%20via%20Model%20Adaptation.bib), sources: [[morning-dews/PGMA_tensorflow]](https://github.com/morning-dews/PGMA_tensorflow).
-- [2019 NAACL] **Overcoming Catastrophic Forgetting During Domain Adaptation of Neural Machine Translation**, [[paper]](https://www.aclweb.org/anthology/N19-1209), [[bibtex]](/Bibtex/Overcoming%20Catastrophic%20Forgetting%20During%20Domain%20Adaptation%20of%20Neural%20Machine%20Translation.bib).
-- [2019 ICML] **Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting**, [[paper]](http://proceedings.mlr.press/v97/li19m/li19m.pdf), [[bibtex]](/Bibtex/Learn%20to%20Grow%20-%20A%20Continual%20Structure%20Learning%20Framework%20for%20Overcoming%20Catastrophic%20Forgetting.bib), [[supplementary]](http://proceedings.mlr.press/v97/li19m/li19m-supp.pdf), sources: [[xilaili/LearnToGrow]](https://github.com/xilaili/LearnToGrow).
 
 ## Network Architecture Search
 - [2019 ICLR] **DARTS: Differentiable Architecture Search**, [[paper]](https://openreview.net/pdf?id=S1eYHoC5FX), [[bibtex]](/Bibtex/DARTS%20-%20Differentiable%20Architecture%20Search.bib), [[homepage]](https://ai.google/research/pubs/pub47800/), sources: [[quark0/darts]](https://github.com/quark0/darts).

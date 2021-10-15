@@ -26,6 +26,8 @@
 - [2020 ArXiv] **Out-of-Distribution Generalization via Risk Extrapolation**, [[paper]](https://arxiv.org/pdf/2003.00688.pdf), [[bibtex]](/Bibtex/Out-of-Distribution%20Generalization%20via%20Risk%20Extrapolation.bib), sources: [[capybaralet/REx_code_release]](https://github.com/capybaralet/REx_code_release).
 - [2020 ArXiv] **Unshuffling Data for Improved Generalization**, [[paper]](https://arxiv.org/pdf/2002.11894.pdf), [[bibtex]](/Bibtex/Unshuffling%20Data%20for%20Improved%20Generalization.bib).
 - [2020 ICLR] **Your classifier is secretly an energy based model and you should treat it like one**, [[paper]](https://openreview.net/pdf?id=Hkxzx0NtDB), [[bibtex]](/Bibtex/Your%20classifier%20is%20secretly%20an%20energy%20based%20model%20and%20you%20should%20treat%20it%20like%20one.bib), sources: [[wgrathwohl/JEM]](https://github.com/wgrathwohl/JEM).
+- [2021 ICML] **Improved OOD Generalization via Adversarial Training and Pre-training**, [[paper]](http://proceedings.mlr.press/v139/yi21a/yi21a.pdf), [[bibtex]](/Bibtex/Improved%20OOD%20Generalization%20via%20Adversarial%20Training%20and%20Pre-training.bib), [[supplementary]](http://proceedings.mlr.press/v139/yi21a/yi21a-supp.pdf).
+- [2021 ArXiv] **The Evolution of Out-of-Distribution Robustness Throughout Fine-Tuning**, [[paper]](https://arxiv.org/pdf/2106.15831.pdf), [[bibtex]](/Bibtex/The%20Evolution%20of%20Out-of-Distribution%20Robustness%20Throughout%20Fine-Tuning.bib).
 
 ## Debiasing
 - [2020 ICML] **Learning De-biased Representations with Biased Representations**, [[paper]](http://proceedings.mlr.press/v119/bahng20a/bahng20a.pdf), [[bibtex]](/Bibtex/Learning%20De-biased%20Representations%20with%20Biased%20Representations.bib), sources: [[clovaai/rebias]](https://github.com/clovaai/rebias).
