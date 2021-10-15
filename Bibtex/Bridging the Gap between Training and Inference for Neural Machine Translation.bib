@@ -1,0 +1,17 @@
+@inproceedings{zhang-etal-2019-bridging,
+    title = "Bridging the Gap between Training and Inference for Neural Machine Translation",
+    author = "Zhang, Wen  and
+      Feng, Yang  and
+      Meng, Fandong  and
+      You, Di  and
+      Liu, Qun",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1426",
+    doi = "10.18653/v1/P19-1426",
+    pages = "4334--4343",
+    abstract = "Neural Machine Translation (NMT) generates target words sequentially in the way of predicting the next word conditioned on the context words. At training time, it predicts with the ground truth words as context while at inference it has to generate the entire sequence from scratch. This discrepancy of the fed context leads to error accumulation among the way. Furthermore, word-level training requires strict matching between the generated sequence and the ground truth sequence which leads to overcorrection over different but reasonable translations. In this paper, we address these issues by sampling context words not only from the ground truth sequence but also from the predicted sequence by the model during training, where the predicted sequence is selected with a sentence-level optimum. Experiment results on Chinese-{\textgreater}English and WMT{'}14 English-{\textgreater}German translation tasks demonstrate that our approach can achieve significant improvements on multiple datasets.",
+}
