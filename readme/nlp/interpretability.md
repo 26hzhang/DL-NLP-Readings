@@ -1,6 +1,4 @@
-# Interpretability, Disambiguation, Anaphora and Discourse
-
-> Including **Interpretability**, **Disambiguation**, **Anaphora**, **Discourse Relation Representation** and etc.
+# Interpretability and Disambiguation
 
 ## Interpretability
 - [2012 COLING] **Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding**, [[paper]](https://www.aclweb.org/anthology/C12-1118.pdf), [[bibtex]](https://www.aclweb.org/anthology/C12-1118.bib), [[homepage]](http://www.cs.cmu.edu/~bmurphy/NNSE/).

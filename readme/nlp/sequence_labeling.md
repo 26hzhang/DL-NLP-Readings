@@ -1,6 +1,6 @@
 # Sequence Labeling
 
-> Including **Part-of-Speech (POS) Tagging**, **Chunking**, **Named Entity Recognition (NER)**, **Semantic Role Labeling (SRL)**, **Punctuation Restoration**, **Sentence Segmentation**, **Dependency Parsing**, **Relation Extraction**, **Information Extraction**, **Phrase Extraction**, **Entity Linking**, **Discourse Relation** and etc.
+> Including **Part-of-Speech Tagging**, **Chunking**, **Named Entity Recognition**, **Semantic Role Labeling (SRL)**, **Punctuation Restoration**, **Sentence Segmentation**, **Dependency Parsing**, **Relation Extraction**, **Information Extraction**, **Phrase Extraction**, **Entity Linking**, **Discourse Relation**, **Information Retrieval** and etc.
 
 ## Datasets
 - [2002 CoNLL] **Introduction to the CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition**, [[paper]](http://www.aclweb.org/anthology/W02-2024), [[bibtex]](/Bibtex/Introduction%20to%20the%20CoNLL-2002%20Shared%20Task%20--%20Language-Independent%20Named%20Entity%20Recognition.bib), [[dataset]](https://www.clips.uantwerpen.be/conll2002/ner/).
@@ -139,6 +139,7 @@
 - [2020 ACL] **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.141.pdf), [[bibtex]](https://www.aclweb.org/anthology/2020.acl-main.141.bib), sources: [[nanguoshun/LSR]](https://github.com/nanguoshun/LSR).
 - [2020 ACL] **Generalizing Natural Language Analysis through Span-relation Representations**, [[paper]](https://aclanthology.org/2020.acl-main.192.pdf), [[bibtex]](/Bibtex/Generalizing%20Natural%20Language%20Analysis%20through%20Span-relation%20Representations.bib), sources: [[neulab/cmu-multinlp]](https://github.com/neulab/cmu-multinlp).
 - [2021 ArXiv] **Mention-centered Graph Neural Network for Document-level Relation Extraction**, [[paper]](https://arxiv.org/pdf/2103.08200.pdf), [[bibtex]](/Bibtex/Mention-centered%20Graph%20Neural%20Network%20for%20Document-level%20Relation%20Extraction.bib), sources: [[thunlp/DocRED]](https://github.com/thunlp/DocRED).
+- [2021 NAACL] **Document-Level Event Argument Extraction by Conditional Generation**, [[paper]](https://aclanthology.org/2021.naacl-main.69.pdf), [[bibtex]](/Bibtex/Document-Level%20Event%20Argument%20Extraction%20by%20Conditional%20Generation.bib), sources: [[raspberryice/gen-arg]](https://github.com/raspberryice/gen-arg).
 - [2021 ACL] **Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction**, [[paper]](https://aclanthology.org/2021.acl-short.126.pdf), [[bibtex]](/Bibtex/Three%20Sentences%20Are%20All%20You%20Need%20-%20Local%20Path%20Enhanced%20Document%20Relation%20Extraction.bib), sources: [[AndrewZhe/Three-Sentences-Are-All-You-Need]](https://github.com/AndrewZhe/Three-Sentences-Are-All-You-Need).
 - [2021 ACL] **CIL: Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction**, [[paper]](https://aclanthology.org/2021.acl-long.483.pdf), [[bibtex]](/Bibtex/CIL%20-%20Contrastive%20Instance%20Learning%20Framework%20for%20Distantly%20Supervised%20Relation%20Extraction.bib).
 - [2021 EMNLP] **Document-level Entity-based Extraction as Template Generation**, [[paper]](https://arxiv.org/pdf/2109.04901.pdf), [[bibtex]](/Bibtex/Document-level%20Entity-based%20Extraction%20as%20Template%20Generation.bib), sources: [[PlusLabNLP/TempGen]](https://github.com/PlusLabNLP/TempGen).
@@ -161,3 +162,6 @@
 
 ## Key Phrase Extraction
 - [2021 KDD] **UCPhrase: Unsupervised Context-aware Quality Phrase Tagging**, [[paper]](https://arxiv.org/pdf/2105.14078.pdf), [[bibtex]](/Bibtex/UCPhrase%20-%20Unsupervised%20Context-aware%20Quality%20Phrase%20Tagging.bib), sources: [[xgeric/UCPhrase-exp]](https://github.com/xgeric/UCPhrase-exp).
+
+## Information Retrieval
+- [2020 SIGIR] **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**, [[paper]](https://arxiv.org/pdf/2004.12832.pdf), [[bibtex]](/Bibtex/ColBERT%20-%20Efficient%20and%20Effective%20Passage%20Search%20via%20Contextualized%20Late%20Interaction%20over%20BERT.bib), sources: [[stanford-futuredata/ColBERT]](https://github.com/stanford-futuredata/ColBERT).

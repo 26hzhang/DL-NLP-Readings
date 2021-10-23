@@ -1,4 +1,4 @@
-# Video Retrieval and Visual Grounding/Localization
+# Visual Grounding/Localization
 
 - Resources: [[yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval]](https://github.com/yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval).
 
@@ -60,6 +60,8 @@
 - [2021 TPAMI] **Natural Language Video Localization: A Revisit in Span-based Question Answering Framework**, [[paper]](https://arxiv.org/pdf/2102.13558.pdf), [[bibtex]](/Bibtex/Natural%20Language%20Video%20Localization%20-%20A%20Revisit%20in%20Span-based%20Question%20Answering%20Framework.bib).
 - [2021 CVPR] **Context-aware Biaffine Localizing Network for Temporal Sentence Grounding**, [[paper]](https://arxiv.org/pdf/2103.11555.pdf), [[bibtex]](/Bibtex/Context-aware%20Biaffine%20Localizing%20Network%20for%20Temporal%20Sentence%20Grounding.bib), sources: [[liudaizong/CBLN]](https://github.com/liudaizong/CBLN).
 - [2021 CVPR] **Interventional Video Grounding with Dual Contrastive Learning**, [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.pdf), [[bibtex]](/Bibtex/Interventional%20Video%20Grounding%20with%20Dual%20Contrastive%20Learning.bib), [[supplementary]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Nan_Interventional_Video_Grounding_CVPR_2021_supplemental.pdf), sources: [[nanguoshun/IVG]](https://github.com/nanguoshun/IVG).
+- [2021 CVPR] **Cascaded Prediction Network via Segment Tree for Temporal Video Grounding**, [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Cascaded_Prediction_Network_via_Segment_Tree_for_Temporal_Video_Grounding_CVPR_2021_paper.pdf), [[bibtex]](/Bibtex/Cascaded%20Prediction%20Network%20via%20Segment%20Tree%20for%20Temporal%20Video%20Grounding.bib), [[supplementary]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhao_Cascaded_Prediction_Network_CVPR_2021_supplemental.pdf).
+- [2021 CVPR] **Multi-stage Aggregated Transformer Network for Temporal Language Localization in Videos**, [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Multi-Stage_Aggregated_Transformer_Network_for_Temporal_Language_Localization_in_Videos_CVPR_2021_paper.pdf), [[bibtex]](/Bibtex/Multi-stage%20Aggregated%20Transformer%20Network%20for%20Temporal%20Language%20Localization%20in%20Videos.bib).
 - [2021 ACL] **Parallel Attention Network with Sequence Matching for Video Grounding**, [[paper]](https://aclanthology.org/2021.findings-acl.69.pdf), [[bibtex]](/Bibtex/Parallel%20Attention%20Network%20with%20Sequence%20Matching%20for%20Video%20Grounding.bib), sources: [[IsaacChanghau/SeqPAN]](https://github.com/IsaacChanghau/SeqPAN).
 - [2021 EMNLP] **Adaptive Proposal Generation Network for Temporal Sentence Localization in Videos**, [[paper]](https://arxiv.org/pdf/2109.06398.pdf), [[bibtex]](/Bibtex/Adaptive%20Proposal%20Generation%20Network%20for%20Temporal%20Sentence%20Localization%20in%20Videos.bib).
 - [2021 EMNLP] **Natural Language Video Localization with Learnable Moment Proposals**, [[paper]](https://arxiv.org/pdf/2109.10678.pdf), [[bibtex]](/Bibtex/Natural%20Language%20Video%20Localization%20with%20Learnable%20Moment%20Proposals.bib).
@@ -116,3 +118,6 @@
 
 ### Image based Temporal Video Grounding
 - [2019 IJCAI] **Localizing Unseen Activities in Video via Image Query**, [[paper]](https://www.ijcai.org/Proceedings/2019/0610.pdf), [[bibtex]](/Bibtex/Localizing%20Unseen%20Activities%20in%20Video%20via%20Image%20Query.bib).
+
+### Sign Language Localization
+- [2021 CVPR] **Read and Attend: Temporal Localisation in Sign Language Videos**, [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Varol_Read_and_Attend_Temporal_Localisation_in_Sign_Language_Videos_CVPR_2021_paper.pdf), [[bibtex]](/Bibtex/Read%20and%20Attend%20-%20Temporal%20Localisation%20in%20Sign%20Language%20Videos.bib), [[supplementary]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Varol_Read_and_Attend_CVPR_2021_supplemental.pdf), [[homepage]](https://www.robots.ox.ac.uk/~vgg/research/bslattend/).

@@ -1,14 +1,12 @@
 # My Reading Lists of Machine Learning, Natural Language Processing and etc.
 
-> Keeping update and appending new items...
-
 ## Table of Contents
 1. Natural Language Processing
     1. [Language Modeling and Analysis](/readme/nlp/language_modeling.md)
     2. [Char/Word Embeddings, Sentence Representation and Natural Language Understanding](/readme/nlp/emb_sent_nlu.md)
     3. [Machine Translation and Language Transfer, Generation, Summarization and Dialogue](/readme/nlp/machine_translation.md)
     4. [Machine Comprehension and Question Answering](/readme/nlp/machine_comprehension.md)
-    5. [Sequence Labeling (POS, NER, SRL, RE, Parsing, EL, Coref, Discourse, etc)](/readme/nlp/sequence_labeling.md)
+    5. [Sequence Labeling (POS, NER, SRL, RE, IE, IR, Parsing, EL, Coref, Discourse, etc)](/readme/nlp/sequence_labeling.md)
     6. [Sentiment Analysis and Text Classification](/readme/nlp/classification.md)
     7. [Interpretability and Disambiguation](/readme/nlp/interpretability.md)
     8. [Other NLP Research Works](/readme/nlp/others.md)
