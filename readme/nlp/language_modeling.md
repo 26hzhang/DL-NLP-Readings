@@ -52,6 +52,8 @@
 - [2021 ArXiv] **An Attention Free Transformer**, [[paper]](https://arxiv.org/pdf/2105.14103.pdf), [[bibtex]](/Bibtex/An%20Attention%20Free%20Transformer.bib), sources: [[rish-16/aft-pytorch]](https://github.com/rish-16/aft-pytorch).
 - [2021 NAACL] **INFOXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training**, [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.280.pdf), [[bibtex]](https://www.aclweb.org/anthology/2021.naacl-main.280.bib), sources: [[microsoft/infoxlm]](https://github.com/microsoft/unilm/tree/master/infoxlm).
 - [2021 EMNLP] **UNKs Everywhere: Adapting Multilingual Language Models to New Scripts**, [[paper]](https://arxiv.org/pdf/2012.15562.pdf), [[bibtex]](/Bibtex/UNKs%20Everywhere%20-%20Adapting%20Multilingual%20Language%20Models%20to%20New%20Scripts.bib), sources: [[Adapter-Hub/UNKs_everywhere]](https://github.com/Adapter-Hub/UNKs_everywhere).
+- [2022 ArXiv] **data2vec: A General Framework for Self-supervised Learning in Speech, Vision
+and Language**, [[paper]](https://scontent.fsin9-1.fna.fbcdn.net/v/t39.8562-6/271974914_483120576492438_4239522333319653600_n.pdf?_nc_cat=107&ccb=1-5&_nc_sid=ae5e01&_nc_ohc=9HtSivaeiYUAX89Q4Lm&_nc_ht=scontent.fsin9-1.fna&oh=00_AT9j5-y2GPSqcYAExjnbRtoxZdVkbKjDXbRx7_wEQrzOdw&oe=61FBE0D1), [[bibtex]](/Bibtex/data2vec.bib), sources: [[pytorch/fairseq/data2vec]](https://github.com/pytorch/fairseq/tree/main/examples/data2vec).
 
 ## Language Model Analysis
 - [2019 ACL] **How multilingual is Multilingual BERT?**, [[paper]](https://www.aclweb.org/anthology/P19-1493.pdf), [[bibtex]](https://www.aclweb.org/anthology/P19-1493.bib).

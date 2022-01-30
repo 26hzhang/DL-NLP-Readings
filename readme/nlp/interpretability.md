@@ -10,6 +10,7 @@
 - [2018 AAAI] **SPINE: SParse Interpretable Neural Embeddings**, [[paper]](https://arxiv.org/pdf/1711.08792.pdf), [[bibtex]](/Bibtex/SPINE.bib), sources: [[harsh19/SPINE]](https://github.com/harsh19/SPINE).
 - [2018 ACL] **Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder**, [[paper]](https://www.aclweb.org/anthology/P18-1200.pdf), [[bibtex]](/Bibtex/Interpretable%20and%20Compositional%20Relation%20Learning%20by%20Joint%20Training%20with%20an%20Autoencoder.bib), sources: [[tianran/glimvec]](https://github.com/tianran/glimvec).
 - [2018 TASLP] **Semantic Structure and Interpretability of Word Embeddings**, [[paper]](https://arxiv.org/pdf/1711.00331.pdf), [[bibtex]](/Bibtex/Semantic%20Structure%20and%20Interpretability%20of%20Word%20Embeddings.bib).
+- [2020 ICLR] **Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models**, [[paper]](https://openreview.net/pdf?id=BkxRRkSKwr), [[bibtex]](/Bibtex/Towards%20Hierarchical%20Importance%20Attribution%20-%20Explaining%20Compositional%20Semantics%20for%20Neural%20Sequence%20Models.bib), sources: [[INK-USC/hierarchical-explanation-neural-sequence-models]](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models).
 
 ## Disambiguation
 - [2015 VSM] **A Simple Word Embedding Model for Lexical Substitution**, [[paper]](https://www.aclweb.org/anthology/W15-1501.pdf), [[bibtex]](https://www.aclweb.org/anthology/W15-1501.bib), sources: [[orenmel/lexsub]](https://github.com/orenmel/lexsub).
