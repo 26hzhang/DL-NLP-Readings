@@ -75,6 +75,7 @@
 - [2021 ArXiv] **VGNMN: Video-grounded Neural Module Network to Video-Grounded Language Tasks**, [[paper]](https://arxiv.org/pdf/2104.07921.pdf), [[bibtex]](/Bibtex/VGNMN%20-%20Video-grounded%20Neural%20Module%20Network%20to%20Video-Grounded%20Language%20Tasks.bib).
 - [2021 ArXiv] **End-to-end Multi-modal Video Temporal Grounding**, [[paper]](https://arxiv.org/pdf/2107.05624.pdf), [[bibtex]](/Bibtex/End-to-end%20Multi-modal%20Video%20Temporal%20Grounding.bib).
 - [2021 ArXiv] **QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries**, [[paper]](https://arxiv.org/pdf/2107.09609.pdf), [[bibtex]](/Bibtex/QVHighlights%20-%20Detecting%20Moments%20and%20Highlights%20in%20Videos%20via%20Natural%20Language%20Queries.bib), sources: [[jayleicn/moment_detr]](https://github.com/jayleicn/moment_detr).
+- [2021 ArXiv] **Hierarchical Deep Residual Reasoning for Temporal Moment Localization**, [[paper]](https://arxiv.org/pdf/2111.00417.pdf), [[bibtex]](/Bibtex/Hierarchical%20Deep%20Residual%20Reasoning%20for%20Temporal%20Moment%20Localization.bib).
 
 ## Weakly/Self/Semi/Un- Supervised Temporal Video Grounding
 - [2015 ICCV] **Weakly-Supervised Alignment of Video With Text**, [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Bojanowski_Weakly-Supervised_Alignment_of_ICCV_2015_paper.pdf), [[bibtex]](/Bibtex/Weakly-Supervised%20Alignment%20of%20Video%20With%20Text.bib).
