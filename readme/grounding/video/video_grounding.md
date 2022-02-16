@@ -1,6 +1,7 @@
 # Visual Grounding/Localization
 
 - Resources: [[yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval]](https://github.com/yawenzeng/Awesome-Cross-Modal-Video-Moment-Retrieval).
+- Resources: [[Soldelli/Awesome-Temporal-Language-Grounding-in-Videos]](https://github.com/Soldelli/Awesome-Temporal-Language-Grounding-in-Videos).
 
 ## Survey
 - [2020 ICCST] **A Survey of Temporal Activity Localization via Language in Untrimmed Videos**, [[paper]](/Documents/Papers/A%20Survey%20of%20Temporal%20Activity%20Localization%20via%20Language%20in%20Untrimmed%20Videos.pdf), [[bibtex]](/Bibtex/A%20Survey%20of%20Temporal%20Activity%20Localization%20via%20Language%20in%20Untrimmed%20Videos.bib).
