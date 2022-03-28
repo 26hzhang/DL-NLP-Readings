@@ -1,4 +1,4 @@
-# Sequence Labeling
+# Sequence Labeling and Information Retrieval
 
 > Including **Part-of-Speech Tagging**, **Chunking**, **Named Entity Recognition**, **Semantic Role Labeling (SRL)**, **Punctuation Restoration**, **Sentence Segmentation**, **Dependency Parsing**, **Relation Extraction**, **Information Extraction**, **Phrase Extraction**, **Entity Linking**, **Discourse Relation**, **Information Retrieval** and etc.
 
@@ -147,6 +147,9 @@
 
 ## Entity Linking
 - [2019 ACL] **Boosting Entity Linking Performance by Leveraging Unlabeled Documents**, [[paper]](https://www.aclweb.org/anthology/P19-1187.pdf), [[bibtex]](/Bibtex/Boosting%20Entity%20Linking%20Performance%20by%20Leveraging%20Unlabeled%20Documents.bib), sources: [[lephong/wnel]](https://github.com/lephong/wnel).
+
+## Entity Resolution
+- [2021 AAAI] **Improving the Efficiency and Effectiveness for BERT-based Entity Resolution**, [[paper]](/Documents/Papers/Improving%20the%20Efficiency%20and%20Effectiveness%20for%20BERT-based%20Entity%20Resolution.pdf), [[bibtex]](/Bibtex/Improving%20the%20Efficiency%20and%20Effectiveness%20for%20BERT-based%20Entity%20Resolution.bib).
 
 ## Discourse Relation Representation and Identification
 - [2017 EMNLP] **Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification**, [[paper]](http://aclweb.org/anthology/D17-1134), [[bibtex]](/Bibtex/Multi-task%20Attention-based%20Neural%20Networks%20for%20Implicit%20Discourse%20Relationship%20Representation%20and%20Identification.bib).
