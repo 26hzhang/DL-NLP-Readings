@@ -6,3 +6,6 @@
 
 ## Crowd Counting
 - [2021 TPAMI] **Locality-Aware Crowd Counting**, [[paper]](/Documents/Papers/Locality-Aware%20Crowd%20Counting.pdf), [[bibtex]](/Bibtex/Locality-Aware%20Crowd%20Counting.bib).
+
+## Synchronization in CV
+- [2021 CVPR] **Quantum Permutation Synchronization**, [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Birdal_Quantum_Permutation_Synchronization_CVPR_2021_paper.pdf), [[bibtex]](/Bibtex/Quantum%20Permutation%20Synchronization.bib).

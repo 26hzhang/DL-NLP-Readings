@@ -107,6 +107,7 @@
 - [2021 WWW] **Effective Named Entity Recognition with Boundary-aware Bidirectional Neural Networks**, [[paper]](/Documents/Papers/Effective%20Named%20Entity%20Recognition%20with%20Boundary-aware%20Bidirectional%20Neural%20Networks.pdf), [[bibtex]](/Bibtex/Effective%20Named%20Entity%20Recognition%20with%20Boundary-aware%20Bidirectional%20Neural%20Networks.bib).
 - [2021 ICLR] **Empirical Analysis of Unlabeled Entity Problem in Named Entity Recognition**, [[paper]](https://openreview.net/pdf?id=5jRVa89sZk), [[bibtex]](/Bibtex/Empirical%20Analysis%20of%20Unlabeled%20Entity%20Problem%20in%20Named%20Entity%20Recognition.bib), sources: [[LeePleased/NegSampling-NER]](https://github.com/LeePleased/NegSampling-NER).
 - [2021 TKDE] **Neural Named Entity Boundary Detection**, [[paper]](/Documents/Papers/Neural%20Named%20Entity%20Boundary%20Detection.pdf), [[bibtex]](/Bibtex/Neural%20Named%20Entity%20Boundary%20Detection.bib).
+- [2022 AAAI] **Unified Named Entity Recognition as Word-Word Relation Classification**, [[paper]](https://arxiv.org/pdf/2112.10070.pdf), [[bibtex]](/Bibtex/Unified%20Named%20Entity%20Recognition%20as%20Word-Word%20Relation%20Classification.bib), sources: [[ljynlp/W2NER]](https://github.com/ljynlp/W2NER).
 
 ## Semantic Role Labeling (SRL)
 - [2015 ACL] **End-to-end Learning of Semantic Role Labeling using Recurrent Neural Networks**, [[paper]](http://www.aclweb.org/anthology/P15-1109), [[bibtex]](/Bibtex/End-to-end%20Learning%20of%20Semantic%20Role%20Labeling%20using%20Recurrent%20Neural%20Networks.bib) sources: [[sanjaymeena/semantic_role_labeling_deep_learning]](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning), [[hiroki13/neural-semantic-role-labeler]](https://github.com/hiroki13/neural-semantic-role-labeler).
@@ -150,6 +151,9 @@
 
 ## Entity Resolution
 - [2021 AAAI] **Improving the Efficiency and Effectiveness for BERT-based Entity Resolution**, [[paper]](/Documents/Papers/Improving%20the%20Efficiency%20and%20Effectiveness%20for%20BERT-based%20Entity%20Resolution.pdf), [[bibtex]](/Bibtex/Improving%20the%20Efficiency%20and%20Effectiveness%20for%20BERT-based%20Entity%20Resolution.bib).
+
+## Event Augment Extraction
+- [2022 ACL] **Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction**, [[paper]](https://arxiv.org/pdf/2202.12109.pdf), [[bibtex]](/Bibtex/Prompt%20for%20Extraction?%20PAIE%20-%20Prompting%20Argument%20Interaction%20for%20Event%20Argument%20Extraction.bib), sources: [[mayubo2333/PAIE]](https://github.com/mayubo2333/PAIE).
 
 ## Discourse Relation Representation and Identification
 - [2017 EMNLP] **Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification**, [[paper]](http://aclweb.org/anthology/D17-1134), [[bibtex]](/Bibtex/Multi-task%20Attention-based%20Neural%20Networks%20for%20Implicit%20Discourse%20Relationship%20Representation%20and%20Identification.bib).
